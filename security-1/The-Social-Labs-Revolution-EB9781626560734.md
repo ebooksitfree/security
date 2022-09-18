@@ -1,0 +1,88 @@
+![Cover image for The Social Labs Revolution](https://imgdetail.ebookreading.net/cover/cover/security/EB9781626560734.jpg)
+
+[The Social Labs Revolution](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_1.html "The Social Labs Revolution")
+====================================================================================================================
+
+Author : [Zaid Hassan](https://ebookreading.net/search/author/Zaid+Hassan)
+
+Release Date : 2014/02/01
+
+ISBN : 9781626560734
+
+Topic : [Security](https://ebookreading.net/search/category/security)
+
+Book Description
+-----------------
+
+Current responses to our most pressing societal challenges—from poverty to ethnic conflict to climate change—are not working. These problems are incredibly dynamic and complex, involving an ever-shifting array of factors, actors, and circumstances. They demand a highly fluid and adaptive approach, yet we address them by devising fixed, long-term plans. Social labs, says Zaid Hassan, are a dramatically more effective response.   Social labs bring together a diverse a group of stakeholders—not to create yet another five-year plan but to develop a portfolio of prototype solutions, test those solutions in the real world, use the data to further refine them, and test them again. Hassan builds on a decade of experience—as well as drawing from cutting-edge research in complexity science, networking theory, and sociology—to explain the core principles and daily functioning of social labs, using examples of pioneering labs from around the world. He offers a new generation of problem solvers an effective, practical, and exciting new vision and guide.              
+Table of Contents
+-----------------
+
+1. [Cover Page](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_1.html)
+1. [Title Page](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_4.html)
+1. [Copyright Page](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_5.html)
+1. [Dedication](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_6.html)
+1. [Contents](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_8.html)
+1. [Foreword](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_10.html)
+1. [Preface](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_11.html)
+1. [Introduction](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_0.html)
+    1. [What Does It Mean to Be Winning?](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_0.html#introlev1)
+    1. [Playing in the World Cup](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_0.html#introlev2)
+    1. [The Scale-Free Laboratory](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_0.html#introlev3)
+    1. [A Cascade of Social Labs](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_0.html#introlev4)
+1. [1 The perfect Storm of complexity](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_12.html)
+    1. [What Is a Complex Social Challenge?](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_12.html#ch01lev2)
+    1. [The Futile Optimism of Optimization](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_12.html#ch01lev3)
+    1. [Yemen as a Natural Experiment](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_12.html#ch01lev4)
+    1. [Too Big to Fail, Too Big to Jail](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_12.html#ch01lev5)
+1. [2 The Strategic vacuum](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_13.html)
+    1. [Business as Usual](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_13.html#ch02lev1)
+    1. [The Expert-Planning Paradigm](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_13.html#ch02lev2)
+    1. [Flying Autopilot in the Perfect Storm](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_13.html#ch02lev3)
+    1. [A Lack of Genuine Strategic Intent](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_13.html#ch02lev4)
+1. [3 The Sustainable Food lab: From Farm to Fork](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_14.html)
+    1. [The Race to the Bottom](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_14.html#ch03lev1)
+    1. [The Multiple and Conflicting Logics of Food](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_14.html#ch03lev2)
+    1. [What Is Sustainable?](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_14.html#ch03lev3)
+    1. [Systemic Spread Betting](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_14.html#ch03lev4)
+1. [4 The bhavishya lab: The Silent emergency](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_15.html)
+    1. [The Bhavishya Alliance](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_15.html#ch04lev1)
+    1. [The Moon Shot](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_15.html#ch04lev2)
+    1. [Movement Requires Friction](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_15.html#ch04lev3)
+    1. [Fail Early, Fail Often](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_15.html#ch04lev4)
+    1. [Business as Usual and Its Radical Refusals](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_15.html#ch04lev5)
+1. [5 The new ecologies of capital](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_16.html)
+    1. [The End of the Beginning](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_16.html#ch05lev1)
+    1. [Emerging Forms of Capital and Preventing Collapse](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_16.html#ch05lev2)
+    1. [The Dumbest Idea in the World](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_16.html#ch05lev3)
+    1. [More Rainforests, Fewer Plantations](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_16.html#ch05lev4)
+1. [6 The Rise of the agilistas](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_17.html)
+    1. [The Practical Wisdom of Social Labs](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_17.html#ch06lev1)
+    1. [Starting with Current Realities](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_17.html#ch06lev2)
+    1. [Events Rupture Dispositions](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_17.html#ch06lev3)
+    1. [The Right Stuff](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_17.html#ch06lev4)
+1. [7 Steps Toward a Theory of Systemic action](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_18.html)
+    1. [First Requirement: Constitute a Diverse Team](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_18.html#ch07lev1)
+    1. [Second Requirement: Design an Iterative Process](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_18.html#ch07lev2)
+    1. [Third Requirement: Actively Create Systemic Spaces](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_18.html#ch07lev3)
+1. [8 Starting a Social lab: Seven how-Tos](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_19.html)
+    1. [Strategic versus Tactical Thinking](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_19.html#ch08lev1)
+    1. [#1 Clarify Intention](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_19.html#ch08lev2)
+    1. [#2 Broadcast an Invitation](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_19.html#ch08lev3)
+    1. [#3 Work Your Networks](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_19.html#ch08lev4)
+    1. [#4 Recruit Willing People](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_19.html#ch08lev5)
+    1. [#5 Set Direction](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_19.html#ch08lev6)
+    1. [#6 Design in Stacks](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_19.html#ch08lev7)
+    1. [#7 Find Cadence](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_19.html#ch08lev8)
+1. [Conclusion Next-Generation Social Labs](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_20.html)
+    1. [Averting the Zombie Apocalypse](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_20.html#conclusionlev1)
+    1. [State Collapse: A Stabilization Strategy](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_20.html#conclusionlev2)
+    1. [Climate Change: A Mitigation Strategy](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_20.html#conclusionlev3)
+    1. [Community Resilience: An Adaptation Strategy](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_20.html#conclusionlev4)
+    1. [The Battle of the Parts versus the Whole](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_20.html#conclusionlev5)
+1. [Acknowledgments](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_21.html)
+1. [Notes](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_22.html)
+1. [Bibliography](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_23.html)
+1. [Index](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_24.html)
+1. [About the Author](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_25.html)
+1. [About Reos](https://ebookreading.net/view/book/The+Social+Labs+Revolution-EB9781626560734_26.html)

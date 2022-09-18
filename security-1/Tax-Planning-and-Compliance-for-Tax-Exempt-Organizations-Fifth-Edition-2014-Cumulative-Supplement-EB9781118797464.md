@@ -1,0 +1,116 @@
+![Cover image for Tax Planning and Compliance for Tax-Exempt Organizations, Fifth Edition 2014 Cumulative Supplement](https://imgdetail.ebookreading.net/cover/cover/security/EB9781118797464.jpg)
+
+[Tax Planning and Compliance for Tax-Exempt Organizations, Fifth Edition 2014 Cumulative Supplement](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_1.html "Tax Planning and Compliance for Tax-Exempt Organizations, Fifth Edition 2014 Cumulative Supplement")
+====================================================================================================================
+
+Author : [Jody Blazek](https://ebookreading.net/search/author/Jody+Blazek)
+
+Release Date : 2014/04/01
+
+ISBN : 9781118797464
+
+Topic : [Security](https://ebookreading.net/search/category/security)
+
+Book Description
+-----------------
+
+The cumulative supplement to the Tax Planning and Compliance for Tax-Exempt Organizations, 5th Edition
+Nonprofit organizations including health and welfare organizations, colleges and universities, private foundations, churches, libraries, museums, cultural institutions, and other smaller groups contend daily with the possibility of losing their tax-exempt status. This update contains clear-cut answers to all procedural and tax process questions.
+Here, you'll find straightforward information on changing Unrelated Business Income (UBI) rules, joint ventures, sponsorships, deductions against UBI, preparation of IRS forms, and more. Includes checklists and complete citations.
+              The cumulative supplement to the Tax Planning and Compliance for Tax-Exempt Organizations, 5th Edition
+Nonprofit organizations including health and welfare organizations, colleges and universities, private foundations, churches, libraries, museums, cultural institutions, and other smaller groups contend daily with the possibility of losing their tax-exempt status. This update contains clear-cut answers to all procedural and tax process questions.
+Here, you'll find straightforward information on changing Unrelated Business Income (UBI) rules, joint ventures, sponsorships, deductions against UBI, preparation of IRS forms, and more. Includes checklists and complete citations.
+              
+Table of Contents
+-----------------
+
+1. [Cover Page](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_1.html)
+1. [Don&#39;t Miss Out on Must-Have and Timely New Information!](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_2.html)
+1. [Title Page](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_4.html)
+1. [Copyright](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_5.html)
+1. [Contents](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_6.html)
+1. [About the Author](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#about-the-author)
+1. [Preface](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#preface)
+1. [Part I: Qualifications of Tax-Exempt Organizations](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#part1)
+    1. [CHAPTER 2: Qualifying Under IRC § 501(c)(3)](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap2)
+        1. [§ 2.1 Organizational Test](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect2.1)
+        1. [§ 2.2 Operational Test](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect2.2)
+    1. [CHAPTER 3: Religious Organizations](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap3)
+        1. [§ 3.2 Churches](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect3.2)
+    1. [CHAPTER 4: Charitable Organizations](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap4)
+        1. [§ 4.2 Promotion of Social Welfare](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect4.2)
+        1. [§ 4.3 Lessening Burdens of Government](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect4.3)
+        1. [§ 4.6 Promotion of Health](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect4.6)
+    1. [CHAPTER 5: Educational, Scientific, and Literary Purposes, and Prevention of Cruelty to Children and Animals](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap5)
+        1. [§ 5.1 Educational Purposes](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect5.1)
+    1. [CHAPTER 6: Civic Leagues and Local Associations of Employees: § 501(c)(4)](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap6)
+        1. [§ 6.1 Comparison of (c)(3) and (c)(4) Organizations](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect6.1)
+        1. [§ 6.2 Qualifying and Nonqualifying Civic Organizations](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect6.2)
+        1. [§ 6.5 Disclosures of Nondeductibility](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect6.5)
+    1. [CHAPTER 7: Labor, Agricultural, and Horticultural Organizations: § 501(c)(5)](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap7)
+        1. [§ 7.2 Agricultural Groups](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect7.2)
+    1. [CHAPTER 8: Business Leagues: § 501(c)(6)](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap8)
+        1. [§ 8.2 Meaning of “Common Business Interest”](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect8.2)
+        1. [§ 8.3 Line of Business](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect8.3)
+        1. [§ 8.4 Rendering Services for Members](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect8.4)
+    1. [CHAPTER 9: Social Clubs: § 501(c)(7)](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap9)
+        1. [§ 9.4 Revenue Tests](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect9.4)
+    1. [*CHAPTER 10: Instrumentalities of Government and Title-Holding Organizations](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap10)
+        1. [§ 10.3 Qualifying for § 501(c)(3) Status](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect10.3)
+    1. [CHAPTER 11: Public Charities](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap11)
+        1. [§ 11.2 “Inherently Public Activity” and Broad Public Support: § 509(a)(1)](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect11.2)
+        1. [§ 11.6 Supporting Organizations](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect11.6)
+1. [Part II: Standards for Private Foundations](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#part2)
+    1. [CHAPTER 12: Private Foundations—General Concepts](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap12)
+        1. [§ 12.2 Special Rules Pertaining to Private Foundations](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect12.2)
+        1. [§ 12.4 Termination of Private Foundation Status](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect12.4)
+    1. [CHAPTER 13: Excise Tax Based on Investment Income: IRC § 4940](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap13)
+        1. [§ 13.2 Capital Gains](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect13.2)
+    1. [CHAPTER 14: Self-Dealing: IRC § 4941](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap14)
+        1. [§ 14.1 Definition of Self-Dealing](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect14.1)
+        1. [§ 14.2 Sale, Exchange, or Lease of Property](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect14.2)
+        1. [§ 14.3 Loans](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect14.3)
+        1. [§ 14.4 Compensation](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect14.4)
+        1. [§ 14.7 Sharing Space, People, and Expenses](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect14.7)
+        1. [§ 14.9 Property Held by Fiduciaries](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect14.9)
+        1. [§ 14.10 Issues Once Self-Dealing Occurs](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect14.10)
+    1. [CHAPTER 15: Minimum Distribution Requirements: IRC § 4942](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap15)
+        1. [§ 15.1 Assets Used to Calculate Minimum Investment Return](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect15.1)
+        1. [§ 15.2 Measuring Fair Market Value](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect15.2)
+        1. [§ 15.4 Qualifying Distributions](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect15.4)
+        1. [§ 15.6 Satisfying the Distribution Test](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect15.6)
+    1. [CHAPTER 16: Excess Business Holdings and Jeopardizing Investments: IRC §§ 4943 and 4944](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap16)
+        1. [§ 16.1 Excess Business Holdings](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect16.1)
+        1. [§ 16.3 Program-Related Investments](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect16.3)
+        1. [§ 16.4 Penalty Taxes](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect16.4)
+    1. [CHAPTER 17: Taxable Expenditures: IRC § 4945](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap17)
+        1. [§ 17.3 Grants to Individuals](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect17.3)
+        1. [§ 17.4 Grants to Public Charities](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect17.4)
+        1. [§ 17.5 Grants to Foreign Organizations](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect17.5)
+1. [Part III: Obtaining and Maintaining Tax-Exempt Status](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#part3)
+    1. [CHAPTER 18: IRS Filings, Procedures, and Policies](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap18)
+        1. [§ 18.1 Determination Process](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect18.1)
+        1. [§ 18.2 Annual Filing of Forms 990](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect18.2)
+        1. [§ 18.3 Reporting Organizational Changes to the IRS](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect18.3)
+        1. [§ 18.4 Weathering an IRS Examination](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect18.4)
+    1. [CHAPTER 19: Maintaining Exempt Status](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap19)
+        1. [§ 19.1 Checklists](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect19.1)
+    1. [CHAPTER 20: Private Inurement and Intermediate Sanctions](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap20)
+        1. [§ 20.1 Defining Inurement](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect20.1)
+        1. [§ 20.2 Salaries and Other Compensation](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect20.2)
+        1. [§ 20.8 Services Rendered for Individuals](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect20.8)
+    1. [CHAPTER 21: Unrelated Business Income](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap21)
+        1. [§ 21.1 IRS Scrutiny of Unrelated Business Income](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect21.1)
+        1. [§ 21.5 What Is Unrelated Business Income?](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect21.5)
+        1. [§ 21.8 Unrelated Activities](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect21.8)
+        1. [§ 21.10 Income Modifications](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect21.10)
+        1. [§ 21.12 Debt-Financed Property](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect21.12)
+        1. [§ 21.15 Publishing](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect21.15)
+    1. [*CHAPTER 23: Electioneering and Lobbying](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap23)
+        1. [§ 23.1 Election Campaign Involvement](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect23.1)
+    1. [CHAPTER 24: Deductibility and Disclosures](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap24)
+        1. [§ 24.1 Overview of Deductibility](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect24.1)
+        1. [§ 24.2 Substantiation and Quid Pro Quo Rules](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect24.2)
+    1. [CHAPTER 25: Employment Taxes](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#chap25)
+        1. [§ 25.2 Ministers](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#sect25.2)
+1. [Index](https://ebookreading.net/view/book/Tax+Planning+and+Compliance+for+Tax-Exempt+Organizations%2C+Fifth+Edition+2014+Cumulative+Supplement-EB9781118797464_0.html#index)

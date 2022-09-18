@@ -1,0 +1,92 @@
+![Cover image for The Manager&#39;s Pocket Guide to Using Consultants](https://imgdetail.ebookreading.net/cover/cover/security/EB9780874259230.jpg)
+
+[The Manager&#39;s Pocket Guide to Using Consultants](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_1.html "The Manager&#39;s Pocket Guide to Using Consultants")
+====================================================================================================================
+
+Author : [David Newman](https://ebookreading.net/search/author/David+Newman)
+
+Release Date : 2006/03/01
+
+ISBN : 9780874259230
+
+Topic : [Security](https://ebookreading.net/search/category/security)
+
+Book Description
+-----------------
+
+What if the next consultant you hired came with an instruction manual filled with strategies to maximize your end of the relationship? That's exactly what this pocket guide is – a practical how-to guide to taking full advantage of what the right consultant can provide. Manager's Pocket Guide to Using Consultants packs into one concise book information it would take you years of trial-and-error to learn on your own. In eight chapters, it will help you think through and execute all the important decisions when using consultants. Anyone using or thinking about using consultants will appreciate this advice – including CEOs, vice presidents, managing directors and others responsible for delivering results. The author has worked inside organizations as a client, externally as a consultant and has helped many other consultants raise their game. If you want a unique 360-degree view that's right on-target, this book's for you.
+              
+Table of Contents
+-----------------
+
+1. [Title](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_1.html)
+1. [Copyright](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_2.html)
+1. [Table of Contents](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_4.html)
+1. [Introduction](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_0.html#chintroductiontoc1)
+1. [Chapter 1: A Field Guide to Consultants](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_5.html#ch01toc2)
+    1. [Consultants: Who They Are](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_6.html#ch01toc3)
+    1. [What Consultants Do](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_8.html#ch01toc4)
+    1. [The Roles Consultants Play](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_0.html#ch01toc5)
+    1. [Alternatives to Using Consultants](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_9.html#ch01toc6)
+    1. [When to Bring in a Consultant (and When Not To)](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_10.html#ch01toc7)
+    1. [Reasons to Use a Consultant](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_12.html#ch01toc8)
+    1. [Key Questions to Ask a Prospective Consultant](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_13.html#ch01toc9)
+1. [Chapter 2: Establishing the Relationship](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_14.html#ch02toc10)
+    1. [Preparing for the Consulting Project](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_15.html#ch02toc11)
+    1. [Establishing Roles and Responsibilities](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_16.html#ch02toc12)
+    1. [Preparing the Consulting Services Agreement](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_0.html#ch02toc13)
+    1. [Guidelines for Developing a Consulting Agreement](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_17.html#ch02toc14)
+    1. [Guidelines for Budgeting](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_18.html#ch02toc15)
+    1. [Leveraging Resources for Consulting Projects](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_19.html#ch02toc16)
+    1. [Preparing the Statement of Work](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_20.html#ch02toc17)
+    1. [Preparing Request for Proposal (RFP)](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_21.html#ch02toc18)
+    1. [Assessing Proposals](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_22.html#ch02toc19)
+    1. [Comparing Apples to Apples: Selecting the Right Consultant](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_23.html#ch02toc20)
+    1. [The Pros and Cons of Consulting on the Clock](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_24.html#ch02toc21)
+    1. [Contract Do’s and Don’ts](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_25.html#ch02toc22)
+    1. [Language in the Contract](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_26.html#ch02toc23)
+    1. [The Contents of the Consulting Contract](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_27.html#ch02toc24)
+    1. [The Ground Rules](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_28.html#ch02toc25)
+1. [Chapter 3: Working Side by Side with Your Consultant](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_29.html#ch03toc26)
+    1. [Managing the Day-to-Day Relationship](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_30.html#ch03toc27)
+    1. [Communication](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_31.html#ch03toc28)
+    1. [The Importance of Guidance](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_32.html#ch03toc29)
+    1. [Establishing a Collaborative Work Style](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_33.html#ch03toc30)
+    1. [Building Trust into the Consulting Relationship](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_34.html#ch03toc31)
+1. [Chapter 4: Evaluating Outcomes and Making Adjustments](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_35.html#ch04toc32)
+    1. [The “Rules of Engagement”](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_36.html#ch04toc33)
+    1. [The 95-5 Rule](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_37.html#ch04toc34)
+    1. [Keep it Simple](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_38.html#ch04toc35)
+    1. [The Progress Report](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_39.html#ch04toc36)
+    1. [The Fine Art of “Clienting”](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_40.html#ch04toc37)
+    1. [Change Management 101](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_42.html#ch04toc38)
+    1. [What to Do if Conflict Arises](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_43.html#ch04toc39)
+    1. [Are We There Yet? Wrapping up the Work](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_44.html#ch04toc40)
+1. [Chapter 5: Consultant as Change Agent, Advocate, and Mentor](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_0.html#ch05toc41)
+    1. [What Every Consultant Should Provide](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_45.html#ch05toc42)
+    1. [Maximizing Consulting Value](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_47.html#ch05toc43)
+    1. [Make Sure You’re Learning to Fish](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_48.html#ch05toc44)
+    1. [The Consulting Project Clinic](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_0.html#ch05toc45)
+    1. [Knowledge Transfer and Tracking](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_49.html#ch05toc46)
+    1. [What a Consultant Can Do That You Can’t](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_50.html#ch05toc47)
+    1. [Maximizing the Value of an Outside-Insider](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_51.html#ch05toc48)
+1. [Chapter 6: Consulting Dangers, Pitfalls, and Traps](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_53.html#ch06toc49)
+    1. [Don’t Accept “Cookie Cutter” Work](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_54.html#ch06toc50)
+    1. [Beware of Arrogance (on Both Sides of the Table)](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_0.html#ch06toc51)
+    1. [Put Expertise above Experience](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_55.html#ch06toc52)
+    1. [Accountability for Results Starts with You](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_56.html#ch06toc53)
+    1. [Advice-Based Consulting vs. Product-Based Consulting](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_57.html#ch06toc54)
+1. [Chapter 7: Evaluating Your Consultant’s Toolkit](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_58.html#ch07toc55)
+    1. [Ten Great Questions Your Consultant Should Ask You](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_59.html#ch07toc56)
+    1. [Debunking the Myths](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_60.html#ch07toc57)
+    1. [Consultants are Paid to Rock the Boat](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_61.html#ch07toc58)
+    1. [Stay Away from So-called Best Practices](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_62.html#ch07toc59)
+1. [Chapter 8: Manager as Consultant](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_63.html#ch08toc60)
+    1. [How to Be an Excellent Internal Consultant](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_65.html#ch08toc61)
+    1. [Great Ideas Needed Greatly](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_66.html#ch08toc62)
+    1. [The Art and Science of Consulting Creatively](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_67.html#ch08toc63)
+    1. [The Power of Encouragement](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_0.html#ch08toc64)
+    1. [The Secret Sauce: Intellect Plus Intuition](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_68.html#ch08toc65)
+    1. [Consultants and Managers Blazing the Trail Together](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_69.html#ch08toc66)
+    1. [The Next Chapter is Up to You](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_70.html#ch08toc67)
+1. [About the Author](https://ebookreading.net/view/book/The+Manager%26%2339%3Bs+Pocket+Guide+to+Using+Consultants-EB9780874259230_71.html#chauthortoc68)

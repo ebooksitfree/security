@@ -1,0 +1,151 @@
+![Cover image for Mastering Python Forensics](https://imgdetail.ebookreading.net/cover/cover/software_development/EB9781783988044.jpg)
+
+[Mastering Python Forensics](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_1.html "Mastering Python Forensics")
+====================================================================================================================
+
+Author : [Dr. Johann Uhrmann](https://ebookreading.net/search/author/Dr.+Johann+Uhrmann),[ Dr. Michael Spreitzenbarth](https://ebookreading.net/search/author/+Dr.+Michael+Spreitzenbarth)
+
+Release Date : 2015/10/01
+
+ISBN : 9781783988044
+
+Topic : [Security](https://ebookreading.net/search/category/security)
+
+Book Description
+-----------------
+
+ Master the art of digital forensics and analysis with Python
+About This Book
+Learn to perform forensic analysis and investigations with the help of Python, and gain an advanced understanding of the various Python libraries and frameworksAnalyze Python scripts to extract metadata and investigate forensic artifactsThe writers, Dr. Michael Spreitzenbarth and Dr. Johann Uhrmann, have used their experience to craft this hands-on guide to using Python for forensic analysis and investigationsWho This Book Is For
+If you are a network security professional or forensics analyst who wants to gain a deeper understanding of performing forensic analysis with Python, then this book is for you. Some Python experience would be helpful.
+What You Will Learn
+Explore the forensic analysis of different platforms such as Windows, Android, and vSphereSemi-automatically reconstruct major parts of the system activity and time-lineLeverage Python ctypes for protocol decodingExamine artifacts from mobile, Skype, and browsersDiscover how to utilize Python to improve the focus of your analysisInvestigate in volatile memory with the help of volatility on the Android and Linux platformsIn Detail
+Digital forensic analysis is the process of examining and extracting data digitally and examining it. Python has the combination of power, expressiveness, and ease of use that makes it an essential complementary tool to the traditional, off-the-shelf digital forensic tools.
+This book will teach you how to perform forensic analysis and investigations by exploring the capabilities of various Python libraries.
+The book starts by explaining the building blocks of the Python programming language, especially ctypes in-depth, along with how to automate typical tasks in file system analysis, common correlation tasks to discover anomalies, as well as templates for investigations. Next, we'll show you cryptographic algorithms that can be used during forensic investigations to check for known files or to compare suspicious files with online services such as VirusTotal or Mobile-Sandbox.
+Moving on, you'll learn how to sniff on the network, generate and analyze network flows, and perform log correlation with the help of Python scripts and tools. You'll get to know about the concepts of virtualization and how virtualization influences IT forensics, and you'll discover how to perform forensic analysis of a jailbroken/rooted mobile device that is based on iOS or Android.
+Finally, the book teaches you how to analyze volatile memory and search for known malware samples based on YARA rules.
+Style and approach
+This easy-to-follow guide will demonstrate forensic analysis techniques by showing you how to solve real-word-scenarios step by step.
+        Show and hide more                
+Table of Contents
+-----------------
+
+1. [Mastering Python Forensics](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_3.html)
+    1. [Table of Contents](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_2.html)
+    1. [Mastering Python Forensics](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_4.html)
+    1. [Credits](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_5.html)
+    1. [About the Authors](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_6.html)
+    1. [About the Reviewers](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_7.html)
+    1. [www.PacktPub.com](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_8.html)
+        1. [Support files, eBooks, discount offers, and more](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_8.html#ch00lvl1sec01)
+            1. [Why subscribe?](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_8.html#ch00lvl2sec01)
+            1. [Free access for Packt account holders](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_8.html#ch00lvl2sec02)
+    1. [Preface](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_9.html)
+        1. [What this book covers](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_9.html#ch00lvl1sec02)
+        1. [What you need for this book](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_10.html)
+        1. [Who this book is for](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_11.html)
+        1. [Conventions](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_12.html)
+        1. [Reader feedback](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_13.html)
+        1. [Customer support](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_14.html)
+            1. [Downloading the example code](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_14.html#ch00lvl2sec03)
+            1. [Errata](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_14.html#ch00lvl2sec04)
+            1. [Piracy](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_14.html#ch00lvl2sec05)
+            1. [Questions](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_14.html#ch00lvl2sec06)
+    1. [1. Setting Up the Lab and Introduction to Python ctypes](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_15.html)
+        1. [Setting up the Lab](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_15.html#ch01lvl1sec08)
+            1. [Ubuntu](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_15.html#ch01lvl2sec07)
+            1. [Python virtual environment (virtualenv)](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_15.html#ch01lvl2sec08)
+        1. [Introduction to Python ctypes](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_16.html)
+            1. [Working with Dynamic Link Libraries](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_16.html#ch01lvl2sec09)
+            1. [C data types](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_16.html#ch01lvl2sec10)
+                1. [Defining Unions and Structures](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_16.html#ch01lvl2sec11)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_17.html)
+    1. [2. Forensic Algorithms](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_18.html)
+        1. [Algorithms](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_18.html#ch02lvl1sec11)
+            1. [MD5](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_18.html#ch02lvl2sec12)
+            1. [SHA256](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_18.html#ch02lvl2sec13)
+            1. [SSDEEP](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_18.html#ch02lvl2sec14)
+        1. [Supporting the chain of custody](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_19.html)
+            1. [Creating hash sums of full disk images](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_19.html#ch02lvl2sec15)
+            1. [Creating hash sums of directory trees](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_19.html#ch02lvl2sec16)
+        1. [Real-world scenarios](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_20.html)
+            1. [Mobile Malware](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_20.html#ch02lvl2sec17)
+            1. [NSRLquery](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_20.html#ch02lvl2sec18)
+                1. [Downloading and installing nsrlsvr](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_20.html#ch02lvl3sec01)
+                1. [Writing a client for nsrlsvr in Python](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_20.html#ch02lvl3sec02)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_21.html)
+    1. [3. Using Python for Windows and Linux Forensics](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_22.html)
+        1. [Analyzing the Windows Event Log](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_22.html#ch03lvl1sec15)
+            1. [The Windows Event Log](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_22.html#ch03lvl2sec19)
+            1. [Interesting Events](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_22.html#ch03lvl2sec20)
+            1. [Parsing the Event Log for IOC](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_22.html#ch03lvl2sec21)
+                1. [The python-evtx parser](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_22.html#ch03lvl3sec03)
+                1. [The plaso and log2timeline tools](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_22.html#ch03lvl3sec04)
+        1. [Analyzing the Windows Registry](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_23.html)
+            1. [Windows Registry Structure](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_23.html#ch03lvl2sec22)
+            1. [Parsing the Registry for IOC](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_23.html#ch03lvl2sec23)
+                1. [Connected USB Devices](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_23.html#ch03lvl3sec05)
+                1. [User histories](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_23.html#ch03lvl3sec06)
+                1. [Startup programs](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_23.html#ch03lvl3sec07)
+                1. [System Information](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_23.html#ch03lvl3sec08)
+                1. [Shim Cache Parser](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_23.html#ch03lvl3sec09)
+        1. [Implementing Linux specific checks](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_24.html)
+            1. [Checking the integrity of local user credentials](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_24.html#ch03lvl2sec24)
+            1. [Analyzing file meta information](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_24.html#ch03lvl2sec25)
+                1. [Understanding inode](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_24.html#ch03lvl3sec10)
+                1. [Reading basic file metadata with Python](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_24.html#ch03lvl3sec11)
+                1. [Evaluating POSIX ACLs with Python](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_24.html#ch03lvl3sec12)
+                1. [Reading file capabilities with Python](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_24.html#ch03lvl3sec13)
+            1. [Clustering file information](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_24.html#ch03lvl2sec26)
+                1. [Creating histograms](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_24.html#ch03lvl3sec14)
+                1. [Advanced histogram techniques](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_24.html#ch03lvl3sec15)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_25.html)
+    1. [4. Using Python for Network Forensics](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_26.html)
+        1. [Using Dshell during an investigation](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_26.html#ch04lvl1sec19)
+        1. [Using Scapy during an investigation](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_27.html)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_28.html)
+    1. [5. Using Python for Virtualization Forensics](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_29.html)
+        1. [Considering virtualization as a new attack surface](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_29.html#ch05lvl1sec22)
+            1. [Virtualization as an additional layer of abstraction](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_29.html#ch05lvl2sec27)
+            1. [Creation of rogue machines](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_29.html#ch05lvl2sec28)
+            1. [Cloning of systems](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_29.html#ch05lvl2sec29)
+        1. [Searching for misuse of virtual resources](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_30.html)
+            1. [Detecting rogue network interfaces](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_30.html#ch05lvl2sec30)
+            1. [Detecting direct hardware access](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_30.html#ch05lvl2sec31)
+        1. [Using virtualization as a source of evidence](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_31.html)
+            1. [Creating forensic copies of RAM content](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_31.html#ch05lvl2sec32)
+            1. [Using snapshots as disk images](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_31.html#ch05lvl2sec33)
+            1. [Capturing network traffic](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_31.html#ch05lvl2sec34)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_32.html)
+    1. [6. Using Python for Mobile Forensics](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_33.html)
+        1. [The investigative model for smartphones](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_33.html#ch06lvl1sec26)
+        1. [Android](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_34.html)
+            1. [Manual Examination](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_34.html#ch06lvl2sec35)
+            1. [Automated Examination with the help of ADEL](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_34.html#ch06lvl2sec36)
+                1. [Idea behind the system](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_34.html#ch06lvl3sec16)
+                1. [Implementation and system workflow](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_34.html#ch06lvl3sec17)
+                1. [Working with ADEL](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_34.html#ch06lvl3sec18)
+            1. [Movement profiles](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_34.html#ch06lvl2sec37)
+        1. [Apple iOS](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_35.html)
+            1. [Getting the Keychain from a jailbroken iDevice](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_35.html#ch06lvl2sec38)
+            1. [Manual Examination with libimobiledevice](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_35.html#ch06lvl2sec39)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_36.html)
+    1. [7. Using Python for Memory Forensics](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_37.html)
+        1. [Understanding Volatility basics](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_37.html#ch07lvl1sec30)
+        1. [Using Volatility on Android](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_38.html)
+            1. [LiME and the recovery image](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_38.html#ch07lvl2sec40)
+            1. [Volatility for Android](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_38.html#ch07lvl2sec41)
+            1. [Reconstructing data for Android](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_38.html#ch07lvl2sec42)
+                1. [Call history](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_38.html#ch07lvl3sec19)
+                1. [Keyboard cache](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_38.html#ch07lvl3sec20)
+        1. [Using Volatility on Linux](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_39.html)
+            1. [Memory acquisition](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_39.html#ch07lvl2sec43)
+            1. [Volatility for Linux](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_39.html#ch07lvl2sec44)
+            1. [Reconstructing data for Linux](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_39.html#ch07lvl2sec45)
+                1. [Analyzing processes and modules](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_39.html#ch07lvl3sec21)
+                1. [Analyzing networking information](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_39.html#ch07lvl3sec22)
+                1. [Malware hunting with the help of YARA](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_39.html#ch07lvl3sec23)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_40.html)
+        1. [Where to go from here](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_41.html)
+    1. [Index](https://ebookreading.net/view/book/Mastering+Python+Forensics-EB9781783988044_42.html)

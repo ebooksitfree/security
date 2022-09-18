@@ -1,0 +1,257 @@
+![Cover image for CISSP Cert Guide, Second Edition](https://imgdetail.ebookreading.net/cover/cover/security/EB9780134174129.jpg)
+
+[CISSP Cert Guide, Second Edition](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_1.html "CISSP Cert Guide, Second Edition")
+====================================================================================================================
+
+Author : [Troy McMillian](https://ebookreading.net/search/author/Troy+McMillian),[ Robin Abernathy](https://ebookreading.net/search/author/+Robin+Abernathy)
+
+Release Date : 2016/06/01
+
+ISBN : 9780134174129
+
+Topic : [Security](https://ebookreading.net/search/category/security)
+
+Book Description
+-----------------
+
+In this best-of-breed study guide, two leading experts help you master all the topics you need to know to succeed on your CISSP exam and advance your career in IT security. Their concise, focused approach explains every exam objective from a real-world perspective, helping you quickly identify weaknesses and retain everything you need to know.
+ Every feature of this book supports both efficient exam preparation and long-term mastery:
+ Opening Topics Lists identify the topics you’ll need to learn in each chapter, and list (ISC)2’s official exam objectives 
+ Key Topics feature figures, tables, and lists that call attention to the information that’s most crucial for exam success 
+ Exam Preparation Tasks allow you to review key topics, complete memory tables, define key terms, work through scenarios, and answer review questions. All of these help you go beyond memorizing mere facts to master the concepts that are crucial to passing the exam and enhancing your career 
+ Key Terms are listed in each chapter and defined in a complete glossary, explaining all the field’s essential terminology 
+The companion website contains the powerful Pearson IT Certification Practice Test Engine, with two practice exams and access to a large library of exam-realistic questions. The compansion website also includes memory tables, lists, and other resources, all in a searchable PDF format. This study guide helps you master all the topics on the latest CISSP exam, including:
+ Access control 
+ Telecommunications and network security 
+ Information security governance and risk management 
+ Software development security 
+ Cryptography 
+ Security architecture and design 
+ Operation security 
+ Business continuity and disaster recovery planning 
+ Legal, regulations, investigations, and compliance 
+ Physical (environmental) security 
+              In this best-of-breed study guide, two leading experts help you master all the topics you need to know to succeed on your CISSP exam and advance your career in IT security. Their concise, focused approach explains every exam objective from a real-world perspective, helping you quickly identify weaknesses and retain everything you need to know.
+ Every feature of this book supports both efficient exam preparation and long-term mastery:
+ Opening Topics Lists identify the topics you’ll need to learn in each chapter, and list (ISC)2’s official exam objectives 
+ Key Topics feature figures, tables, and lists that call attention to the information that’s most crucial for exam success 
+ Exam Preparation Tasks allow you to review key topics, complete memory tables, define key terms, work through scenarios, and answer review questions. All of these help you go beyond memorizing mere facts to master the concepts that are crucial to passing the exam and enhancing your career 
+ Key Terms are listed in each chapter and defined in a complete glossary, explaining all the field’s essential terminology 
+The companion website contains the powerful Pearson IT Certification Practice Test Engine, with two practice exams and access to a large library of exam-realistic questions. The compansion website also includes memory tables, lists, and other resources, all in a searchable PDF format. This study guide helps you master all the topics on the latest CISSP exam, including:
+ Access control 
+ Telecommunications and network security 
+ Information security governance and risk management 
+ Software development security 
+ Cryptography 
+ Security architecture and design 
+ Operation security 
+ Business continuity and disaster recovery planning 
+ Legal, regulations, investigations, and compliance 
+ Physical (environmental) security 
+              
+Table of Contents
+-----------------
+
+1. [About This E-Book](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_2.html#pref00)
+1. [Title Page](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_3.html#title)
+1. [Copyright Page](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_4.html#copy)
+1. [Contents at a Glance](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_5.html#toc)
+1. [Table of Contents](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_6.html#bk01-toc)
+1. [About the Author](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_7.html#pref01)
+1. [Dedication](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_8.html#ded01)
+1. [Acknowledgments](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_9.html#pref02)
+1. [About the Technical Reviewers](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_10.html#pref03)
+1. [We Want to Hear from You!](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_11.html#pref04)
+1. [Reader Services](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_12.html#pref05)
+1. [Book Features and Exam Preparation Methods](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_13.html#pref06)
+    1. [Companion Website](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_13.html#pref06lev1sec1)
+    1. [Accessing the Pearson Test Prep Software and Questions](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_13.html#pref06lev1sec2)
+    1. [Accessing the Pearson Test Prep Software Online](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_13.html#pref06lev1sec3)
+    1. [Accessing the Pearson Test Prep Software Offline](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_13.html#pref06lev1sec4)
+    1. [Assessing Exam Readiness](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_13.html#pref06lev1sec5)
+    1. [Premium Edition](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_13.html#pref06lev1sec6)
+1. [Introduction: The CISSP Certification](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_14.html#ch00)
+    1. [The Goals of the CISSP Certification](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_14.html#ch00lev1sec1)
+        1. [Sponsoring Bodies](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_14.html#ch00lev2sec1)
+        1. [Stated Goals](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_14.html#ch00lev2sec2)
+    1. [The Value of the CISSP Certification](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_14.html#ch00lev1sec2)
+        1. [To the Security Professional](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_14.html#ch00lev2sec3)
+        1. [To the Enterprise](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_14.html#ch00lev2sec4)
+    1. [The Common Body of Knowledge](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_14.html#ch00lev1sec3)
+        1. [Security and Risk Management (e.g. Security, Risk, Compliance, Law, Regulations, Business Continuity)](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_14.html#ch00lev2sec5)
+        1. [Asset Security (Protecting Security of Assets)](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_14.html#ch00lev2sec6)
+        1. [Security Engineering (Engineering and Management of Security)](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_14.html#ch00lev2sec7)
+        1. [Communication and Network Security (Designing and Protecting Network Security)](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_14.html#ch00lev2sec8)
+        1. [Identity and Access Management (Controlling Access and Managing Identity)](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_14.html#ch00lev2sec9)
+        1. [Security Assessment and Testing (Designing, Performing, and Analyzing Security Testing)](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_14.html#ch00lev2sec10)
+        1. [Security Operations (e.g. Foundational Concepts, Investigations, Incident Management, Disaster Recovery)](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_14.html#ch00lev2sec11)
+        1. [Software Development Security (Understanding, Applying, and Enforcing Software Security)](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_14.html#ch00lev2sec12)
+    1. [Steps to Becoming a CISSP](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_14.html#ch00lev1sec4)
+        1. [Qualifying for the Exam](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_14.html#ch00lev2sec13)
+        1. [Signing Up for the Exam](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_14.html#ch00lev2sec14)
+        1. [About the CISSP Exam](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_14.html#ch00lev2sec15)
+1. [Chapter 1. Security and Risk Management](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_15.html#ch01)
+    1. [Foundation Topics](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_15.html#ch01lev1sec1)
+        1. [Security Terms](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_15.html#ch01lev2sec1)
+        1. [Security Governance Principles](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_15.html#ch01lev2sec2)
+        1. [Compliance](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_15.html#ch01lev2sec3)
+        1. [Legal and Regulatory Issues](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_15.html#ch01lev2sec4)
+        1. [Professional Ethics](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_15.html#ch01lev2sec5)
+        1. [Security Documentation](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_15.html#ch01lev2sec6)
+        1. [Business Continuity](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_15.html#ch01lev2sec7)
+        1. [Personnel Security Policies](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_15.html#ch01lev2sec8)
+        1. [Risk Management Concepts](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_15.html#ch01lev2sec9)
+        1. [Threat Modeling](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_15.html#ch01lev2sec10)
+        1. [Security Risks in Acquisitions](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_15.html#ch01lev2sec11)
+        1. [Security Education, Training, and Awareness](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_15.html#ch01lev2sec12)
+    1. [Exam Preparation Tasks](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_15.html#ch01lev1sec2)
+        1. [Review All Key Topics](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_15.html#ch01lev2sec13)
+        1. [Complete the Tables and Lists from Memory](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_15.html#ch01lev2sec14)
+        1. [Define Key Terms](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_15.html#ch01lev2sec15)
+    1. [Answer Review Questions](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_15.html#ch01lev1sec3)
+        1. [Answers and Explanations](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_15.html#ch01lev2sec16)
+1. [Chapter 2. Asset Security](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_16.html#ch02)
+    1. [Foundation Topics](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_16.html#ch02lev1sec1)
+        1. [Asset Security Concepts](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_16.html#ch02lev2sec1)
+        1. [Classify Information and Assets](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_16.html#ch02lev2sec2)
+        1. [Asset Ownership](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_16.html#ch02lev2sec3)
+        1. [Asset Management](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_16.html#ch02lev2sec4)
+        1. [Asset Privacy](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_16.html#ch02lev2sec5)
+        1. [Data Retention](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_16.html#ch02lev2sec6)
+        1. [Data Security and Controls](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_16.html#ch02lev2sec7)
+        1. [Asset Handling Requirements](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_16.html#ch02lev2sec8)
+    1. [Exam Preparation Tasks](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_16.html#ch02lev1sec2)
+        1. [Review All Key Topics](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_16.html#ch02lev2sec9)
+        1. [Complete the Tables and Lists from Memory](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_16.html#ch02lev2sec10)
+        1. [Define Key Terms](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_16.html#ch02lev2sec11)
+    1. [Answer Review Questions](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_16.html#ch02lev1sec3)
+        1. [Answers and Explanations](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_16.html#ch02lev2sec12)
+1. [Chapter 3. Security Engineering](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_17.html#ch03)
+    1. [Foundation Topics](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_17.html#ch03lev1sec1)
+        1. [Engineering Using Secure Design Principles](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_17.html#ch03lev2sec1)
+        1. [Security Model Concepts](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_17.html#ch03lev2sec2)
+        1. [System Security Evaluation Models](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_17.html#ch03lev2sec3)
+        1. [Security Capabilities of Information Systems](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_17.html#ch03lev2sec4)
+        1. [Certification and Accreditation](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_17.html#ch03lev2sec5)
+        1. [Security Architecture Maintenance](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_17.html#ch03lev2sec6)
+        1. [Vulnerabilities of Security Architectures, Designs, and Solution Elements](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_17.html#ch03lev2sec7)
+        1. [Vulnerabilities in Web-Based Systems](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_17.html#ch03lev2sec8)
+        1. [Vulnerabilities in Mobile Systems](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_17.html#ch03lev2sec9)
+        1. [Vulnerabilities in Embedded Devices and Cyber-Physical Systems](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_17.html#ch03lev2sec10)
+        1. [Cryptography](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_17.html#ch03lev2sec11)
+        1. [Cryptographic Types](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_17.html#ch03lev2sec12)
+        1. [Symmetric Algorithms](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_18.html#ch03lev2sec13)
+        1. [Asymmetric Algorithms](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_18.html#ch03lev2sec14)
+        1. [Public Key Infrastructure](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_18.html#ch03lev2sec15)
+        1. [Key Management Practices](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_18.html#ch03lev2sec16)
+        1. [Digital Signatures](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_18.html#ch03lev2sec17)
+        1. [Digital Rights Management (DRM)](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_18.html#ch03lev2sec18)
+        1. [Message Integrity](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_18.html#ch03lev2sec19)
+        1. [Cryptanalytic Attacks](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_18.html#ch03lev2sec20)
+        1. [Geographical Threats](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_18.html#ch03lev2sec21)
+        1. [Site and Facility Design](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_18.html#ch03lev2sec22)
+        1. [Building and Internal Security](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_18.html#ch03lev2sec23)
+        1. [Environmental Security](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_18.html#ch03lev2sec24)
+        1. [Equipment Security](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_18.html#ch03lev2sec25)
+    1. [Exam Preparation Tasks](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_18.html#ch03lev1sec2)
+        1. [Review All Key Topics](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_18.html#ch03lev2sec26)
+        1. [Complete the Tables and Lists from Memory](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_18.html#ch03lev2sec27)
+        1. [Define Key Terms](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_18.html#ch03lev2sec28)
+    1. [Answer Review Questions](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_18.html#ch03lev1sec3)
+        1. [Answers and Explanations](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_18.html#ch03lev2sec29)
+1. [Chapter 4. Communication and Network Security](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_19.html#ch04)
+    1. [Foundation Topics](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_19.html#ch04lev1sec1)
+        1. [Secure Network Design Principles](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_19.html#ch04lev2sec1)
+        1. [IP Networking](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_19.html#ch04lev2sec2)
+        1. [IPv4](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_19.html#ch04lev2sec3)
+        1. [Protocols and Services](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_19.html#ch04lev2sec4)
+        1. [Converged Protocols](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_19.html#ch04lev2sec5)
+        1. [Wireless Networks](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_19.html#ch04lev2sec6)
+        1. [Communications Cryptography](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_19.html#ch04lev2sec7)
+        1. [Secure Network Components](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_19.html#ch04lev2sec8)
+        1. [Secure Communication Channels](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_20.html#ch04lev2sec9)
+        1. [Network Attacks](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_20.html#ch04lev2sec10)
+    1. [Exam Preparation Tasks](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_20.html#ch04lev1sec2)
+        1. [Review All Key Topics](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_20.html#ch04lev2sec11)
+    1. [Define Key Terms](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_20.html#ch04lev1sec3)
+    1. [Answer Review Questions](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_20.html#ch04lev1sec4)
+        1. [Answers and Explanations](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_20.html#ch04lev2sec12)
+1. [Chapter 5. Identity and Access Management](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_21.html#ch05)
+    1. [Foundation Topics](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_21.html#ch05lev1sec1)
+        1. [Access Control Process](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_21.html#ch05lev2sec1)
+        1. [Physical and Logical Access to Assets](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_21.html#ch05lev2sec2)
+        1. [Identification and Authentication Concepts](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_21.html#ch05lev2sec3)
+        1. [Identification and Authentication Implementation](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_21.html#ch05lev2sec4)
+        1. [Identity as a Service (IDaaS) Implementation](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_21.html#ch05lev2sec5)
+        1. [Third-Party Identity Services Implementation](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_21.html#ch05lev2sec6)
+        1. [Authorization Mechanisms](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_21.html#ch05lev2sec7)
+        1. [Access Control Threats](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_21.html#ch05lev2sec8)
+        1. [Prevent or Mitigate Access Control Threats](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_21.html#ch05lev2sec9)
+    1. [Exam Preparation Tasks](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_21.html#ch05lev1sec2)
+        1. [Review All Key Topics](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_21.html#ch05lev2sec10)
+        1. [Define Key Terms](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_21.html#ch05lev2sec11)
+        1. [Review Questions](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_21.html#ch05lev2sec12)
+        1. [Answers and Explanations](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_21.html#ch05lev2sec13)
+1. [Chapter 6. Security Assessment and Testing](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_22.html#ch06)
+    1. [Foundation Topics](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_22.html#ch06lev1sec1)
+        1. [Assessment and Testing Strategies](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_22.html#ch06lev2sec1)
+        1. [Security Control Testing](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_22.html#ch06lev2sec2)
+        1. [Collect Security Process Data](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_22.html#ch06lev2sec3)
+        1. [Analyze and Report Test Outputs](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_22.html#ch06lev2sec4)
+        1. [Internal and Third-Party Audits](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_22.html#ch06lev2sec5)
+    1. [Exam Preparation Tasks](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_22.html#ch06lev1sec2)
+        1. [Review All Key Topics](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_22.html#ch06lev2sec6)
+        1. [Define Key Terms](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_22.html#ch06lev2sec7)
+        1. [Review Questions](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_22.html#ch06lev2sec8)
+        1. [Answers and Explanations](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_22.html#ch06lev2sec9)
+1. [Chapter 7. Security Operations](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07)
+    1. [Foundation Topics](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev1sec1)
+        1. [Investigations](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev2sec1)
+        1. [Investigation Types](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev2sec2)
+        1. [Logging and Monitoring Activities](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev2sec3)
+        1. [Resource Provisioning](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev2sec4)
+        1. [Security Operations Concepts](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev2sec5)
+        1. [Resource Protection](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev2sec6)
+        1. [Incident Management](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev2sec7)
+        1. [Preventive Measures](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev2sec8)
+        1. [Patch Management](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev2sec9)
+        1. [Change Management Processes](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev2sec10)
+        1. [Recovery Strategies](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev2sec11)
+        1. [Disaster Recovery](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev2sec12)
+        1. [Testing Recovery Plans](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev2sec13)
+        1. [Business Continuity Planning and Exercises](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev2sec14)
+        1. [Physical Security](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev2sec15)
+        1. [Personnel Privacy and Safety](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev2sec16)
+    1. [Exam Preparation Tasks](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev1sec2)
+        1. [Review All Key Topics](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev2sec17)
+        1. [Define Key Terms](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev2sec18)
+    1. [Answer Review Questions](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev1sec3)
+        1. [Answers and Explanations](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_23.html#ch07lev2sec19)
+1. [Chapter 8. Software Development Security](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_24.html#ch08)
+    1. [Foundation Topics](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_24.html#ch08lev1sec1)
+        1. [Software Development Concepts](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_24.html#ch08lev2sec1)
+        1. [Security in the System and Software Development Life Cycle](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_24.html#ch08lev2sec2)
+        1. [Security Controls in Development](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_24.html#ch08lev2sec3)
+        1. [Assess Software Security Effectiveness](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_24.html#ch08lev2sec4)
+        1. [Security Impact of Acquired Software](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_24.html#ch08lev2sec5)
+    1. [Exam Preparation Tasks](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_24.html#ch08lev1sec2)
+        1. [Review All Key Topics](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_24.html#ch08lev2sec6)
+        1. [Define Key Terms](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_24.html#ch08lev2sec7)
+        1. [Answer Review Questions](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_24.html#ch08lev2sec8)
+        1. [Answers and Explanations](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_24.html#ch08lev2sec9)
+1. [Glossary](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_25.html#gloss01)
+1. [Appendix A. Memory Tables](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_26.html#app01)
+    1. [Chapter 1](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_26.html#app01lev1sec1)
+    1. [Chapter 2](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_26.html#app01lev1sec2)
+    1. [Chapter 3](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_26.html#app01lev1sec3)
+    1. [Chapter 4](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_26.html#app01lev1sec4)
+1. [Appendix B. Memory Tables Answer Key](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_27.html#app02)
+    1. [Chapter 1](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_27.html#app02lev1sec1)
+    1. [Chapter 2](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_27.html#app02lev1sec2)
+    1. [Chapter 3](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_27.html#app02lev1sec3)
+    1. [Chapter 4](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_27.html#app02lev1sec4)
+1. [Index](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_28.html#index)
+1. [Inside Front Cover](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_29.html#ifc01)
+1. [Inside Back Cover](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_30.html#ibc01)
+1. [Where are the Companion Content Files?](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_31.html#app03)
+1. [Code Snippets](https://ebookreading.net/view/book/CISSP+Cert+Guide%2C+Second+Edition-EB9780134174129_32.html#ch08_ima)

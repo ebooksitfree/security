@@ -1,0 +1,126 @@
+![Cover image for Malicious Cryptography: Exposing Cryptovirology](https://imgdetail.ebookreading.net/cover/cover/security/EB9780764568466.jpg)
+
+[Malicious Cryptography: Exposing Cryptovirology](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_1.html "Malicious Cryptography: Exposing Cryptovirology")
+====================================================================================================================
+
+Author : [Moti Yung](https://ebookreading.net/search/author/Moti+Yung),[ Adam Young](https://ebookreading.net/search/author/+Adam+Young)
+
+Release Date : 2004/02/01
+
+ISBN : 9780764568466
+
+Topic : [Security](https://ebookreading.net/search/category/security)
+
+Book Description
+-----------------
+
+ Hackers have uncovered the dark side of cryptography—that device developed to defeat Trojan horses, viruses, password theft, and other cyber-crime. It's called cryptovirology, the art of turning the very methods designed to protect your data into a means of subverting it. In this fascinating, disturbing volume, the experts who first identified cryptovirology show you exactly what you're up against and how to fight back.
+They will take you inside the brilliant and devious mind of a hacker—as much an addict as the vacant-eyed denizen of the crackhouse—so you can feel the rush and recognize your opponent's power. Then, they will arm you for the counterattack.
+This book reads like a futuristic fantasy, but be assured, the threat is ominously real. Vigilance is essential, now.
+Understand the mechanics of computationally secure information stealing
+Learn how non-zero sum Game Theory is used to develop survivable malware
+Discover how hackers use public key cryptography to mount extortion attacks
+Recognize and combat the danger of kleptographic attacks on smart-card devices
+Build a strong arsenal against a cryptovirology attack
+        Show and hide more                
+Table of Contents
+-----------------
+
+1. [Cover Page](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_1.html)
+1. [Title Page](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_2.html)
+1. [Copyright](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_3.html)
+1. [Dedication](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_4.html)
+1. [Contents](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_5.html)
+1. [Foreword](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_6.html)
+1. [Acknowledgments](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_7.html)
+1. [Introduction](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_8.html#int)
+1. [Chapter 1: Through Hacker&#39;s Eyes](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_9.html#c1)
+1. [Chapter 2: Cryptovirology](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_10.html#c2)
+1. [Chapter 3: Tools for Security and Insecurity](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_11.html#c3)
+    1. [3.1 Sources of Entropy](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_11.html#c03-1)
+    1. [3.2 Entropy Extraction via Hashing](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_11.html#c03-2)
+    1. [3.3 Unbiasing a Biased Coin](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_11.html#c03-3)
+    1. [3.4 Combining Weak Sources of Entropy](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_11.html#c03-7)
+    1. [3.5 Pseudorandom Number Generators](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_11.html#c03-8)
+    1. [3.6 Uniform Sampling](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_11.html#c03-11)
+    1. [3.7 Random Permutation Generation](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_11.html#c03-12)
+    1. [3.8 Sound Approach to Random Number Generation and Use](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_11.html#c03-15)
+    1. [3.9 RNGs Are the Beating Heart of System Security](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_11.html#c03-16)
+    1. [3.10 Cryptovirology Benefits from General Advances](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_11.html#c03-17)
+    1. [3.11 Anonymizing Program Propagation](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_11.html#c03-20)
+1. [Chapter 4: The Two Faces of Anonymity](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_12.html#c4)
+    1. [4.1 Anonymity in a Digital Age](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_12.html#c04-21)
+    1. [4.2 Deniable Password Snatching](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_12.html#c04-27)
+1. [Chapter 5: Cryptocounters](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_13.html#c5)
+    1. [5.1 Overview of Cryptocounters](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_13.html#c05-32)
+    1. [5.2 Implementing Cryptocounters](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_13.html#c05-33)
+    1. [5.3 Other Approaches to Cryptocounters](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_13.html#c05-39)
+1. [Chapter 6: Computationally Secure Information Stealing](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_14.html#c6)
+    1. [6.1 Using Viruses to Steal Information](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_14.html#c06-40)
+    1. [6.2 Private Information Retrieval](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_14.html#c06-41)
+    1. [6.3 A Variant of the Phi-Hiding Scheme](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_14.html#c06-45)
+    1. [6.4 Tagged Private Information Retrieval](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_14.html#c06-46)
+    1. [6.5 Secure Information Stealing Malware](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_14.html#c06-47)
+    1. [6.6 Deniable Password Snatching Based on Phi-Hiding](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_14.html#c06-48)
+    1. [6.7 Malware Loaders](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_14.html#c06-52)
+    1. [6.8 Cryptographic Computing](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_14.html#c06-53)
+1. [Chapter 7: Non-Zero Sum Games and Survivable Malware](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_15.html#c7)
+    1. [7.1 Survivable Malware](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_15.html#c07-54)
+    1. [7.2 Elements of Game Theory](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_15.html#c07-55)
+    1. [7.3 Attacking a Brokerage Firm](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_15.html#c07-56)
+    1. [7.4 Other Two-Player Game Attacks](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_15.html#c07-61)
+    1. [7.5 Future Possibilities](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_15.html#c07-64)
+1. [Chapter 8: Coping with Malicious Software](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_16.html#c8)
+    1. [8.1 Undecidability of Virus Detection](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_16.html#c08-65)
+    1. [8.2 Virus Identification and Obfuscation](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_16.html#c08-66)
+    1. [8.3 Heuristic Virus Detection](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_16.html#c08-69)
+    1. [8.4 Change Detection](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_16.html#c08-73)
+1. [Chapter 9: The Nature of Trojan Horses](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_17.html#c9)
+    1. [9.1 Text Editor Trojan Horse](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_17.html#c09-77)
+    1. [9.2 Salami Slicing Attacks](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_17.html#c09-78)
+    1. [9.3 Thompson&#39;s Password Snatcher](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_17.html#c09-79)
+    1. [9.4 The Subtle Nature of Trojan Horses](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_17.html#c09-80)
+1. [Chapter 10: Subliminal Channels](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_18.html#c10)
+    1. [10.1 Brief History of Subliminal Channels](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_18.html#c10-83)
+    1. [10.2 The Difference Between a Subliminal and a Covert Channel](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_18.html#c10-84)
+    1. [10.3 The Prisoner&#39;s Problem of Gustavus Simmons](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_18.html#c10-85)
+    1. [10.4 Subliminal Channels New and Old](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_18.html#c10-86)
+    1. [10.5 The Impact of Subliminal Channels on Key Escrow](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_18.html#c10-92)
+1. [Chapter 11: SETUP Attack on Factoring Based Key Generation](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_19.html#c11)
+    1. [11.1 Honest Composite Key Generation](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_19.html#c11-93)
+    1. [11.2 Weak Backdoor Attacks on Composite Key Generation](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_19.html#c11-94)
+    1. [11.3 Probabilistic Bias Removal Method](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_19.html#c11-98)
+    1. [11.4 Secretly Embedded Trapdoors](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_19.html#c11-99)
+    1. [11.5 Key Generation SETUP Attack](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_19.html#c11-100)
+    1. [11.6 Security of the SETUP Attack](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_19.html#c11-101)
+    1. [11.7 Detecting the Attack in Code Reviews](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_19.html#c11-104)
+    1. [11.8 Countering the SETUP Attack](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_19.html#c11-105)
+    1. [11.9 Thinking Outside the Box](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_19.html#c11-106)
+    1. [11.10 The Isaac Newton Institute Lecture](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_19.html#c11-107)
+1. [Chapter 12: SETUP Attacks on Discrete-Log Cryptosystems](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_20.html#c12)
+    1. [12.1 The Discrete-Log SETUP Primitive](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_20.html#c12-108)
+    1. [12.2 Diffie-Hellman SETUP Attack](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_20.html#c12-109)
+    1. [12.3 Security of the Diffie-Hellman SETUP Attack](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_20.html#c12-110)
+    1. [12.4 Intuition Behind the Attack](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_20.html#c12-113)
+    1. [12.5 Kleptogram Attack Methodology](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_20.html#c12-114)
+    1. [12.6 PKCS SETUP Attacks](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_20.html#c12-115)
+    1. [12.7 SETUP Attacks on Digital Signature Algorithms](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_20.html#c12-118)
+    1. [12.8 Rogue Use of DSA for Encryption](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_20.html#c12-123)
+    1. [12.9 Other Work in Kleptography](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_20.html#c12-124)
+    1. [12.10 Should You Trust Your Smart Card?](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_20.html#c12-125)
+1. [Appendix A: Computer Virus Basics](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_21.html#appa)
+    1. [A.1 Origins of Malicious Software](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_21.html#appa-1)
+    1. [A.2 Trojans, Viruses, and Worms: What Is the Difference?](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_21.html#appa-2)
+    1. [A.3 A Simple DOS COM Infector](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_21.html#appa-3)
+    1. [A.4 Viruses Don&#39;t Have to Gain Control Before the Host](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_21.html#appa-4)
+1. [Appendix B: Notation and Other Background Information](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_22.html#appb)
+    1. [B.1 Notation Used Throughout the Book](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_22.html#appb-1)
+    1. [B.2 Basic Facts from Number Theory and Algorithmics](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_22.html#appb-2)
+    1. [B.3 Intractability: Malware&#39;s Biggest Ally](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_22.html#appb-3)
+    1. [B.4 Random Oracles and Functions](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_22.html#appb-14)
+1. [Appendix C: Public Key Cryptography in a Nutshell](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_23.html#appc)
+    1. [C.1 Overview of Cryptography](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_23.html#appc-1)
+    1. [C.2 Discrete-Log Based Cryptosystems](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_23.html#appc-12)
+1. [Glossary](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_24.html#glo)
+1. [References](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_25.html#ref)
+1. [Index](https://ebookreading.net/view/book/Malicious+Cryptography%3A+Exposing+Cryptovirology-EB9780764568466_26.html#ind)

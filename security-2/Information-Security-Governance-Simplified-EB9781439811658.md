@@ -1,0 +1,118 @@
+![Cover image for Information Security Governance Simplified](https://imgdetail.ebookreading.net/cover/cover/security/EB9781439811658.jpg)
+
+[Information Security Governance Simplified](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_1.html "Information Security Governance Simplified")
+====================================================================================================================
+
+Author : [Todd Fitzgerald](https://ebookreading.net/search/author/Todd+Fitzgerald)
+
+Release Date : 2016/04/01
+
+ISBN : 9781439811658
+
+Topic : [Security](https://ebookreading.net/search/category/security)
+
+Book Description
+-----------------
+
+Security practitioners must be able to build cost-effective security programs while also complying with government regulations. Information Security Governance Simplified: From the Boardroom to the Keyboard lays out these regulations in simple terms and explains how to use control frameworks to build an air-tight information security (IS) program and governance structure.
+Defining the leadership skills required by IS officers, the book examines the pros and cons of different reporting structures and highlights the various control frameworks available. It details the functions of the security department and considers the control areas, including physical, network, application, business continuity/disaster recover, and identity management. 
+Todd Fitzgerald explains how to establish a solid foundation for building your security program and shares time-tested insights about what works and what doesn’t when building an IS program. Highlighting security considerations for managerial, technical, and operational controls, it provides helpful tips for selling your program to management. It also includes tools to help you create a workable IS charter and your own IS policies. Based on proven experience rather than theory, the book gives you the tools and real-world insight needed to secure your information while ensuring compliance with government regulations. 
+              Security practitioners must be able to build cost-effective security programs while also complying with government regulations. Information Security Governance Simplified: From the Boardroom to the Keyboard lays out these regulations in simple terms and explains how to use control frameworks to build an air-tight information security (IS) program and governance structure.
+Defining the leadership skills required by IS officers, the book examines the pros and cons of different reporting structures and highlights the various control frameworks available. It details the functions of the security department and considers the control areas, including physical, network, application, business continuity/disaster recover, and identity management. 
+Todd Fitzgerald explains how to establish a solid foundation for building your security program and shares time-tested insights about what works and what doesn’t when building an IS program. Highlighting security considerations for managerial, technical, and operational controls, it provides helpful tips for selling your program to management. It also includes tools to help you create a workable IS charter and your own IS policies. Based on proven experience rather than theory, the book gives you the tools and real-world insight needed to secure your information while ensuring compliance with government regulations. 
+              
+Table of Contents
+-----------------
+
+1. [Front Cover (1/2)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_1.html)
+1. [Front Cover (2/2)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_2.html)
+1. [Contents (1/2)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_3.html)
+1. [Contents (2/2)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_4.html)
+1. [Foreword](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_5.html)
+1. [Acknowledgments](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_6.html)
+1. [Introduction](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_7.html)
+1. [About the Author](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_8.html)
+1. [Chapter 1: Getting Information Security Right : Top to Bottom (1/2)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_9.html)
+1. [Chapter 1: Getting Information Security Right : Top to Bottom (2/2)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_10.html)
+1. [Chapter 2: Developing Information Security Strategy (1/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_11.html)
+1. [Chapter 2: Developing Information Security Strategy (2/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_12.html)
+1. [Chapter 2: Developing Information Security Strategy (3/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_13.html)
+1. [Chapter 2: Developing Information Security Strategy (4/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_14.html)
+1. [Chapter 2: Developing Information Security Strategy (5/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_15.html)
+1. [Chapter 2: Developing Information Security Strategy (6/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_16.html)
+1. [Chapter 3: Defining the Security Management Organization (1/8)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_17.html)
+1. [Chapter 3: Defining the Security Management Organization (2/8)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_18.html)
+1. [Chapter 3: Defining the Security Management Organization (3/8)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_19.html)
+1. [Chapter 3: Defining the Security Management Organization (4/8)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_20.html)
+1. [Chapter 3: Defining the Security Management Organization (5/8)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_21.html)
+1. [Chapter 3: Defining the Security Management Organization (6/8)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_22.html)
+1. [Chapter 3: Defining the Security Management Organization (7/8)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_23.html)
+1. [Chapter 3: Defining the Security Management Organization (8/8)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_24.html)
+1. [Chapter 4: Interacting with the C-Suite (1/9)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_25.html)
+1. [Chapter 4: Interacting with the C-Suite (2/9)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_26.html)
+1. [Chapter 4: Interacting with the C-Suite (3/9)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_27.html)
+1. [Chapter 4: Interacting with the C-Suite (4/9)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_28.html)
+1. [Chapter 4: Interacting with the C-Suite (5/9)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_29.html)
+1. [Chapter 4: Interacting with the C-Suite (6/9)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_30.html)
+1. [Chapter 4: Interacting with the C-Suite (7/9)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_31.html)
+1. [Chapter 4: Interacting with the C-Suite (8/9)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_32.html)
+1. [Chapter 4: Interacting with the C-Suite (9/9)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_33.html)
+1. [Chapter 5: Managing Risk to an Acceptable Level (1/4)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_34.html)
+1. [Chapter 5: Managing Risk to an Acceptable Level (2/4)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_35.html)
+1. [Chapter 5: Managing Risk to an Acceptable Level (3/4)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_36.html)
+1. [Chapter 5: Managing Risk to an Acceptable Level (4/4)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_37.html)
+1. [Chapter 6: Creating Effective Information Security Policies (1/5)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_38.html)
+1. [Chapter 6: Creating Effective Information Security Policies (2/5)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_39.html)
+1. [Chapter 6: Creating Effective Information Security Policies (3/5)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_40.html)
+1. [Chapter 6: Creating Effective Information Security Policies (4/5)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_41.html)
+1. [Chapter 6: Creating Effective Information Security Policies (5/5)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_42.html)
+1. [Chapter 7: Security Compliance Using Control Frameworks (1/5)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_43.html)
+1. [Chapter 7: Security Compliance Using Control Frameworks (2/5)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_44.html)
+1. [Chapter 7: Security Compliance Using Control Frameworks (3/5)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_45.html)
+1. [Chapter 7: Security Compliance Using Control Frameworks (4/5)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_46.html)
+1. [Chapter 7: Security Compliance Using Control Frameworks (5/5)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_47.html)
+1. [Chapter 8: Managerial Controls : Practical Security Considerations (1/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_48.html)
+1. [Chapter 8: Managerial Controls : Practical Security Considerations (2/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_49.html)
+1. [Chapter 8: Managerial Controls : Practical Security Considerations (3/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_50.html)
+1. [Chapter 8: Managerial Controls : Practical Security Considerations (4/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_51.html)
+1. [Chapter 8: Managerial Controls : Practical Security Considerations (5/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_52.html)
+1. [Chapter 8: Managerial Controls : Practical Security Considerations (6/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_53.html)
+1. [Chapter 9: Technical Controls : Practical Security Considerations (1/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_54.html)
+1. [Chapter 9: Technical Controls : Practical Security Considerations (2/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_55.html)
+1. [Chapter 9: Technical Controls : Practical Security Considerations (3/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_56.html)
+1. [Chapter 9: Technical Controls : Practical Security Considerations (4/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_57.html)
+1. [Chapter 9: Technical Controls : Practical Security Considerations (5/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_58.html)
+1. [Chapter 9: Technical Controls : Practical Security Considerations (6/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_59.html)
+1. [Chapter 10: Operational Controls : Practical Security Considerations (1/8)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_60.html)
+1. [Chapter 10: Operational Controls : Practical Security Considerations (2/8)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_61.html)
+1. [Chapter 10: Operational Controls : Practical Security Considerations (3/8)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_62.html)
+1. [Chapter 10: Operational Controls : Practical Security Considerations (4/8)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_63.html)
+1. [Chapter 10: Operational Controls : Practical Security Considerations (5/8)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_64.html)
+1. [Chapter 10: Operational Controls : Practical Security Considerations (6/8)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_65.html)
+1. [Chapter 10: Operational Controls : Practical Security Considerations (7/8)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_66.html)
+1. [Chapter 10: Operational Controls : Practical Security Considerations (8/8)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_67.html)
+1. [Chapter 11: The Auditors Have Arrived, Now What? (1/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_68.html)
+1. [Chapter 11: The Auditors Have Arrived, Now What? (2/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_69.html)
+1. [Chapter 11: The Auditors Have Arrived, Now What? (3/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_70.html)
+1. [Chapter 11: The Auditors Have Arrived, Now What? (4/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_71.html)
+1. [Chapter 11: The Auditors Have Arrived, Now What? (5/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_72.html)
+1. [Chapter 11: The Auditors Have Arrived, Now What? (6/6)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_73.html)
+1. [Chapter 12: Effective Security Communications (1/7)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_74.html)
+1. [Chapter 12: Effective Security Communications (2/7)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_75.html)
+1. [Chapter 12: Effective Security Communications (3/7)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_76.html)
+1. [Chapter 12: Effective Security Communications (4/7)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_77.html)
+1. [Chapter 12: Effective Security Communications (5/7)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_78.html)
+1. [Chapter 12: Effective Security Communications (6/7)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_79.html)
+1. [Chapter 12: Effective Security Communications (7/7)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_80.html)
+1. [Chapter 13: The Law and Information Security (1/4)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_81.html)
+1. [Chapter 13: The Law and Information Security (2/4)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_82.html)
+1. [Chapter 13: The Law and Information Security (3/4)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_83.html)
+1. [Chapter 13: The Law and Information Security (4/4)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_84.html)
+1. [Chapter 14: Learning from Information Security Incidents (1/4)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_85.html)
+1. [Chapter 14: Learning from Information Security Incidents (2/4)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_86.html)
+1. [Chapter 14: Learning from Information Security Incidents (3/4)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_87.html)
+1. [Chapter 14: Learning from Information Security Incidents (4/4)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_88.html)
+1. [Chapter 15: 17 Ways to Dismantle Information Security Governance Efforts (1/3)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_89.html)
+1. [Chapter 15: 17 Ways to Dismantle Information Security Governance Efforts (2/3)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_90.html)
+1. [Chapter 15: 17 Ways to Dismantle Information Security Governance Efforts (3/3)](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_91.html)
+1. [Back Cover](https://ebookreading.net/view/book/Information+Security+Governance+Simplified-EB9781439811658_92.html)

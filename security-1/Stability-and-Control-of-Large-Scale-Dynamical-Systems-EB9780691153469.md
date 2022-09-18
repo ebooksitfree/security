@@ -1,0 +1,118 @@
+![Cover image for Stability and Control of Large-Scale Dynamical Systems](https://imgdetail.ebookreading.net/cover/cover/security/EB9780691153469.jpg)
+
+[Stability and Control of Large-Scale Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_1.html "Stability and Control of Large-Scale Dynamical Systems")
+====================================================================================================================
+
+Author : [Sergey G. Nersesov](https://ebookreading.net/search/author/Sergey+G.+Nersesov),[ Wassim M. Haddad](https://ebookreading.net/search/author/+Wassim+M.+Haddad)
+
+Release Date : 2011/11/01
+
+ISBN : 9780691153469
+
+Topic : [Security](https://ebookreading.net/search/category/security)
+
+Book Description
+-----------------
+
+Modern complex large-scale dynamical systems exist in virtually every aspect of science and engineering, and are associated with a wide variety of physical, technological, environmental, and social phenomena, including aerospace, power, communications, and network systems, to name just a few. This book develops a general stability analysis and control design framework for nonlinear large-scale interconnected dynamical systems, and presents the most complete treatment on vector Lyapunov function methods, vector dissipativity theory, and decentralized control architectures.
+ Large-scale dynamical systems are strongly interconnected and consist of interacting subsystems exchanging matter, energy, or information with the environment. The sheer size, or dimensionality, of these systems necessitates decentralized analysis and control system synthesis methods for their analysis and design. Written in a theorem-proof format with examples to illustrate new concepts, this book addresses continuous-time, discrete-time, and hybrid large-scale systems. It develops finite-time stability and finite-time decentralized stabilization, thermodynamic modeling, maximum entropy control, and energy-based decentralized control.
+ This book will interest applied mathematicians, dynamical systems theorists, control theorists, and engineers, and anyone seeking a fundamental and comprehensive understanding of large-scale interconnected dynamical systems and control.
+              Modern complex large-scale dynamical systems exist in virtually every aspect of science and engineering, and are associated with a wide variety of physical, technological, environmental, and social phenomena, including aerospace, power, communications, and network systems, to name just a few. This book develops a general stability analysis and control design framework for nonlinear large-scale interconnected dynamical systems, and presents the most complete treatment on vector Lyapunov function methods, vector dissipativity theory, and decentralized control architectures.
+ Large-scale dynamical systems are strongly interconnected and consist of interacting subsystems exchanging matter, energy, or information with the environment. The sheer size, or dimensionality, of these systems necessitates decentralized analysis and control system synthesis methods for their analysis and design. Written in a theorem-proof format with examples to illustrate new concepts, this book addresses continuous-time, discrete-time, and hybrid large-scale systems. It develops finite-time stability and finite-time decentralized stabilization, thermodynamic modeling, maximum entropy control, and energy-based decentralized control.
+ This book will interest applied mathematicians, dynamical systems theorists, control theorists, and engineers, and anyone seeking a fundamental and comprehensive understanding of large-scale interconnected dynamical systems and control.
+              
+Table of Contents
+-----------------
+
+1. [Cover Page](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_0.html)
+1. [Halftitle](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_3.html)
+1. [Title Page](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_4.html)
+1. [Copyright](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_5.html)
+1. [Dedication](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_6.html)
+1. [Contents](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_8.html)
+1. [Preface](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_9.html)
+1. [Chapter 1. Introduction](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_10.html)
+    1. [1.1 Large-Scale Interconnected Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_10.html#h2_1.1)
+    1. [1.2 A Brief Outline of the Monograph](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_10.html#h2_1.2)
+1. [Chapter 2. Stability Theory via Vector Lyapunov Functions](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_11.html)
+    1. [2.1 Introduction](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_11.html#h2_2.1)
+    1. [2.2 Notation and Definitions](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_11.html#h2_2.2)
+    1. [2.3 Quasi-Monotone and Essentially Nonnegative Vector Fields](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_11.html#h2_2.3)
+    1. [2.4 Generalized Differential Inequalities](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_11.html#h2_2.4)
+    1. [2.5 Stability Theory via Vector Lyapunov Functions](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_11.html#h2_2.5)
+    1. [2.6 Discrete-Time Stability Theory via Vector Lyapunov Functions](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_11.html#h2_2.6)
+1. [Chapter 3. Large-Scale Continuous-Time Interconnected Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_12.html)
+    1. [3.1 Introduction](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_12.html#h2_3.1)
+    1. [3.2 Vector Dissipativity Theory for Large-Scale Nonlinear Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_12.html#h2_3.2)
+    1. [3.3 Extended Kalman-Yakubovich-Popov Conditions for Large-Scale Nonlinear Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_12.html#h2_3.3)
+    1. [3.4 Specialization to Large-Scale Linear Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_12.html#h2_3.4)
+    1. [3.5 Stability of Feedback Interconnections of Large-Scale Nonlinear Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_12.html#h2_3.5)
+1. [Chapter 4. Thermodynamic Modeling of Large-Scale Interconnected Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_13.html)
+    1. [4.1 Introduction](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_13.html#h2_4.1)
+    1. [4.2 Conservation of Energy and the First Law of Thermodynamics](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_13.html#h2_4.2)
+    1. [4.3 Nonconservation of Entropy and the Second Law of Thermodynamics](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_13.html#h2_4.3)
+    1. [4.4 Semistability and Large-Scale Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_13.html#h2_4.4)
+    1. [4.5 Energy Equipartition](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_13.html#h2_4.5)
+    1. [4.6 Entropy Increase and the Second Law of Thermodynamics](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_13.html#h2_4.6)
+    1. [4.7 Thermodynamic Models with Linear Energy Exchange](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_13.html#h2_4.7)
+1. [Chapter 5. Control of Large-Scale Dynamical Systems via Vector Lyapunov Functions](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_14.html)
+    1. [5.1 Introduction](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_14.html#h2_5.1)
+    1. [5.2 Control Vector Lyapunov Functions](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_14.html#h2_5.2)
+    1. [5.3 Stability Margins, Inverse Optimality, and Vector Dissipativity](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_14.html#h2_5.3)
+    1. [5.4 Decentralized Control for Large-Scale Nonlinear Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_14.html#h2_5.4)
+1. [Chapter 6. Finite-Time Stabilization of Large-Scale Systems via Control Vector Lyapunov Functions](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_15.html)
+    1. [6.1 Introduction](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_15.html#h2_6.1)
+    1. [6.2 Finite-Time Stability via Vector Lyapunov Functions](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_15.html#h2_6.2)
+    1. [6.3 Finite-Time Stabilization of Large-Scale Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_15.html#h2_6.3)
+    1. [6.4 Finite-Time Stabilization for Large-Scale Homogeneous Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_15.html#h2_6.4)
+    1. [6.5 Decentralized Control for Finite-Time Stabilization of Large-Scale Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_15.html#h2_6.5)
+1. [Chapter 7. Coordination Control for Multiagent Interconnected Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_16.html)
+    1. [7.1 Introduction](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_16.html#h2_7.1)
+    1. [7.2 Stability and Stabilization of Time-Varying Sets](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_16.html#h2_7.2)
+    1. [7.3 Control Design for Multivehicle Coordinated Motion](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_16.html#h2_7.3)
+    1. [7.4 Stability and Stabilization of Time-Invariant Sets](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_16.html#h2_7.4)
+    1. [7.5 Control Design for Static Formations](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_16.html#h2_7.5)
+    1. [7.6 Obstacle Avoidance in Multivehicle Coordination](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_16.html#h2_7.6)
+1. [Chapter 8. Large-Scale Discrete-Time Interconnected Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_17.html)
+    1. [8.1 Introduction](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_17.html#h2_8.1)
+    1. [8.2 Vector Dissipativity Theory for Discrete-Time Large-Scale Nonlinear Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_17.html#h2_8.2)
+    1. [8.3 Extended Kalman-Yakubovich-Popov Conditions for Discrete-Time Large-Scale Nonlinear Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_17.html#h2_8.3)
+    1. [8.4 Specialization to Discrete-Time Large-Scale Linear Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_17.html#h2_8.4)
+    1. [8.5 Stability of Feedback Interconnections of Discrete-Time Large-Scale Nonlinear Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_17.html#h2_8.5)
+1. [Chapter 9. Thermodynamic Modeling for Discrete-Time Large-Scale Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_18.html)
+    1. [9.1 Introduction](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_18.html#h2_9.1)
+    1. [9.2 Conservation of Energy and the First Law of Thermodynamics](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_18.html#h2_9.2)
+    1. [9.3 Nonconservation of Entropy and the Second Law of Thermodynamics](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_18.html#h2_9.3)
+    1. [9.4 Nonconservation of Ectropy](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_18.html#h2_9.4)
+    1. [9.5 Semistability of Discrete-Time Thermodynamic Models](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_18.html#h2_9.5)
+    1. [9.6 Entropy Increase and the Second Law of Thermodynamics](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_18.html#h2_9.6)
+    1. [9.7 Thermodynamic Models with Linear Energy Exchange](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_18.html#h2_9.7)
+1. [Chapter 10. Large-Scale Impulsive Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_19.html)
+    1. [10.1 Introduction](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_19.html#h2_10.1)
+    1. [10.2 Stability of Impulsive Systems via Vector Lyapunov Functions](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_19.html#h2_10.2)
+    1. [10.3 Vector Dissipativity Theory for Large-Scale Impulsive Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_19.html#h2_10.3)
+    1. [10.4 Extended Kalman-Yakubovich-Popov Conditions for Large-Scale Impulsive Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_20.html#h2_10.4)
+    1. [10.5 Specialization to Large-Scale Linear Impulsive Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_20.html#h2_10.5)
+    1. [10.6 Stability of Feedback Interconnections of Large-Scale Impulsive Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_20.html#h2_10.6)
+1. [Chapter 11. Control Vector Lyapunov Functions for Large-Scale Impulsive Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_22.html)
+    1. [11.1 Introduction](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_22.html#h2_11.1)
+    1. [11.2 Control Vector Lyapunov Functions for Impulsive Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_22.html#h2_11.2)
+    1. [11.3 Stability Margins and Inverse Optimality](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_22.html#h2_11.3)
+    1. [11.4 Decentralized Control for Large-Scale Impulsive Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_22.html#h2_11.4)
+1. [Chapter 12. Finite-Time Stabilization of Large-Scale Impulsive Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_23.html)
+    1. [12.1 Introduction](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_23.html#h2_12.1)
+    1. [12.2 Finite-Time Stability of Impulsive Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_23.html#h2_12.2)
+    1. [12.3 Finite-Time Stabilization of Impulsive Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_23.html#h2_12.3)
+    1. [12.4 Finite-Time Stabilizing Control for Large-Scale Impulsive Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_23.html#h2_12.4)
+1. [Chapter 13. Hybrid Decentralized Maximum Entropy Control for Large-Scale Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_0.html)
+    1. [13.1 Introduction](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_0.html#h2_13.1)
+    1. [13.2 Hybrid Decentralized Control and Large-Scale Impulsive Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_0.html#h2_13.2)
+    1. [13.3 Hybrid Decentralized Control for Large-Scale Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_0.html#h2_13.3)
+    1. [13.4 Interconnected Euler-Lagrange Dynamical Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_0.html#h2_13.4)
+    1. [13.5 Hybrid Decentralized Control Design](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_0.html#h2_13.5)
+    1. [13.6 Quasi-Thermodynamic Stabilization and Maximum Entropy Control](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_0.html#h2_13.6)
+    1. [13.7 Hybrid Decentralized Control for Combustion Systems](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_0.html#h2_13.7)
+    1. [13.8 Experimental Verification of Hybrid Decentralized Controller](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_0.html#h2_13.8)
+1. [Chapter 14. Conclusion](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_25.html)
+1. [Bibliography](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_0.html)
+1. [Index](https://ebookreading.net/view/book/Stability+and+Control+of+Large-Scale+Dynamical+Systems-EB9780691153469_26.html)

@@ -1,0 +1,220 @@
+![Cover image for Network Defense and Countermeasures: Principles and Practices, Second Edition](https://imgdetail.ebookreading.net/cover/cover/security/EB9780133384390.jpg)
+
+[Network Defense and Countermeasures: Principles and Practices, Second Edition](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_1.html "Network Defense and Countermeasures: Principles and Practices, Second Edition")
+====================================================================================================================
+
+Author : [William Easttom II](https://ebookreading.net/search/author/William+Easttom+II)
+
+Release Date : 2013/10/01
+
+ISBN : 9780133384390
+
+Topic : [Security](https://ebookreading.net/search/category/security)
+
+Book Description
+-----------------
+
+Network Defense and Countermeasures:
+Principles and Practices
+Everything you need to know about modern network attacks and defense, in one book
+Clearly explains core network security concepts, challenges, technologies, and skills
+ Thoroughly updated for the latest attacks and countermeasures
+The perfect beginner’s guide for anyone interested in a network security career
+Security is the IT industry’s hottest topic–and that’s where the hottest opportunities are, too. Organizations desperately need professionals who can help them safeguard against the most sophisticated attacks ever created–attacks from well-funded global criminal syndicates, and even governments.
+Today, security begins with defending the organizational network. Network Defense and Countermeasures, Second Edition is today’s most complete, easy-to-understand introduction to modern network attacks and their effective defense.
+From malware and DDoS attacks to firewalls and encryption, Chuck Easttom blends theoretical foundations with up-to-the-minute best-practice techniques. Starting with the absolute basics, he discusses crucial topics many security books overlook, including the emergence of network-based espionage and terrorism.
+If you have a basic understanding of networks, that’s all the background you’ll need to succeed with this book: no math or advanced computer science is required. You’ll find projects, questions, exercises, case studies, links to expert resources, and a complete glossary–all designed to deepen your understanding and prepare you to defend real-world networks.
+Chuck Easttom has worked in all aspects of IT, including network administration, software engineering, and IT management. For several years, he has taught IT topics in college and corporate environments, worked as an independent IT consultant, and served as an expert witness in court cases involving computers. He holds 28 industry certifications, including CISSP, ISSAP, Certified Ethical Hacker, Certified Hacking Forensics Investigator, EC Council Certified Security Administrator, and EC Council Certified Instructor. He served as subject matter expert for CompTIA in its development or revision of four certification tests, including Security+. He recently assisted the EC Council in developing its new advanced cryptography course. Easttom has authored 13 books on topics including computer security and crime.
+Learn how to
+  n  Understand essential network security concepts, challenges, and careers
+  n  Learn how modern attacks work
+  n  Discover how firewalls, intrusion detection systems (IDS), and virtual private networks (VPNs) combine to protect modern networks
+  n  Select the right security technologies for any network environment
+  n  Use encryption to protect information
+  n  Harden Windows and Linux systems and keep them patched
+  n  Securely configure web browsers to resist attacks
+  n  Defend against malware
+  n  Define practical, enforceable security policies
+  n  Use the “6 Ps” to assess technical and human aspects of system security
+  n  Detect and fix system vulnerability
+  n  Apply proven security standards and models, including Orange Book, Common Criteria, and Bell-LaPadula
+  n  Ensure physical security and prepare for disaster recovery
+  n  Know your enemy: learn basic hacking, and see how to counter it
+  n  Understand standard forensic techniques and prepare for investigations of digital crime
+              
+Table of Contents
+-----------------
+
+1. [About This eBook](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_2.html)
+1. [Title Page](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_3.html)
+1. [Copyright Page](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_4.html)
+1. [Contents at a Glance](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_5.html)
+1. [Table of Contents](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_6.html)
+1. [About the Author](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_7.html)
+1. [Dedication](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_8.html)
+1. [Acknowledgments](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_9.html)
+1. [We Want to Hear from You!](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_10.html)
+1. [Reader Services](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_11.html)
+1. [Preface](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_12.html)
+    1. [Audience](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_12.html#pref05lev1sec1)
+    1. [Overview of the Book](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_12.html#pref05lev1sec2)
+1. [Chapter 1. Introduction to Network Security](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_13.html)
+    1. [Introduction](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_13.html#ch01lev1sec1)
+    1. [The Basics of a Network](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_13.html#ch01lev1sec2)
+    1. [Basic Network Utilities](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_13.html#ch01lev1sec3)
+    1. [The OSI Model](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_13.html#ch01lev1sec4)
+    1. [What Does This Mean for Security?](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_13.html#ch01lev1sec5)
+    1. [Assessing Likely Threats to the Network](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_13.html#ch01lev1sec6)
+    1. [Classifications of Threats](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_13.html#ch01lev1sec7)
+    1. [Likely Attacks](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_13.html#ch01lev1sec8)
+    1. [Threat Assessment](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_13.html#ch01lev1sec9)
+    1. [Understanding Security Terminology](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_13.html#ch01lev1sec10)
+    1. [Choosing a Network Security Approach](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_13.html#ch01lev1sec11)
+    1. [Network Security and the Law](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_13.html#ch01lev1sec12)
+    1. [Using Security Resources](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_13.html#ch01lev1sec13)
+    1. [Summary](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_13.html#ch01lev1sec14)
+    1. [Test Your Skills](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_13.html#ch01lev1sec15)
+1. [Chapter 2. Types of Attacks](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_14.html)
+    1. [Introduction](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_14.html#ch02lev1sec1)
+    1. [Understanding Denial of Service Attacks](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_14.html#ch02lev1sec2)
+    1. [Defending Against Buffer Overflow Attacks](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_14.html#ch02lev1sec3)
+    1. [Defending Against IP Spoofing](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_14.html#ch02lev1sec4)
+    1. [Defending Against Session Hacking](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_14.html#ch02lev1sec5)
+    1. [Blocking Virus and Trojan Horse Attacks](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_14.html#ch02lev1sec6)
+    1. [Summary](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_14.html#ch02lev1sec7)
+    1. [Test Your Skills](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_14.html#ch02lev1sec8)
+1. [Chapter 3. Fundamentals of Firewalls](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_15.html)
+    1. [Introduction](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_15.html#ch03lev1sec1)
+    1. [What Is a Firewall?](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_15.html#ch03lev1sec2)
+    1. [Implementing Firewalls](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_15.html#ch03lev1sec3)
+    1. [Selecting and Using a Firewall](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_15.html#ch03lev1sec4)
+    1. [Using Proxy Servers](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_15.html#ch03lev1sec5)
+    1. [Summary](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_15.html#ch03lev1sec6)
+    1. [Test Your Skills](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_15.html#ch03lev1sec7)
+1. [Chapter 4. Firewall Practical Applications](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_16.html)
+    1. [Introduction](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_16.html#ch04lev1sec1)
+    1. [Using Single Machine Firewalls](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_16.html#ch04lev1sec2)
+    1. [Windows 7](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_16.html#ch04lev1sec3)
+    1. [User Account Control](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_16.html#ch04lev1sec4)
+    1. [Linux Firewalls](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_16.html#ch04lev1sec5)
+    1. [Using Small Office/Home Office Firewalls](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_16.html#ch04lev1sec6)
+    1. [Using Medium-Sized Network Firewalls](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_16.html#ch04lev1sec7)
+    1. [Using Enterprise Firewalls](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_16.html#ch04lev1sec8)
+    1. [Summary](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_16.html#ch04lev1sec9)
+    1. [Test Your Skills](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_16.html#ch04lev1sec10)
+1. [Chapter 5. Intrusion-Detection Systems](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_17.html)
+    1. [Introduction](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_17.html#ch05lev1sec1)
+    1. [Understanding IDS Concepts](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_17.html#ch05lev1sec2)
+    1. [Understanding and Implementing IDS Systems](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_17.html#ch05lev1sec3)
+    1. [Understanding and Implementing Honey Pots](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_17.html#ch05lev1sec4)
+    1. [Summary](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_17.html#ch05lev1sec5)
+    1. [Test Your Skills](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_17.html#ch05lev1sec6)
+1. [Chapter 6. Encryption Fundamentals](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_18.html)
+    1. [Introduction](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_18.html#ch06lev1sec1)
+    1. [The History of Encryption](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_18.html#ch06lev1sec2)
+    1. [Learning About Modern Encryption Methods](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_18.html#ch06lev1sec3)
+    1. [Identifying Good Encryption](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_18.html#ch06lev1sec4)
+    1. [Understanding Digital Signatures and Certificates](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_18.html#ch06lev1sec5)
+    1. [Understanding and Using Decryption](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_18.html#ch06lev1sec6)
+    1. [Cracking Passwords](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_18.html#ch06lev1sec7)
+    1. [Steganography](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_18.html#ch06lev1sec8)
+    1. [Steganalysis](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_18.html#ch06lev1sec9)
+    1. [Exploring the Future of Encryption](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_18.html#ch06lev1sec10)
+    1. [Summary](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_18.html#ch06lev1sec11)
+    1. [Test Your Skills](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_18.html#ch06lev1sec12)
+1. [Chapter 7. Virtual Private Networks](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_19.html)
+    1. [Introduction](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_19.html#ch07lev1sec1)
+    1. [Basic VPN Technology](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_19.html#ch07lev1sec2)
+    1. [Using VPN Protocols for VPN Encryption](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_19.html#ch07lev1sec3)
+    1. [IPSec](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_19.html#ch07lev1sec4)
+    1. [SSL](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_19.html#ch07lev1sec5)
+    1. [Implementing VPN Solutions](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_19.html#ch07lev1sec6)
+    1. [Summary](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_19.html#ch07lev1sec7)
+    1. [Test Your Skills](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_19.html#ch07lev1sec8)
+1. [Chapter 8. Operating System Hardening](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_20.html)
+    1. [Introduction](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_20.html#ch08lev1sec1)
+    1. [Configuring Windows Properly](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_20.html#ch08lev1sec2)
+    1. [Configuring Linux Properly](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_20.html#ch08lev1sec3)
+    1. [Patching the Operating System](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_20.html#ch08lev1sec4)
+    1. [Configuring Browsers](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_20.html#ch08lev1sec5)
+    1. [Summary](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_20.html#ch08lev1sec6)
+    1. [Test Your Skills](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_20.html#ch08lev1sec7)
+1. [Chapter 9. Defending Against Virus Attacks](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_21.html)
+    1. [Introduction](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_21.html#ch09lev1sec1)
+    1. [Understanding Virus Attacks](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_21.html#ch09lev1sec2)
+    1. [Virus Scanners](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_21.html#ch09lev1sec3)
+    1. [Antivirus Policies and Procedures](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_21.html#ch09lev1sec4)
+    1. [Additional Methods for Defending Your System](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_21.html#ch09lev1sec5)
+    1. [What to Do If Your System Is Infected by a Virus](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_21.html#ch09lev1sec6)
+    1. [Summary](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_21.html#ch09lev1sec7)
+    1. [Test Your Skills](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_21.html#ch09lev1sec8)
+1. [Chapter 10. Defending Against Trojan Horses, Spyware, and Adware](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_22.html)
+    1. [Introduction](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_22.html#ch10lev1sec1)
+    1. [Trojan Horses](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_22.html#ch10lev1sec2)
+    1. [Spyware and Adware](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_22.html#ch10lev1sec3)
+    1. [Summary](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_22.html#ch10lev1sec4)
+    1. [Test Your Skills](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_22.html#ch10lev1sec5)
+1. [Chapter 11. Security Policies](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_23.html)
+    1. [Introduction](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_23.html#ch11lev1sec1)
+    1. [Defining User Policies](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_23.html#ch11lev1sec2)
+    1. [Defining System Administration Policies](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_23.html#ch11lev1sec3)
+    1. [Defining Access Control](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_23.html#ch11lev1sec4)
+    1. [Defining Developmental Policies](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_23.html#ch11lev1sec5)
+    1. [Summary](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_23.html#ch11lev1sec6)
+    1. [Test Your Skills](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_23.html#ch11lev1sec7)
+1. [Chapter 12. Assessing System Security](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_24.html)
+    1. [Introduction](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_24.html#ch12lev1sec1)
+    1. [Evaluating the Security Risk](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_24.html#ch12lev1sec2)
+    1. [Making the Initial Assessment](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_24.html#ch12lev1sec3)
+    1. [Probing the Network](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_24.html#ch12lev1sec4)
+    1. [Security Documentation](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_24.html#ch12lev1sec5)
+    1. [Summary](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_24.html#ch12lev1sec6)
+    1. [Test Your Skills](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_24.html#ch12lev1sec7)
+1. [Chapter 13. Security Standards](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_25.html)
+    1. [Introduction](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_25.html#ch13lev1sec1)
+    1. [Using the Orange Book](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_25.html#ch13lev1sec2)
+    1. [Using the Rainbow Series](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_25.html#ch13lev1sec3)
+    1. [Using the Common Criteria](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_25.html#ch13lev1sec4)
+    1. [Using Security Models](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_25.html#ch13lev1sec5)
+    1. [U.S. Federal Regulations, Guidelines, and Standards](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_25.html#ch13lev1sec6)
+    1. [Summary](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_25.html#ch13lev1sec7)
+    1. [Test Your Skills](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_25.html#ch13lev1sec8)
+1. [Chapter 14. Physical Security and Disaster Recovery](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_26.html)
+    1. [Introduction](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_26.html#ch14lev1sec1)
+    1. [Physical Security](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_26.html#ch14lev1sec2)
+    1. [Disaster Recovery](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_26.html#ch14lev1sec3)
+    1. [Ensuring Fault Tolerance](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_26.html#ch14lev1sec4)
+    1. [Test Your Skills](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_26.html#ch14lev1sec5)
+1. [Chapter 15. Techniques Used by Attackers](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_27.html)
+    1. [Introduction](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_27.html#ch15lev1sec1)
+    1. [Preparing to Hack](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_27.html#ch15lev1sec2)
+    1. [The Attack Phase](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_27.html#ch15lev1sec3)
+    1. [Summary](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_27.html#ch15lev1sec4)
+    1. [Test Your Skills](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_27.html#ch15lev1sec5)
+1. [Chapter 16. Introduction to Forensics](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_28.html)
+    1. [Introduction](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_28.html#ch16lev1sec1)
+    1. [General Forensics Guidelines](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_28.html#ch16lev1sec2)
+    1. [FBI Forensics Guidelines](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_28.html#ch16lev1sec3)
+    1. [Finding Evidence on the PC](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_28.html#ch16lev1sec4)
+    1. [Gathering Evidence from a Cell Phone](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_28.html#ch16lev1sec5)
+    1. [Forensic Tools to Use](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_28.html#ch16lev1sec6)
+    1. [Summary](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_28.html#ch16lev1sec7)
+    1. [Test Your Skills](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_28.html#ch16lev1sec8)
+1. [Chapter 17. Cyber Terrorism](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_29.html)
+    1. [Introduction](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_29.html#ch17lev1sec1)
+    1. [Defending Against Computer-Based Espionage](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_29.html#ch17lev1sec2)
+    1. [Defending Against Computer-Based Terrorism](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_29.html#ch17lev1sec3)
+    1. [Choosing Defense Strategies](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_29.html#ch17lev1sec4)
+    1. [Summary](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_29.html#ch17lev1sec5)
+    1. [Test Your Skills](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_29.html#ch17lev1sec6)
+1. [Appendix A. References](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_30.html)
+    1. [Chapter 1](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_30.html#app01lev1sec1)
+    1. [Chapter 2](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_30.html#app01lev1sec2)
+    1. [Chapter 4](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_30.html#app01lev1sec3)
+    1. [Chapter 6](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_30.html#app01lev1sec4)
+    1. [Chapter 7](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_30.html#app01lev1sec5)
+    1. [Chapter 9](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_30.html#app01lev1sec6)
+    1. [Chapter 10](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_30.html#app01lev1sec7)
+    1. [Chapter 14](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_30.html#app01lev1sec8)
+1. [Glossary](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_31.html)
+1. [Index](https://ebookreading.net/view/book/Network+Defense+and+Countermeasures%3A+Principles+and+Practices%2C+Second+Edition-EB9780133384390_32.html)

@@ -1,0 +1,168 @@
+![Cover image for Computer Forensics JumpStart, Second Edition](https://imgdetail.ebookreading.net/cover/cover/security/EB9781118067659.jpg)
+
+[Computer Forensics JumpStart, Second Edition](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_1.html "Computer Forensics JumpStart, Second Edition")
+====================================================================================================================
+
+Author : [Diane Barrett](https://ebookreading.net/search/author/Diane+Barrett),[ Neil Broom](https://ebookreading.net/search/author/+Neil+Broom),[ Ed Tittel](https://ebookreading.net/search/author/+Ed+Tittel),[ K Rudolph](https://ebookreading.net/search/author/+K+Rudolph),[ Michael G. Solomon](https://ebookreading.net/search/author/+Michael+G.+Solomon)
+
+Release Date : 2011/03/01
+
+ISBN : 9781118067659
+
+Topic : [Security](https://ebookreading.net/search/category/security)
+
+Book Description
+-----------------
+
+Essential reading for launching a career in computer forensics
+Internet crime is on the rise, catapulting the need for computer forensics specialists. This new edition presents you with a completely updated overview of the basic skills that are required as a computer forensics professional. The author team of technology security veterans introduces the latest software and tools that exist and they review the available certifications in this growing segment of IT that can help take your career to a new level. A variety of real-world practices take you behind the scenes to look at the root causes of security attacks and provides you with a unique perspective as you launch a career in this fast-growing field.
+Explores the profession of computer forensics, which is more in demand than ever due to the rise of Internet crime
+Details the ways to conduct a computer forensics investigation
+Highlights tips and techniques for finding hidden data, capturing images, documenting your case, and presenting evidence in court as an expert witness
+Walks you through identifying, collecting, and preserving computer evidence
+Explains how to understand encryption and examine encryption files
+Computer Forensics JumpStart is the resource you need to launch a career in computer forensics.
+              Essential reading for launching a career in computer forensics
+Internet crime is on the rise, catapulting the need for computer forensics specialists. This new edition presents you with a completely updated overview of the basic skills that are required as a computer forensics professional. The author team of technology security veterans introduces the latest software and tools that exist and they review the available certifications in this growing segment of IT that can help take your career to a new level. A variety of real-world practices take you behind the scenes to look at the root causes of security attacks and provides you with a unique perspective as you launch a career in this fast-growing field.
+Explores the profession of computer forensics, which is more in demand than ever due to the rise of Internet crime
+Details the ways to conduct a computer forensics investigation
+Highlights tips and techniques for finding hidden data, capturing images, documenting your case, and presenting evidence in court as an expert witness
+Walks you through identifying, collecting, and preserving computer evidence
+Explains how to understand encryption and examine encryption files
+Computer Forensics JumpStart is the resource you need to launch a career in computer forensics.
+              
+Table of Contents
+-----------------
+
+1. [Cover](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_1.html)
+1. [Title Page](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_2.html)
+1. [Copyright](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_3.html)
+1. [Dear Reader,](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_4.html)
+1. [Dedication](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_5.html)
+1. [Acknowledgments](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_6.html)
+1. [About the Authors](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_7.html)
+1. [Introduction](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_8.html)
+    1. [Who Should Read This Book](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_9.html#f07-anchor-1)
+    1. [What This Book Covers](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_10.html#f07-anchor-2)
+    1. [How to Contact the Authors](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_11.html#f07-anchor-3)
+1. [Chapter 1: The Need for Computer Forensics](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_12.html)
+    1. [Defining Computer Forensics](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_13.html#c01-anchor-1)
+    1. [Computer Crime in Real Life](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_14.html#c01-anchor-2)
+    1. [Corporate versus Law Enforcement Concerns](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_15.html#c01-anchor-3)
+    1. [Training](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_16.html#c01-anchor-4)
+    1. [What Are Your Organization’s Needs?](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_17.html#c01-anchor-5)
+    1. [Terms to Know](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_18.html#c01-anchor-6)
+    1. [Review Questions](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_19.html#c01-anchor-7)
+1. [Chapter 2: Preparation—What to Do Before You Start](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_20.html)
+    1. [Know Your Hardware](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_21.html#c02-anchor-1)
+    1. [Know Your Operating System](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_22.html#c02-anchor-2)
+    1. [Know Your Limits](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_24.html#c02-anchor-3)
+    1. [Develop Your Incident Response Team](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_25.html#c02-anchor-4)
+    1. [Terms to Know](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_26.html#c02-anchor-5)
+    1. [Review Questions](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_27.html#c02-anchor-6)
+1. [Chapter 3: Computer Evidence](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_0.html)
+    1. [What Is Computer Evidence?](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_28.html#c03-anchor-1)
+    1. [Search and Seizure](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_29.html#c03-anchor-2)
+    1. [Chain of Custody](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_30.html#c03-anchor-3)
+    1. [Admissibility of Evidence in a Court of Law](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_31.html#c03-anchor-4)
+    1. [Leave No Trace](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_32.html#c03-anchor-5)
+    1. [Terms to Know](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_33.html#c03-anchor-6)
+    1. [Review Questions](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_34.html#c03-anchor-7)
+1. [Chapter 4: Common Tasks](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_35.html)
+    1. [Evidence Identification](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_36.html#c04-anchor-1)
+    1. [Evidence Preservation](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_37.html#c04-anchor-2)
+    1. [Evidence Analysis](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_38.html#c04-anchor-3)
+    1. [Evidence Presentation](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_39.html#c04-anchor-4)
+    1. [Terms to Know](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_40.html#c04-anchor-5)
+    1. [Review Questions](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_41.html#c04-anchor-6)
+1. [Chapter 5: Capturing the Data Image](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_42.html)
+    1. [The Imaging Process](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_43.html#c05-anchor-1)
+    1. [Partial Volume Images](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_44.html#c05-anchor-2)
+    1. [Working with Virtual Machines](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_45.html#c05-anchor-3)
+    1. [Imaging/Capture Tools](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_46.html#c05-anchor-4)
+    1. [Terms to Know](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_47.html#c05-anchor-5)
+    1. [Review Questions](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_48.html#c05-anchor-6)
+1. [Chapter 6: Extracting Information from Data](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_49.html)
+    1. [What Are You Looking For?](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_50.html#c06-anchor-1)
+    1. [How People Think](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_51.html#c06-anchor-2)
+    1. [Picking the Low-Hanging Fruit](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_52.html#c06-anchor-3)
+    1. [Hidden Evidence](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_53.html#c06-anchor-4)
+    1. [Trace Evidence](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_54.html#c06-anchor-5)
+    1. [Terms to Know](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_55.html#c06-anchor-6)
+    1. [Review Questions](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_56.html#c06-anchor-7)
+1. [Chapter 7: Passwords and Encryption](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_57.html)
+    1. [Passwords](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_58.html#c07-anchor-1)
+    1. [Encryption Basics](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_59.html#c07-anchor-2)
+    1. [Common Encryption Practices](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_60.html#c07-anchor-3)
+    1. [Strengths and Weaknesses of Encryption](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_61.html#c07-anchor-4)
+    1. [Handling Encrypted Data](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_62.html#c07-anchor-5)
+    1. [Terms to Know](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_63.html#c07-anchor-6)
+    1. [Review Questions](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_64.html#c07-anchor-7)
+1. [Chapter 8: Common Forensic Tools](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_65.html)
+    1. [Disk Imaging and Validation Tools](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_66.html#c08-anchor-1)
+    1. [Forensic Tools](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_67.html#c08-anchor-2)
+    1. [Your Forensic Toolkit](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_68.html#c08-anchor-3)
+    1. [Terms to Know](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_69.html#c08-anchor-4)
+    1. [Review Questions](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_70.html#c08-anchor-5)
+1. [Chapter 9: Pulling It All Together](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_71.html)
+    1. [Creating Easy-to-Use Reports](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_72.html#c09-anchor-1)
+    1. [Document Everything, Assume Nothing](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_73.html#c09-anchor-2)
+    1. [Formulating the Report](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_74.html#c09-anchor-3)
+    1. [Sample Analysis Reports](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_75.html#c09-anchor-4)
+    1. [Using Software to Generate Reports](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_76.html#c09-anchor-5)
+    1. [Terms to Know](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_77.html#c09-anchor-6)
+    1. [Review Questions](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_78.html#c09-anchor-7)
+1. [Chapter 10: How to Testify in Court](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_79.html)
+    1. [Preparation Is Everything](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_80.html#c10-anchor-1)
+    1. [Appearance Matters](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_81.html#c10-anchor-2)
+    1. [What Matters Is What They Hear](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_82.html#c10-anchor-3)
+    1. [Know Your Forensic Process and Tools](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_83.html#c10-anchor-4)
+    1. [Say Only What You Must](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_84.html#c10-anchor-5)
+    1. [Keep It Simple](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_85.html#c10-anchor-6)
+    1. [Be Ready to Justify Every Step](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_86.html#c10-anchor-7)
+    1. [Summary](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_87.html#c10-anchor-8)
+    1. [Terms to Know](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_88.html#c10-anchor-9)
+    1. [Review Questions](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_89.html#c10-anchor-10)
+1. [Appendix A: Answers to Review Questions](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_90.html)
+    1. [Chapter 1](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_91.html#bapp01-anchor-1)
+    1. [Chapter 2](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_92.html#bapp01-anchor-2)
+    1. [Chapter 3](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_93.html#bapp01-anchor-3)
+    1. [Chapter 4](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_94.html#bapp01-anchor-4)
+    1. [Chapter 5](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_95.html#bapp01-anchor-5)
+    1. [Chapter 6](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_96.html#bapp01-anchor-6)
+    1. [Chapter 7](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_97.html#bapp01-anchor-7)
+    1. [Chapter 8](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_98.html#bapp01-anchor-8)
+    1. [Chapter 9](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_99.html#bapp01-anchor-9)
+    1. [Chapter 10](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_100.html#bapp01-anchor-10)
+1. [Appendix B: Forensic Resources](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_101.html)
+    1. [Information](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_102.html#bapp02-anchor-1)
+    1. [Organizations](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_103.html#bapp02-anchor-2)
+    1. [Publications](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_104.html#bapp02-anchor-3)
+    1. [Services](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_105.html#bapp02-anchor-4)
+    1. [Software](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_106.html#bapp02-anchor-5)
+    1. [Hardware](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_107.html#bapp02-anchor-6)
+    1. [Training](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_108.html#bapp02-anchor-7)
+1. [Appendix C: Forensic Certifications and More](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_109.html)
+    1. [AccessData Certified Examiner (ACE)](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_110.html#bapp03-anchor-1)
+    1. [Advanced Information Security (AIS)](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_111.html#bapp03-anchor-2)
+    1. [Certified Computer Examiner (CCE)](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_112.html#bapp03-anchor-3)
+    1. [Certified Hacking Forensic Investigator (CHFI)](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_113.html#bapp03-anchor-4)
+    1. [Certified Forensic Computer Examiner (CFCE)](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_114.html#bapp03-anchor-5)
+    1. [Certified Information Systems Auditor (CISA)](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_115.html#bapp03-anchor-6)
+    1. [Certified ProDiscover Examiner (CPE)](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_116.html#bapp03-anchor-7)
+    1. [EnCase Certified Examiner Program](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_117.html#bapp03-anchor-8)
+    1. [GIAC Certified Forensic Analyst (GCFA)](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_118.html#bapp03-anchor-9)
+    1. [GIAC Certified Forensics Examiner (GCFE)](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_119.html#bapp03-anchor-10)
+    1. [Professional Certified Investigator (PCI)](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_120.html#bapp03-anchor-11)
+    1. [ASCLD/LAB Accreditation](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_121.html#bapp03-anchor-12)
+    1. [Licensure](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_122.html#bapp03-anchor-13)
+1. [Appendix D: Forensic Tools](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_123.html)
+    1. [Forensic Tool Suites](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_124.html#bapp04-anchor-1)
+    1. [Password-Cracking Utilities](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_125.html#bapp04-anchor-2)
+    1. [CD Analysis Utilities](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_126.html#bapp04-anchor-3)
+    1. [Metadata Viewer Utility](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_127.html#bapp04-anchor-4)
+    1. [Miscellaneous Utilities](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_128.html#bapp04-anchor-5)
+    1. [Forensic Hardware Devices](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_129.html#bapp04-anchor-6)
+    1. [Computer Forensic Training](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_130.html#bapp04-anchor-7)
+1. [Glossary](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_131.html)
+1. [Index](https://ebookreading.net/view/book/Computer+Forensics+JumpStart%2C+Second+Edition-EB9781118067659_132.html)

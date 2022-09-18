@@ -1,0 +1,87 @@
+![Cover image for Understanding Government Contract Law, 2nd Edition](https://imgdetail.ebookreading.net/cover/cover/security/EB9781523097760.jpg)
+
+[Understanding Government Contract Law, 2nd Edition](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_1.html "Understanding Government Contract Law, 2nd Edition")
+====================================================================================================================
+
+Author : [Terrence M. O&#39;Connor](https://ebookreading.net/search/author/Terrence+M.+O%26%2339%3BConnor)
+
+Release Date : 2018/11/01
+
+ISBN : 9781523097760
+
+Topic : [Security](https://ebookreading.net/search/category/security)
+
+Book Description
+-----------------
+
+     This updated classic offers clear and concise explanations of the basic legal concepts of government contract law for professionals at any stage of their career. Written in straightforward language for contracting officers, contract administrators, contractors, subcontractors, and others in the procurement field, this new edition has been updated with new cases and regulations. The book breaks down the complex arena of government contract law into its three most basic parts: the contracting parties, the contract itself, and legal challenges. It begins by examining key aspects of the contracting officer's job and provides guidance for navigating its different and often conflicting demands. The government contractor's responsibilities and challenges are also outlined. Government contracts come in a lot more varieties than the typical commercial contract, and they also tend to be long and confusing. The second part of the book introduces the different types of legal agreements the government uses to buy the goods and services it needs—and addresses the challenges of writing a perfectly clear contract and guidelines for interpreting an ambiguous one. The book concludes with an overview of the government contract litigation process.This is an essential text for students preparing to do the work of government contracts, an indispensable guide for those new to the work, and a valuable reference for contracting personnel who seek solutions to specific issues they face in their day-to-day work.    This updated classic offers clear and concise explanations of the basic legal concepts of government contract law for professionals at any stage of their career. Written in straightforward language for contracting officers, contract administrators, contractors, subcontractors, and others in the procurement field, this new edition has been updated with new cases and regulations. The book breaks down the complex arena of government contract law into its three most basic parts: the contracting parties, the contract itself, and legal challenges. It begins by examining key aspects of the contracting officer's job and provides guidance for navigating its different and often conflicting demands. The government contractor's responsibilities and challenges are also outlined. Government contracts come in a lot more varieties than the typical commercial contract, and they also tend to be long and confusing. The second part of the book introduces the different types of legal agreements the government uses to buy the goods and services it needs—and addresses the challenges of writing a perfectly clear contract and guidelines for interpreting an ambiguous one. The book concludes with an overview of the government contract litigation process.This is an essential text for students preparing to do the work of government contracts, an indispensable guide for those new to the work, and a valuable reference for contracting personnel who seek solutions to specific issues they face in their day-to-day work.                 
+Table of Contents
+-----------------
+
+1. [Cover](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_1.html)
+1. [Title Page](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_4.html)
+1. [Copyright Page](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_5.html)
+1. [Dedication](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_6.html)
+1. [Contents](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_7.html)
+1. [Introduction](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_9.html#intro)
+    1. [Suggestions on How to Use This Book](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_9.html#lev1)
+    1. [Overview](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_9.html#lev2)
+1. [Part I. The Parties to a Government Contract](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_10.html#part01)
+    1. [1. The Contracting Officer as Judge](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_11.html#ch01)
+        1. [A “Fair and Reasonable” Judge](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_11.html#lev3)
+        1. [Three Simple Rules for Always Being Fair and Reasonable](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_11.html#lev4)
+        1. [Being Fair and Reasonable in Awarding a Government Contract](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_11.html#lev5)
+        1. [Being Fair and Reasonable in Administering a Government Contract](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_11.html#lev6)
+        1. [An “Independent” Judge](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_11.html#lev7)
+    1. [2. The Contracting Officer as Sheriff](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_12.html#ch02)
+        1. [The Contract Solicitation Process](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_12.html#lev8)
+        1. [The Contract Administration Process](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_12.html#lev9)
+    1. [3. The Contracting Officer as Defendant](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_13.html#ch03)
+        1. [Contracting Officer’s Financial Liability to the Government](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_13.html#lev10)
+        1. [The Agency’s Financial Liability to the Public](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_13.html#lev11)
+        1. [A Contracting Officer’s Liability](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_13.html#lev12)
+    1. [4. The Contracting Officer as Plaintiff](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_14.html#ch04)
+        1. [The Contracting Officer as Bounty Hunter](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_14.html#lev13)
+        1. [A Conflict of Interest Issue?](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_14.html#lev14)
+    1. [5. The Contractor’s Responsibilities](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_15.html#ch05)
+        1. [Verifying the Authority of the Contracting Officer or Government Decision Maker](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_15.html#lev15)
+        1. [Bait and Switch](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_15.html#lev16)
+        1. [Fraud “Land Mines”](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_15.html#lev17)
+1. [Part II. The Contract](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_16.html#part02)
+    1. [6. Types of Procurement Vehicles](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_17.html#ch06)
+        1. [Different Kinds of Agreements](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_17.html#lev18)
+        1. [Express Contracts](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_17.html#lev19)
+        1. [Concession Contracts](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_17.html#lev20)
+        1. [Implied Contracts](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_17.html#lev21)
+    1. [7. Contract Interpretation](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_18.html#ch07)
+        1. [The Goal of Contract Interpretation: Finding the Intent of the Parties](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_18.html#lev22)
+        1. [The Two Steps for Interpreting Ambiguous Words](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_18.html#lev23)
+        1. [The Rules for Interpreting Ambiguous Contracts](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_18.html#lev24)
+        1. [Properly Incorporating Documents into a Contract by Reference](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_18.html#lev25)
+    1. [8. Contract Administration Quirks](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_19.html#ch08)
+        1. [The Government Intentionally and Unilaterally Changes the Contract by Using the Changes Clause](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_19.html#lev26)
+        1. [The Government Inadvertently Changes the Deal: Constructive Changes](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_19.html#lev27)
+        1. [Contractor Bound by Apparent Authority](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_19.html#lev28)
+        1. [Deadlines That Are Not Really Deadlines, Just Suggestions: Notice Requirements](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_19.html#lev29)
+        1. [Clauses Left Out That Are in a Government Contract Anyway: The Christian Doctrine](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_19.html#lev30)
+        1. [The Government Prematurely Ends the Agreement: Terminations for Convenience](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_19.html#lev31)
+1. [Part III. Lawsuits over Government Contracts](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_20.html#part03)
+    1. [9. Federal Litigation: Suing the Federal Government](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_21.html#ch09)
+        1. [Any Lawsuit](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_21.html#lev32)
+        1. [Any Lawsuit against the Federal Government](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_21.html#lev33)
+        1. [The Two Typical Lawsuits Involving Government Contracts](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_21.html#lev34)
+    1. [10. Protests](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_22.html#ch10)
+        1. [What Can Be Protested?](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_22.html#lev35)
+        1. [When Can Something Be Protested?](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_22.html#lev36)
+        1. [How Is Something Protested?](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_22.html#lev37)
+    1. [11. Claims](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_23.html#ch11)
+        1. [What Is a “Claim”?](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_23.html#lev38)
+        1. [How Is a Claim Raised and Resolved?](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_23.html#lev39)
+        1. [When Must a Claim Be Filed?](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_23.html#lev40)
+    1. [12. Costs of Litigation](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_24.html#ch12)
+        1. [The Equal Access to Justice Act](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_24.html#lev41)
+        1. [The Competition in Contracting Act](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_24.html#lev42)
+1. [Notes](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_25.html#notes)
+1. [List of Abbreviations](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_26.html#abb)
+1. [Index](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_27.html#index)
+1. [About the Author](https://ebookreading.net/view/book/Understanding+Government+Contract+Law%2C+2nd+Edition-EB9781523097760_28.html#back01)

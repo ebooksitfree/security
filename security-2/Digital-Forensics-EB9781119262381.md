@@ -1,0 +1,108 @@
+![Cover image for Digital Forensics](https://imgdetail.ebookreading.net/cover/cover/20200215/EB9781119262381.jpg)
+
+[Digital Forensics](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_1.html "Digital Forensics")
+====================================================================================================================
+
+Author : [André Årnes](https://ebookreading.net/search/author/Andr%C3%A9+%C3%85rnes)
+
+Release Date : 2017/07/01
+
+ISBN : 9781119262381
+
+Topic : [Security](https://ebookreading.net/search/category/security)
+
+Book Description
+-----------------
+
+ The definitive text for students of digital forensics, as well as professionals looking to deepen their understanding of an increasingly critical field
+Written by faculty members and associates of the world-renowned Norwegian Information Security Laboratory (NisLab) at the Norwegian University of Science and Technology (NTNU), this textbook takes a scientific approach to digital forensics ideally suited for university courses in digital forensics and information security. Each chapter was written by an accomplished expert in his or her field, many of them with extensive experience in law enforcement and industry. The author team comprises experts in digital forensics, cybercrime law, information security and related areas.  
+Digital forensics is a key competency in meeting the growing risks of cybercrime, as well as for criminal investigation generally. Considering the astonishing pace at which new information technology – and new ways of exploiting information technology – is brought on line, researchers and practitioners regularly face new technical challenges, forcing them to continuously upgrade their investigatory skills. Designed to prepare the next generation to rise to those challenges, the material contained in Digital Forensics has been tested and refined by use in both graduate and undergraduate programs and subjected to formal evaluations for more than ten years.
+Encompasses all aspects of the field, including methodological, scientific, technical and legal mattersBased on the latest research, it provides novel insights for students, including an informed look at the future of digital forensicsIncludes test questions from actual exam sets, multiple choice questions suitable for online use and numerous visuals, illustrations and case example imagesFeatures real-word examples and scenarios, including court cases and technical problems, as well as a rich library of academic references and references to online mediaDigital Forensics is an excellent introductory text for programs in computer science and computer engineering and for master degree programs in military and police education. It is also a valuable reference for legal practitioners, police officers, investigators, and forensic practitioners seeking to gain a deeper understanding of digital forensics and cybercrime.
+        Show and hide more                
+Table of Contents
+-----------------
+
+1. [Cover](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_1.html#coverstart)
+1. [Title Page](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_3.html#titlepage)
+1. [Copyright](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_4.html#copyright)
+1. [Preface](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_5.html#start)
+1. [List of Contributors](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_6.html#start)
+1. [List of Figures](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_7.html#start)
+1. [List of Tables](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_8.html#start)
+1. [List of Examples](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_9.html#start)
+1. [List of Definitions](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_10.html#start)
+1. [List of Abbreviations](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_11.html#start)
+1. [Chapter 1: Introduction](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_12.html#start)
+    1. [1.1 Forensic Science](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_12.html#c01anchor-1)
+    1. [1.2 Digital Forensics](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_12.html#c01anchor-2)
+    1. [1.3 Digital Evidence](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_12.html#c01anchor-3)
+    1. [1.4 Further Reading](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_12.html#c01anchor-4)
+    1. [1.5 Chapter Overview](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_12.html#c01anchor-5)
+    1. [1.6 Comments on Citation and Notation](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_12.html#c01anchor-6)
+1. [Chapter 2: The Digital Forensics Process](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_13.html#start)
+    1. [2.1 Introduction](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_13.html#c02anchor-1)
+    1. [2.2 The Identification Phase](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_13.html#c02anchor-2)
+    1. [2.3 The Collection Phase](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_13.html#c02anchor-3)
+    1. [2.4 The Examination Phase](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_13.html#c02anchor-4)
+    1. [2.5 The Analysis Phase](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_13.html#c02anchor-5)
+    1. [2.6 The Presentation Phase](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_13.html#c02anchor-6)
+    1. [2.7 Summary](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_13.html#c02anchor-7)
+    1. [2.8 Exercises](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_13.html#c02anchor-8)
+1. [Chapter 3: Cybercrime Law](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_14.html#start)
+    1. [3.1 Introduction](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_14.html#c03anchor-1)
+    1. [3.2 The International Legal Framework of Cybercrime Law](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_14.html#c03anchor-2)
+    1. [3.3 Digital Crime – Substantive Criminal Law](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_14.html#c03anchor-3)
+    1. [3.4 Investigation Methods for Collecting Digital Evidence](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_14.html#c03anchor-4)
+    1. [3.5 International Cooperation in Order to Collect Digital Evidence](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_14.html#c03anchor-5)
+    1. [3.6 Summary](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_14.html#c03anchor-6)
+    1. [Exercises](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_14.html#c03anchor-7)
+1. [Chapter 4: Digital Forensic Readiness](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_15.html#start)
+    1. [4.1 Introduction](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_15.html#c04anchor-1)
+    1. [4.2 Definition](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_15.html#c04anchor-2)
+    1. [4.3 Law Enforcement versus Enterprise Digital Forensic Readiness](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_15.html#c04anchor-3)
+    1. [4.4 Why? A Rationale for Digital Forensic Readiness](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_15.html#c04anchor-4)
+    1. [4.5 Frameworks, Standards, and Methodologies](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_15.html#c04anchor-5)
+    1. [4.6 Becoming “Digital Forensic” Ready](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_15.html#c04anchor-6)
+    1. [4.7 Enterprise Digital Forensic Readiness](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_15.html#c04anchor-7)
+    1. [4.8 Considerations for Law Enforcement](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_15.html#c04anchor-8)
+    1. [4.9 Summary](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_15.html#c04anchor-9)
+    1. [4.10 Exercises](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_15.html#c04anchor-10)
+1. [Chapter 5: Computer Forensics](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_16.html#start)
+    1. [5.1 Introduction](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_16.html#c05anchor-1)
+    1. [5.2 Evidence Collection](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_16.html#c05anchor-2)
+    1. [5.3 Examination](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_16.html#c05anchor-3)
+    1. [5.4 Analysis](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_16.html#c05anchor-4)
+    1. [5.5 Summary](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_16.html#c05anchor-5)
+    1. [5.6 Exercises](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_16.html#c05anchor-7)
+1. [Chapter 6: Mobile and Embedded Forensics](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_17.html#start)
+    1. [6.1 Introduction](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_17.html#c06anchor-1)
+    1. [6.2 Collection Phase](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_17.html#c06anchor-2)
+    1. [6.3 Examination Phase](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_17.html#c06anchor-3)
+    1. [6.4 Reverse Engineering and Analysis of Applications](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_17.html#c06anchor-4)
+    1. [6.5 Summary](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_17.html#c06anchor-5)
+    1. [6.6 Exercises](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_17.html#c06anchor-7)
+1. [Chapter 7: Internet Forensics](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_18.html#start)
+    1. [7.1 Introduction](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_18.html#c07anchor-1)
+    1. [7.2 Computer Networking](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_18.html#c07anchor-2)
+    1. [7.3 Layers of Network Abstraction](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_18.html#c07anchor-3)
+    1. [7.4 The Internet](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_18.html#c07anchor-4)
+    1. [7.5 Tracing Information on the Internet](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_18.html#c07anchor-5)
+    1. [7.6 Collection Phase – Local Acquisition](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_18.html#c07anchor-6)
+    1. [7.7 Collection Phase – Network Acquisition](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_18.html#c07anchor-7)
+    1. [7.8 Collection Phase – Remote Acquisition](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_18.html#c07anchor-8)
+    1. [7.9 Other Considerations](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_18.html#c07anchor-9)
+    1. [7.10 The Examination and Analysis Phases](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_18.html#c07anchor-10)
+    1. [7.11 Summary](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_18.html#c07anchor-11)
+    1. [Exercises](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_18.html#c07anchor-12)
+1. [Chapter 8: Challenges in Digital Forensics](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_19.html#start)
+    1. [8.1 Computational Forensics](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_19.html#c08anchor-1)
+    1. [8.2 Automation and Standardization](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_19.html#c08anchor-2)
+    1. [8.3 Research Agenda](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_19.html#c08anchor-3)
+    1. [8.4 Summary](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_19.html#c08anchor-4)
+1. [Chapter 9: Educational Guide](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_20.html#start)
+    1. [9.1 Teacher&#39;s Guide](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_20.html#c09anchor-1)
+    1. [9.2 Student&#39;s Guide](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_20.html#c09anchor-2)
+    1. [9.3 Summary](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_20.html#c09anchor-3)
+1. [References](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_21.html#start)
+1. [Index](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_22.html#index)
+1. [End User License Agreement](https://ebookreading.net/view/book/Digital+Forensics-EB9781119262381_23.html#eula)

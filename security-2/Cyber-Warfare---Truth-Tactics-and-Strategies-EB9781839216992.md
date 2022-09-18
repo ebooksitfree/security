@@ -1,0 +1,175 @@
+![Cover image for Cyber Warfare - Truth, Tactics, and Strategies](https://imgdetail.ebookreading.net/cover/cover/20200920/EB9781839216992.jpg)
+
+[Cyber Warfare - Truth, Tactics, and Strategies](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_1.html "Cyber Warfare - Truth, Tactics, and Strategies")
+====================================================================================================================
+
+Author : [Dr. Chase Cunningham](https://ebookreading.net/search/author/Dr.+Chase+Cunningham),[ 
+            Gregory J. Touhill](https://ebookreading.net/search/author/+%0D%0A++++++++++++Gregory+J.+Touhill)
+
+Release Date : 2020/02/01
+
+Book Description
+-----------------
+
+
+    
+    Insights into the true history of cyber warfare, and the strategies, tactics, and cybersecurity tools that can be used to better defend yourself and your organization against cyber threat.
+Key FeaturesDefine and determine a cyber-defence strategy based on current and past real-life examples
+Understand how future technologies will impact cyber warfare campaigns and society
+Future-ready yourself and your business against any cyber threatThe era of cyber warfare is now upon us. What we do now and how we determine what we will do in the future is the difference between whether our businesses live or die and whether our digital self survives the digital battlefield. Cyber Warfare - Truth, Tactics, and Strategies takes you on a journey through the myriad of cyber attacks and threats that are present in a world powered by AI, big data, autonomous vehicles, drones video, and social media.
+Dr. Chase Cunningham uses his military background to provide you with a unique perspective on cyber security and warfare. Moving away from a reactive stance to one that is forward-looking, he aims to prepare people and organizations to better defend themselves in a world where there are no borders or perimeters. He demonstrates how the cyber landscape is growing infinitely more complex and is continuously evolving at the speed of light.
+
+The book not only covers cyber warfare, but it also looks at the political, cultural, and geographical influences that pertain to these attack methods and helps you understand the motivation and impacts that are likely in each scenario.
+
+Cyber Warfare - Truth, Tactics, and Strategies is as real-life and up-to-date as cyber can possibly be, with examples of actual attacks and defense techniques, tools. and strategies presented for you to learn how to think about defending your own systems and data.
+What you will learn Hacking at scale - how machine learning (ML) and artificial intelligence (AI) skew the battlefield
+Defending a boundaryless enterprise
+Using video and audio as weapons of influence
+Uncovering DeepFakes and their associated attack vectors
+Using voice augmentation for exploitation
+Defending when there is no perimeter
+Responding tactically to counter-campaign-based attacksWho this book is forThis book is for any engineer, leader, or professional with either a responsibility for cyber security within their organizations, or an interest in working in this ever-growing field.
+
+  
+
+Table of Contents
+-----------------
+
+1. [Preface](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_4.html#_idParaDest-4)
+    1. [Who this book is for](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_4.html#_idParaDest-5)
+    1. [What this book covers](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_4.html#_idParaDest-6)
+    1. [To get the most out of this book](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_4.html#_idParaDest-7)
+        1. [Download the color images](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_4.html#_idParaDest-8)
+        1. [Conventions used](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_4.html#_idParaDest-9)
+    1. [Get in touch](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_4.html#_idParaDest-10)
+        1. [Reviews](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_4.html#_idParaDest-11)
+1. [A Brief History of Cyber Threats and the Emergence of the APT Designator](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_5.html#_idParaDest-12)
+    1. [Hackers aren't what Hollywood shows us](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_5.html#_idParaDest-13)
+    1. [The Battle of the Beams](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_5.html#_idParaDest-14)
+    1. [Modem hacks](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_5.html#_idParaDest-15)
+    1. [Anti-virus growth](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_5.html#_idParaDest-16)
+    1. [The dawn of Advanced Persistent Threats (APTs)](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_5.html#_idParaDest-17)
+    1. [Early APT attacks](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_5.html#_idParaDest-18)
+    1. [Confusion in cyber defense](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_5.html#_idParaDest-19)
+    1. [US and allied cyber defense establishment](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_5.html#_idParaDest-20)
+    1. [The cyber shot heard round the world](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_5.html#_idParaDest-21)
+    1. [Tit-for-Tat cyber warfare](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_5.html#_idParaDest-22)
+    1. [Pandora's box busts open](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_5.html#_idParaDest-23)
+    1. [Conclusion](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_5.html#_idParaDest-24)
+    1. [References](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_5.html#_idParaDest-25)
+1. [The Perimeter Is Dead](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_6.html#_idParaDest-26)
+    1. [A scenario detailing holes in the model](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_6.html#_idParaDest-27)
+    1. [A global perimeter falls](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_6.html#_idParaDest-28)
+    1. [Even compliant organizations' perimeters&nbsp;fail](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_6.html#_idParaDest-29)
+    1. [Governments' perimeters fail](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_6.html#_idParaDest-30)
+    1. [Users, BYOD, and the obliteration of the perimeter](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_6.html#_idParaDest-31)
+    1. [Applications add to insecurity](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_6.html#_idParaDest-32)
+    1. [Authentication methods failed](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_6.html#_idParaDest-33)
+    1. [IoT devices poke holes in any perimeter](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_6.html#_idParaDest-34)
+    1. [You can't fix stupid, or evil](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_6.html#_idParaDest-35)
+    1. [Conclusion](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_6.html#_idParaDest-36)
+    1. [References](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_6.html#_idParaDest-37)
+1. [Emerging Tactics and Trends&nbsp;– What Is Coming?](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_7.html#_idParaDest-38)
+    1. [Attacks move downstream](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_7.html#_idParaDest-39)
+    1. [Autonomous vehicles…Bad data, bad&nbsp;day](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_7.html#_idParaDest-40)
+    1. [Drones…Death from above](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_7.html#_idParaDest-41)
+    1. [Threat actors combine tactics to optimize attack effectiveness](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_7.html#_idParaDest-42)
+    1. [Ransomware goes mobile](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_7.html#_idParaDest-43)
+    1. [DDoS reaches weapons-grade refinement](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_7.html#_idParaDest-44)
+    1. [Conclusion](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_7.html#_idParaDest-45)
+    1. [References](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_7.html#_idParaDest-46)
+1. [Influence Attacks – Using Social Media Platforms for Malicious Purposes](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_8.html#_idParaDest-47)
+    1. [The new cyber onslaught](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_8.html#_idParaDest-48)
+    1. [Cyber combat is changing](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_8.html#_idParaDest-49)
+    1. [#Hashtag or ammunition?](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_8.html#_idParaDest-50)
+    1. [Influencing the influencers](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_8.html#_idParaDest-51)
+    1. [Conclusion](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_8.html#_idParaDest-52)
+    1. [References](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_8.html#_idParaDest-53)
+1. [DeepFakes and AI/ML in&nbsp;Cyber Security](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_9.html#_idParaDest-54)
+    1. [From big screen to smartphone – the&nbsp;dawn of DeepFakes](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_9.html#_idParaDest-55)
+    1. [Defining DeepFakes](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_9.html#_idParaDest-56)
+    1. [GANs power DeepFakes](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_9.html#_idParaDest-57)
+    1. [Applied DeepFakes, AKA DeepMastersPrints](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_9.html#_idParaDest-58)
+    1. [Hacking voice using ML, AKA DeepVoice](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_9.html#_idParaDest-59)
+    1. [ReadFakes](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_9.html#_idParaDest-60)
+    1. [Breaking news may mean breaking bad](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_9.html#_idParaDest-61)
+    1. [When data and AI "studies" go awry](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_9.html#_idParaDest-62)
+    1. [Conclusion](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_9.html#_idParaDest-63)
+    1. [References](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_9.html#_idParaDest-64)
+1. [Advanced Campaigns in&nbsp;Cyber Warfare](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_10.html#_idParaDest-65)
+    1. [Cyber warfare campaigns](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_10.html#_idParaDest-66)
+        1. [Indian Nuclear Plant campaign](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_10.html#_idParaDest-67)
+        1. [Chinese manufacturing campaign](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_10.html#_idParaDest-68)
+        1. [The US and Libya election interference campaign](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_10.html#_idParaDest-69)
+    1. [False flags corrupt campaign attribution in cyberspace](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_10.html#_idParaDest-70)
+        1. [Mapping campaigns to matrices](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_10.html#_idParaDest-71)
+        1. [Threat groups avoid attribution intentionally](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_10.html#_idParaDest-72)
+            1. [Modifying command and control for confusion](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_10.html#_idParaDest-73)
+            1. [Naming the beast](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_10.html#_idParaDest-74)
+            1. [Sometimes it doesn't add up](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_10.html#_idParaDest-75)
+            1. [Chaos is the goal](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_10.html#_idParaDest-76)
+    1. [Cyber attack campaigns for the coming decade](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_10.html#_idParaDest-77)
+        1. [Hoaxing](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_10.html#_idParaDest-78)
+    1. [Conclusion](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_10.html#_idParaDest-79)
+1. [Strategic Planning for Future Cyber Warfare](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_11.html#_idParaDest-80)
+    1. [Everyone has a plan until they get punched in the mouth](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_11.html#_idParaDest-81)
+    1. [What type of strategy?](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_11.html#_idParaDest-82)
+    1. [When the nature of combat demands a&nbsp;change in strategy](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_11.html#_idParaDest-83)
+        1. [Infiltration does not equal dominance](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_11.html#_idParaDest-84)
+        1. [Leaders need to have their "boots on the ground"](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_11.html#_idParaDest-85)
+        1. [The environment determines what works, not&nbsp;the equipment](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_11.html#_idParaDest-86)
+        1. [Intelligence and "Intel" may not be the same thing](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_11.html#_idParaDest-87)
+        1. [Too much may be too much](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_11.html#_idParaDest-88)
+        1. [Big walls can mean big problems](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_11.html#_idParaDest-89)
+        1. [The mission was not accomplished…](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_11.html#_idParaDest-90)
+    1. [What does an effective strategy in&nbsp;cyberspace look like?](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_11.html#_idParaDest-91)
+        1. [Changing strategic concepts](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_11.html#_idParaDest-92)
+        1. [Strategically defending the "Edge"](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_11.html#_idParaDest-93)
+        1. [Eat the elephant](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_11.html#_idParaDest-94)
+        1. [The orchestration enables the strategy](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_11.html#_idParaDest-95)
+    1. [Conclusion](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_11.html#_idParaDest-96)
+1. [Cyber Warfare Strategic Innovations and Force Multipliers](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_12.html#_idParaDest-97)
+    1. [Defensive tooling and strategic enablers](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_12.html#_idParaDest-98)
+        1. [Meet the Monkey](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_12.html#_idParaDest-99)
+        1. [More offerings from the Infection Monkey](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_12.html#_idParaDest-100)
+        1. [Advanced uses of the Infection Monkey](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_12.html#_idParaDest-101)
+        1. [The Software-Defined Perimeter](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_12.html#_idParaDest-102)
+        1. [Application whitelisting](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_12.html#_idParaDest-103)
+    1. [Offensive tooling and strategic enablers](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_12.html#_idParaDest-104)
+        1. [Why kill the password?](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_12.html#_idParaDest-105)
+        1. [WhatBreach](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_12.html#_idParaDest-106)
+        1. [SNAP_R](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_12.html#_idParaDest-107)
+            1. [Running the SNAP_R attack (sample commands)](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_12.html#_idParaDest-108)
+        1. [Comment faking for influence](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_12.html#_idParaDest-109)
+    1. [Conclusion](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_12.html#_idParaDest-110)
+    1. [References](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_12.html#_idParaDest-111)
+1. [Bracing for Impact](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_13.html#_idParaDest-112)
+    1. [Disclaimer](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_13.html#_idParaDest-113)
+    1. [Micro-segmentation is a key to survival](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_13.html#_idParaDest-114)
+        1. [What is micro-segmentation?](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_13.html#_idParaDest-115)
+        1. [Micro-segmentation tools and technologies](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_13.html#_idParaDest-116)
+    1. [A pragmatic application for SDN](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_13.html#_idParaDest-117)
+        1. [Possible pitfalls in micro-segmentation](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_13.html#_idParaDest-118)
+        1. [Reclaiming the "high ground"](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_13.html#_idParaDest-119)
+    1. [Kill the password, limit the pain](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_13.html#_idParaDest-120)
+        1. [Intelligence collection](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_13.html#_idParaDest-121)
+    1. [Conclusion](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_13.html#_idParaDest-122)
+    1. [References](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_13.html#_idParaDest-123)
+1. [Survivability in Cyber Warfare and Potential Impacts for Failure](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_14.html#_idParaDest-124)
+    1. [What good are laws in war?](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_14.html#_idParaDest-125)
+    1. ["Law 1" – Default means dead](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_14.html#_idParaDest-126)
+    1. ["Law 2" – Think strategically, move tactically](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_14.html#_idParaDest-127)
+    1. ["Law 3" – Details, details](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_14.html#_idParaDest-128)
+    1. ["Law 4" – Kill the password](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_14.html#_idParaDest-129)
+    1. ["Law 5" – Limit the blast radius](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_14.html#_idParaDest-130)
+    1. [Impact from failure](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_14.html#_idParaDest-131)
+        1. [Compromising healthcare](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_14.html#_idParaDest-132)
+        1. [Bringing down ICS (Industrial Control Systems)](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_14.html#_idParaDest-133)
+        1. [Threatening the fates of nations](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_14.html#_idParaDest-134)
+            1. [Threat scenario – DeepFakes](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_14.html#_idParaDest-135)
+            1. [Threat scenario – Data manipulation](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_14.html#_idParaDest-136)
+            1. [Threat scenario – Attacking democratic processes](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_14.html#_idParaDest-137)
+    1. [Conclusion](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_14.html#_idParaDest-138)
+1. [Appendix – Major Cyber Incidents Throughout 2019](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_15.html#_idParaDest-139)
+1. [Other Books You May Enjoy](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_16.html#_idParaDest-140)
+1. [Index](https://ebookreading.net/view/book/Cyber+Warfare+-+Truth%2C+Tactics%2C+and+Strategies-EB9781839216992_17.html#_idContainer085)

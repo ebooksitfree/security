@@ -1,0 +1,102 @@
+![Cover image for Managing and Mitigating Bots](https://imgdetail.ebookreading.net/cover/cover/security/EB9781492029380.jpg)
+
+[Managing and Mitigating Bots](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_1.html "Managing and Mitigating Bots")
+====================================================================================================================
+
+Author : [Andy Still](https://ebookreading.net/search/author/Andy+Still)
+
+Release Date : 2018/04/01
+
+ISBN : 9781492029380
+
+Topic : [Security](https://ebookreading.net/search/category/security)
+
+Book Description
+-----------------
+
+ Automated traffic is a major factor in the modern internet, especially for website owners. Bots, spiders, and scrapers now exceed the amount of traffic from human users, and this trend is expected to continue in the number and sophistication of bot types. With this handbook, Intechnica co-founder Andy Still provides guidelines to help public-facing sites identify and manage various types of automated traffic.
+Some bots are beneficial, such as automated traffic triggered by direct human action, but many of them are highly profitable ventures run by organized criminal groups. Bots can negatively impact your site and your business by:
+Fraudulently taking advertising revenue without displaying ads to potential customersStealing website content for competitors to use on their own sitesPublishing offensive content on your comments or forum pagesAccessing your users’ personal data for use elsewhereCreating fake accounts to take unfair advantage of special offersSkewing analytics that would lead you to make invalid business decisionsManaging and Mitigating Bots helps you determine which traffic is non-human and requires action, and then guides you through the process of defining a bot-handling policy tailored to the type of bot traffic you identify.
+        Show and hide more                
+Table of Contents
+-----------------
+
+1. [Introduction](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_4.html#idm45787827478920)
+1. [I. Background](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_5.html#background_part_i)
+1. [1. What Is Automated Traffic?](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_6.html#idm45787834160472)
+    1. [Key Characteristics of Automated Traffic](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_6.html#idm45787827459944)
+        1. [Web-based Systems](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_6.html#idm45787827456056)
+        1. [Layer 7](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_6.html#idm45787827311720)
+        1. [Legitimate Requests](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_6.html#idm45787830218568)
+    1. [Exclusions](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_6.html#idm45787827456792)
+        1. [DDoS (Distributed Denial of Service)](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_6.html#idm45787827444136)
+        1. [Security Vulnerability Exploits](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_6.html#idm45787827448728)
+1. [2. Misconceptions of Automated Traffic](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_7.html#idm45787827440296)
+    1. [Misconception: Bots Are Just Simple Automated Scripts](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_7.html#idm45787827445832)
+    1. [Misconception: Bots Are Just a Security Problem](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_7.html#idm45787827427672)
+    1. [Misconception: Bot Operators Are Just Individual Hackers](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_7.html#idm45787827426776)
+    1. [Misconception: Only the Big Boys Need to Worry About Bots](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_7.html#idm45787827422216)
+    1. [Misconception: I Have a WAF, I Don’t Need to Worry About Bot Activity](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_7.html#idm45787827421960)
+1. [3. Impact of Automated Traffic](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_8.html#idm45787827403656)
+    1. [Company Interests](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_8.html#idm45787827400472)
+    1. [Other Users](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_8.html#idm45787827416504)
+    1. [System Security](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_8.html#idm45787827393160)
+    1. [Infrastructure](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_8.html#idm45787827388856)
+1. [II. Types of Automated Traffic](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_9.html#part_two)
+1. [4. Malicious Bots](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_10.html#malicious_bots_chap)
+    1. [Application DDoS](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_10.html#idm45787827361624)
+1. [5. Data Harvesting](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_11.html#idm45787827352792)
+    1. [Search Engine Spiders](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_11.html#idm45787827357704)
+    1. [Content Theft](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_11.html#idm45787827265224)
+    1. [Price Scraping](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_11.html#idm45787827264648)
+    1. [Content/Price Aggregation](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_11.html#idm45787827245816)
+    1. [Affiliates](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_11.html#idm45787827248760)
+    1. [User Data Harvesting](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_11.html#idm45787827251528)
+1. [6. Checkout Abuse](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_12.html#checkout_abuse_chap)
+    1. [Scalpers](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_12.html#idm45787827230808)
+    1. [Spinners](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_12.html#idm45787827224648)
+    1. [Inventory Exhaustion](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_12.html#idm45787827215928)
+    1. [Snipers](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_12.html#idm45787827228648)
+    1. [Discount Abuse](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_12.html#idm45787827221112)
+1. [7. Credit Card Fraud](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_13.html#idm45787827238632)
+    1. [Card Validation](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_13.html#idm45787827199320)
+    1. [Card Cracking](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_13.html#idm45787827196456)
+    1. [Card Fraud](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_13.html#idm45787827195752)
+1. [8. User-Generated Content (UGC) Abuse](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_14.html#idm45787827189672)
+    1. [Content Spammer](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_14.html#idm45787827183880)
+1. [9. Account Takeover](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_15.html#account_takeover_ch)
+    1. [Credential Stuffing/Credential Cracking](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_15.html#idm45787827175576)
+    1. [Account Creation](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_15.html#idm45787827169624)
+    1. [Bonus Abuse](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_15.html#bonus_abuse)
+1. [10. Ad Fraud](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_16.html#ad_fraud_chapter)
+    1. [Background to Internet Advertising](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_16.html#idm45787827148952)
+    1. [Banner Fraud](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_16.html#idm45787827150488)
+    1. [Click Fraud](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_16.html#click_fraud)
+    1. [CPA Fraud](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_16.html#idm45787827145768)
+    1. [Cookie Stuffing](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_16.html#idm45787827126120)
+    1. [Affiliate Fraud](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_16.html#idm45787827113272)
+    1. [Arbitrage Fraud](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_16.html#idm45787827120328)
+1. [11. Monitors](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_17.html#idm45787827119912)
+    1. [Availability](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_17.html#idm45787827111032)
+    1. [Performance](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_17.html#idm45787827093432)
+    1. [Other](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_17.html#idm45787827087256)
+1. [12. Human-Triggered Automated Traffic](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_18.html#human_tiggered_auto)
+1. [III. How to Effectively Handle Automated Traffic in Your Business](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_19.html#idm45787827072456)
+1. [13. Identifying Automated Traffic](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_20.html#idm45787827070056)
+    1. [Indications of an Automated Traffic Problem](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_20.html#idm45787827076840)
+    1. [Challenges](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_20.html#idm45787827060536)
+    1. [Generation 0: Genesis—robots.txt](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_20.html#idm45787827060280)
+    1. [Generation 1: Simple Blocking—Blacklisting and Whitelisting](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_20.html#idm45787827041928)
+    1. [Generation 2: Early Bot Identification—Symptom Monitoring](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_20.html#idm45787827031560)
+    1. [Generation 3: Improved Bot Identification—Real User Validation](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_20.html#idm45787827019928)
+        1. [Real Browser Validation](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_20.html#idm45787827018216)
+        1. [Fingerprinting](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_20.html#idm45787827014360)
+    1. [Generation 4: Sophisticated Bot Identification—Behavioral Analysis](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_20.html#idm45787827006376)
+1. [14. Managing Automated Traffic](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_21.html#idm45787827078440)
+    1. [Blocking](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_21.html#idm45787826981432)
+    1. [Validation Requests](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_21.html#idm45787826986520)
+        1. [Offline Validation](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_21.html#idm45787826975752)
+        1. [Inline Validation](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_21.html#idm45787826976328)
+    1. [Alternative Servers/Caching](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_21.html#idm45787826969400)
+    1. [Alternative Content](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_21.html#idm45787826963736)
+1. [Conclusion](https://ebookreading.net/view/book/Managing+and+Mitigating+Bots-EB9781492029380_22.html#idm45787826964696)

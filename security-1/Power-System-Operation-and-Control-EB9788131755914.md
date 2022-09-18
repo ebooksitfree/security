@@ -1,0 +1,95 @@
+![Cover image for Power System Operation and Control](https://imgdetail.ebookreading.net/cover/cover/security/EB9788131755914.jpg)
+
+[Power System Operation and Control](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_1.html "Power System Operation and Control")
+====================================================================================================================
+
+Author : [N. V. Ramana](https://ebookreading.net/search/author/N.+V.+Ramana)
+
+Release Date : 2010/09/01
+
+ISBN : 9788131755914
+
+Topic : [Security](https://ebookreading.net/search/category/security)
+
+Book Description
+-----------------
+
+Power System Operation and Control is a comprehensive text designed for an undergraduate course in electrical engineering. Written in a simple and easy-to-understand manner, the book introduces the reader to economic operation of power system and reactive power control. The textbook features in-depth coverage of single area and two-area load frequency control; exclusive chapter modelling of turbine, generators and automatic controllers; precise explanation supported by suitable examples and is replete with objective questions and review questions.
+              Power System Operation and Control is a comprehensive text designed for an undergraduate course in electrical engineering. Written in a simple and easy-to-understand manner, the book introduces the reader to economic operation of power system and reactive power control. The textbook features in-depth coverage of single area and two-area load frequency control; exclusive chapter modelling of turbine, generators and automatic controllers; precise explanation supported by suitable examples and is replete with objective questions and review questions.
+              
+Table of Contents
+-----------------
+
+1. [Cover](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_1.html)
+1. [Title Page](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_2.html)
+1. [Contents](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_3.html)
+1. [About the Author](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_4.html)
+1. [Dedication](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_5.html)
+1. [Preface](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_6.html)
+1. [Chapter 1. Economic Operation of Power System—I](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_7.html)
+    1. [1.1 Introduction](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_8.html#chap1_1.1)
+    1. [1.2 Characteristics of Thermal Units](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_9.html#chap1_1.2)
+    1. [1.3 Objective Function and Constraints for the Economic Dispatch Problem](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_10.html#chap1_1.3)
+    1. [1.4 Lagrange Multiplier Method – an Overview](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_11.html#chap1_1.4)
+    1. [1.5 Economic Dispatch Problem – Neglecting Transmission Line Losses](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_12.html#chap1_1.5)
+    1. [Questions from Previous Question Papers](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_13.html#chap1_q)
+    1. [Competitive Examination Questions](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_14.html#chap1_c)
+1. [Chapter 2. Economic Operation of Power System—II](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_15.html)
+    1. [2.1 Introduction](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_16.html#chap2_2.1)
+    1. [2.2 Economic Scheduling Problem Considering Losses](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_17.html#chap2_2.2)
+    1. [2.3 Derivation of the Transmission Loss Formula](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_18.html#chap2_2.3)
+    1. [2.4 Solution of the Economic Scheduling Problem – Considering Transmission Line Losses](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_19.html#chap2_2.4)
+    1. [2.5 Economic Dispatch Considering Losses – The Classical Method](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_20.html#chap2_2.5)
+    1. [Questions from Previous Question Papers](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_21.html#chap2_q)
+    1. [Competitive Examination Questions](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_22.html#chap2_c)
+1. [Chapter 3. Hydro Thermal Scheduling](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_23.html)
+    1. [3.1 Introduction](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_24.html#chap3_3.1)
+    1. [3.2 Long Range Hydro Thermal Scheduling](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_25.html#chap3_3.2)
+    1. [Questions from Previous Question Papers](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_26.html#chap3_q)
+1. [Chapter 4. Modelling of Turbine, Generators and Automatic Controllers](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_27.html)
+    1. [4.1 Introduction](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_28.html#chap4_4.1)
+    1. [4.2 Modelling of Turbine Speed-Governor Controller](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_29.html#chap4_4.2)
+    1. [4.3 Modelling of Steam Turbine](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_30.html#chap4_4.3)
+    1. [4.4 Generator Load Model](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_31.html#chap4_4.4)
+    1. [4.5 Representation of Loads](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_32.html#chap4_4.5)
+    1. [4.6 Turbine Model](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_33.html#chap4_4.6)
+    1. [4.7 Synchronous Machines](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_34.html#chap4_4.7)
+    1. [4.8 The Swing Equation](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_35.html#chap4_4.8)
+    1. [4.9 Excitation](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_36.html#chap4_4.9)
+    1. [Question from Previous Question Papers](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_37.html#chap4_q)
+1. [Chapter 5. Single Area Load Frequency Control](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_38.html)
+    1. [5.1 Introduction](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_39.html#chap5_5.1)
+    1. [5.2 Control Area Concept](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_40.html#chap5_5.2)
+    1. [5.3 Isolated Block Diagram Representation of Single Area Frequency Control](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_41.html#chap5_5.3)
+    1. [5.4 Steady State Response](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_42.html#chap5_5.4)
+    1. [5.5 Dynamic Response](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_43.html#chap5_5.5)
+    1. [5.6 State Space Model for Single Area](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_44.html#chap5_5.6)
+    1. [5.7 Matrix Representation of all State Equations](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_45.html#chap5_5.7)
+    1. [Questions from Previous Question Papers](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_46.html#chap5_q)
+    1. [Competitive Examination Questions](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_47.html#chap5_c)
+1. [Chapter 6. Two-Area Load Frequency Control](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_48.html)
+    1. [6.1 Load Frequency Control of Two-Area System](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_49.html#chap6_6.1)
+    1. [6.2 Two-Area State Space Model Representation](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_50.html#chap6_6.2)
+    1. [6.3 Steady State Analysis](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_51.html#chap6_6.3)
+    1. [Question from Previous Question Papers](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_52.html#chap6_q)
+    1. [Competitive Examination Questions](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_53.html#chap6_c)
+1. [Chapter 7. Load Frequency Controllers](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_54.html)
+    1. [7.1 Introduction](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_55.html#chap7_7.1)
+    1. [7.2 Proportional Plus Integral Controller](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_56.html#chap7_7.2)
+    1. [7.3 Load Frequency Control and Economic Dispatch Control](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_57.html#chap7_7.3)
+    1. [Questions from Previous Question Papers](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_58.html#chap7_q)
+    1. [Competitive Examination Question](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_59.html#chap7_c)
+1. [Chapter 8. Reactive Power Control](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_60.html)
+    1. [8.1 Introduction](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_61.html#chap8_8.1)
+    1. [8.2 Power Factor](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_62.html#chap8_8.2)
+    1. [8.3 Reactive Power](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_63.html#chap8_8.3)
+    1. [8.4 Causes of Low Power Factor](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_64.html#chap8_8.4)
+    1. [8.5 Reactive Power flow in an Uncompensated Transmission Line](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_65.html#chap8_8.5)
+    1. [8.6 Necessity for Reactive Power Compensation in a Transmission Line](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_66.html#chap8_8.6)
+    1. [8.7 Methods to Improve Power Factor](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_67.html#chap8_8.7)
+    1. [8.8 Power Factor Correction (Load Compensation)](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_68.html#chap8_8.8)
+    1. [Question from Previous Question Papers](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_69.html#chap8_q)
+1. [Answers to Selected Competitive Examination Questions](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_70.html)
+1. [Notes](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_71.html)
+1. [Acknowledgements](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_72.html)
+1. [Copyright](https://ebookreading.net/view/book/Power+System+Operation+and+Control-EB9788131755914_73.html)

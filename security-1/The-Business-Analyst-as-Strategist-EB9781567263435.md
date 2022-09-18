@@ -1,0 +1,87 @@
+![Cover image for The Business Analyst as Strategist](https://imgdetail.ebookreading.net/cover/cover/security/EB9781567263435.jpg)
+
+[The Business Analyst as Strategist](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_1.html "The Business Analyst as Strategist")
+====================================================================================================================
+
+Author : [Kathleen B. Hass](https://ebookreading.net/search/author/Kathleen+B.+Hass)
+
+Release Date : 2007/12/01
+
+ISBN : 9781567263435
+
+Topic : [Security](https://ebookreading.net/search/category/security)
+
+Book Description
+-----------------
+
+      An organization's ability to achieve strategic goals through programs and supporting projects depends on its ability to establish a future vision, set strategic goals, select the most valuable projects, and then execute flawlessly. Organizational strategic alignmentis achieved by converting strategic plans and goals into a valuable portfolio of programs and supporting projects. Strategic project leaders and project teams execute the project plans to meet objectives and deliver project outcomes, adding value to the organization. As the role of the business analyst evolves and matures, senior business analysts will emerge as the key individuals in the organization who have the depth of businessacumen and technological proficiency to serve as both business and technology experts. In this capacity, business analysts will become involved in an array of activities designed to devise a strategy to reach the organization's future business vision by achieving strategic goals. As the business analyst elevates into a leadership role as the business and technology strategist, he or she serves the executive team by facilitating, informing, and enabling the most favorable business decisions during the strategic planning and enterprise analysis phases of the business solution life cycle (BSLC). This book examines the emerging critical role of the business analyst during these first two phases of the BSLC.           Show and hide more                
+Table of Contents
+-----------------
+
+1. [Cover](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_1.html)
+1. [Title Page](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_2.html)
+1. [Copyright](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_3.html)
+1. [About the Author](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_4.html)
+1. [Table of Contents](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_5.html)
+1. [Preface](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_6.html)
+1. [About This Book](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_7.html)
+1. [Part I - The Business Analyst’s Role in Strategic: Planning and Enterprise Analysis](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_8.html)
+    1. [Chapter 1 - The Emerging Role of the Business Analyst in Strategic Planning](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_9.html)
+        1. [Strategic Planning in Organizations Today](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_9.html#c01-s1)
+        1. [The Business Analyst’s Role in Strategic Planning](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_9.html#c01-s2)
+    1. [Chapter 2 - The Emerging Role of the Business: Analyst in Portfolio Management](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_10.html)
+        1. [Strategy Execution](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_10.html#c02-s1)
+        1. [Why Portfolio Management?](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_10.html#c02-s2)
+        1. [Defining Portfolio Management](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_10.html#c02-s3)
+        1. [The Portfolio Management Process](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_10.html#c02-s4)
+        1. [Portfolio Management at the Project Level](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_10.html#c02-s5)
+        1. [The Role of the Program Management Office](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_10.html#c02-s6)
+        1. [Implementation Strategies](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_10.html#c02-s7)
+        1. [Challenges](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_10.html#c02-s8)
+        1. [Best Practices](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_10.html#c02-s9)
+1. [Part II - Using Portfolio Management to Achieve: Strategic Goals](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_11.html)
+    1. [Chapter 3 - The Value of the Business Architecture in Strategy Execution](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_12.html)
+        1. [Defining the Enterprise Architecture](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_12.html#c03-s1)
+        1. [Defining the Business Architecture](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_12.html#c03-s2)
+        1. [Business Architects](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_12.html#c03-s3)
+        1. [Architecture Frameworks](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_12.html#c03-s4)
+        1. [Creating the Business Architecture](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_12.html#c03-s5)
+        1. [Challenges](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_12.html#c03-s6)
+        1. [Best Practices](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_12.html#c03-s7)
+    1. [Chapter 4 - Using Feasibility Studies to Determine the: Most Valuable Business Solution](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_13.html)
+        1. [Defining the Feasibility Study](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_13.html#c04-s1)
+        1. [Why Conduct a Feasibility Study?](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_13.html#c04-s2)
+        1. [Conducting A Feasibility Study](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_13.html#c04-s3)
+        1. [Challenges](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_13.html#c04-s4)
+        1. [Best Practices](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_13.html#c04-s5)
+    1. [Chapter 5 - Preparing the Business Case and: Decision Package](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_14.html)
+        1. [Assemble a Core Team](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_14.html#c05-s1)
+        1. [Decide on a Recommended Option](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_14.html#c05-s2)
+        1. [Think Strategically](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_14.html#c05-s3)
+        1. [Identify and Confirm a Project Business Sponsor](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_14.html#c05-s4)
+        1. [Determine the Project Scope](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_14.html#c05-s5)
+        1. [Conduct a Cost-Benefit Analysis](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_14.html#c05-s6)
+        1. [Conduct the Initial Risk Assessment](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_14.html#c05-s7)
+        1. [Draft the Business Case](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_14.html#c05-s8)
+        1. [Prepare the Final Decision Package](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_14.html#c05-s9)
+        1. [Challenges](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_14.html#c05-s10)
+        1. [Best Practices](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_14.html#c05-s11)
+    1. [Chapter 6 - Managing Projects for Value](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_15.html)
+        1. [Enhancing Portfolio Management Practices in Organizations](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_15.html#c06-s1)
+        1. [Validating the Business Case throughout the Business Solution Life Cycle](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_15.html#c06-s2)
+        1. [Measuring the Business Value of Solution Features](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_15.html#c06-s3)
+        1. [Measuring Business Value After Solution Delivery](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_15.html#c06-s4)
+    1. [Chapter 7 - Evolving from Business Analyst to: Business Strategist](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_16.html)
+        1. [Self-education](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_16.html#c07-s1)
+        1. [Professional Associations](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_16.html#c07-s2)
+        1. [Experience](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_16.html#c07-s3)
+        1. [Training and Accreditation](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_16.html#c07-s4)
+        1. [Mentoring](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_16.html#c07-s5)
+1. [Appendixes](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_17.html)
+    1. [Appendix A: Business Case Template](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_18.html)
+    1. [Appendix B: Feasibility Study Template](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_20.html)
+    1. [Appendix C: Issues Log Template](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_22.html)
+    1. [Appendix D: Decision Log Template](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_23.html)
+    1. [Appendix E: Risk Log Template](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_24.html)
+    1. [Appendix F: Project Ranking Template](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_25.html)
+1. [Index](https://ebookreading.net/view/book/The+Business+Analyst+as+Strategist-EB9781567263435_26.html)

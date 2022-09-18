@@ -1,0 +1,132 @@
+![Cover image for Sell Your Own Damn Movie!](https://imgdetail.ebookreading.net/cover/cover/security/EB9780240815206.jpg)
+
+[Sell Your Own Damn Movie!](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_1.html "Sell Your Own Damn Movie!")
+====================================================================================================================
+
+Author : [Lloyd Kaufman](https://ebookreading.net/search/author/Lloyd+Kaufman)
+
+Release Date : 2012/09/01
+
+ISBN : 9780240815206
+
+Topic : [Security](https://ebookreading.net/search/category/security)
+
+Book Description
+-----------------
+
+This is the 3rd volume in Mr. Kaufman's hilarious, how-to series for hard-working self-starters and hard-laughing, cheeky filmmakers. "Sell Your Own Damn Movie!" covers everything you need to do to get your finished film seen by festival-goers, movie-goers, DVD-buyers and web-goers around the world. You will be lead through a primer on the history of film distribution to a discussion of the many ways you can get your film out there, either through a reputable distributor or all on your own. From the realities of distribution, to utilizing the internet to self-distribution, Mr. Kaufman tells you in his habitually lucid and off-the-wall way. Inserts include interviews and pointers from veteran distribution pros as well as directors and producers who share their own front-line stories. Mr. Kaufman recounts his own raucous stories of marketing pleasures and nightmares from 35 years of movie-making experience, creating a uniquely useful and entertaining read.
+Or, in Lloyd's inimitable words.
+The most asked question at my worldwide popular, legendary, renowned master class is, "How do I get my no-budget, zombie giraffe flick distributed?â€? Well, have no fear, because the 3rd volume in Uncle Lloydie's how-to series of go-to guides for filmmakers reveals the secrets, methods and tricks (short of prostituting yourself and selling bodily organs) to getting your film distributed. With Troma, our legendary 35-year-old independent studio, Michael Herz and I have developed a low cost, high-impact method for low-budget film distribution, which has lead to a high-profile brand name and a catalog of over 800 titles! Now you can learn to get you movie out there, too. I will be your busty tour guide, sharing with you my hard-earned cinematic distribution know-how!
+-LEARN! How I achieved box office success with my fowl chicken zombie masterpiece Poultrygeist, and everyone's favorite super-human hero from New Jersey, the Toxic Avenger, for practically no money! 
+-SMELL! The sewer that is mainstream distribution as I drag you through the muck, be-farting upon you the real scoop behind "indieâ€? and mainstream distribution deals.
+-MASTICATE! (No, not that kind of masticating) On the knowledge of DVD distribution as I es-chew the fat and get to the skinny of Do-It-Yourself DVD distribution. I will teach you the fundamentals of having a good website (like www.Troma.com) to boost your sales! 
+-FEAST! On my golden brown chicken puns as I cleverly cluck your brain out with the irrefutable knowledge of how I sold over 10,000 units of the 3-disc limited-edition Poultrygeist DVD in a matter of months! 
+YES! If you have any doubt that I will not be able turn your no-budget zombie giraffe opus into box-office gold, then put down this book proposal! No wait, pick it back up, pick it back up! This is a recession damnit, Troma needs all the money we can, er... I need to educate you filmmakers looking for distribution gold (brown)! After reading my book, any damn filmmaker will be able to "Sell Your Own Damn Movie!â€? 
+Featuring expert advice from those who have successfully sold their films: 
+* David Cronenberg (Director of The Fly, Crash, A History of Violence)* Oren Peli (Director/Producer of Paranormal Activity)* Ted Hope (Producer of Crouching Tiger, Hidden Dragon, In the Bedroom, Happiness)* Brad Kembel (Executive Vice President of International Distribution at Summit Films; Twilight)* James Gunn (Writer/Director of Super, Dawn of the Dead, Slither)* Jonathan Wolf (Executive Vice President, Independent Film and Television Alliance and Managing Director, American Film Market)... and many more who have sold their own damn movies!
+Table of Contents
+-----------------
+
+1. [Cover](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_0.html)
+1. [Halftitle](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_3.html)
+1. [Title](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_0.html)
+1. [Copyright](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_4.html)
+1. [Contents](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_5.html)
+1. [Dedication](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_6.html)
+1. [A Special Thank You](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_7.html)
+1. [Acknowledgments](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_8.html)
+1. [Foreword](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_9.html)
+1. [Introduction: Why Jay Leno Hates You](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_10.html)
+1. [Chapter 1: A History of Film Distribution, 10,000 B.C.–Present](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_11.html)
+    1. [A Glimpse of Realty](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_11.html#ch01-1)
+    1. [A MidConversation Email Exchange with My Long-Suffering Editrix](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_11.html#ch01-2)
+    1. [Fun Facts!](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_11.html#ch01-3)
+    1. [Karen Black Says, “Don’t Give Up!”](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_11.html#ch01-4)
+1. [Bonus Chapter: Make Your Own Damn Flowchart](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_12.html)
+1. [Chapter 2: Theatrical Distribution: My Preferred Method of Release, Other Than Autoerotic Asphyxiation](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_13.html)
+    1. [Ways to Get Your Film into a Theater](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_13.html#ch02-1)
+    1. [Weeklong Runs](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_13.html#ch02-2)
+    1. [Event Screenings](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_13.html#ch02-3)
+    1. [Self-Distribution, or Necessity Is the Mother of Invention: An Interview with Mynette Louie and Tze Chun](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_13.html#ch02-4)
+    1. [You and Your Film versus the Entire History of Cinema, and How to Win the Battle: An Interview with Ted Hope](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_13.html#ch02-5)
+1. [Chapter 3: Piracy Is Good. Long Live Pirates. Yarrr.](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_15.html)
+    1. [Selling a Movie by Giving It Away: An Interview with Nina Paley](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_15.html#ch03-1)
+    1. [Lloyd’s Pirate Fantasy (the One without Johnny Depp)](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_15.html#ch03-2)
+    1. [How Mickey Mouse Beat the Shit out of Thomas Jefferson](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_15.html#ch03-3)
+    1. [When Turner Calls, You Change Your Poster](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_15.html#ch03-4)
+    1. [Amster-Damn Copyright Law!](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_15.html#ch03-5)
+    1. [A Sudden and Inspired Midchapter Email To My Editrix](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_15.html#ch03-6)
+    1. [How to Be a Little Crazy, yet Very Successful in the World of Avant-Garde Film: An Interview with Jonas Mekas](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_15.html#ch03-7)
+    1. [Selling Your Own Damn Animation, If Your Name Isn’t Walt Disney or Joe Pixar](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_15.html#ch03-8)
+1. [Chapter 4: Look at Me! How to Make People Want to See Your Movie, Part I](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_16.html)
+    1. [Lloyd’s Diary, 6/15/10](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_16.html#ch04-1)
+    1. [One Hour Later…](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_16.html#ch04-2)
+    1. [The 1.7 Seconds Rule, by Dr. Lloyd Kaufman](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_16.html#ch04-3)
+    1. [Dr. Kaufman’s Definitive Remedy for Getting People to Possibly Pay Attention to Your Movie, Part A](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_16.html#ch04-4)
+    1. [Dr. Kaufman’s Definitive Remedy for Getting People to Possibly Pay Attention to Your Movie, Part B](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_16.html#ch04-5)
+    1. [Dr. Kaufman’s Definitive Remedy for Getting People to Possibly Pay Attention to Your Movie, Part C](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_16.html#ch04-6)
+    1. [Brokeback Filmmakers, or How a Couple of Colorado Filmmakers Had a Raunchy Title and Offended an Internet Conglomerate](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_16.html#ch04-7)
+1. [Bonus Chapter:Putting the “Miss” in Mismarketing: Five Good Movies That Poor Marketing Almost Ruined](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_0.html)
+    1. [Observe and Report (2009)](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_0.html#bn2-1)
+    1. [Office Space (1999)](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_0.html#bn2-2)
+    1. [Fight Club (1999)](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_0.html#bn2-3)
+    1. [George A. Romero’s Season of the Witch (1973)](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_0.html#bn2-4)
+    1. [Adventureland (2009)](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_0.html#bn2-5)
+    1. [These Decisions Probably Made a Lot of Sense at the Time: A Rebuttal](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_0.html#bn2-6)
+1. [Chapter 5: I Said Look at Me! How to Make People Want to See Your Movie, Part II, or Probably the Most Important Chapter in the Book (after the One about Thomas Jefferson and Pirates)](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_18.html)
+    1. [The Power of the Mouth](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_18.html#ch05-1)
+    1. [Grassroots Marketing, also Known as Guerilla Marketing (Which May or May Not Have Anything to Do with the Marketing of King Kong)](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_18.html#ch05-2)
+    1. [Extra Tip](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_18.html#ch05-3)
+    1. [The Cautionary Tale of Sugar Cookies](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_18.html#ch05-4)
+    1. [Tit for Tat](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_18.html#ch05-5)
+    1. [Money For Tat](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_18.html#ch05-6)
+    1. [Media Marketing, or Painting the Town Green](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_18.html#ch05-7)
+    1. [Social Networking (Work That ’Net, Girl)](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_18.html#ch05-8)
+    1. [Trifecta! Conventions: A World of Their Own!](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_18.html#ch05-9)
+    1. [Lloyd’s Schedule, January–December 2010](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_18.html#ch05-10)
+    1. [James Gunn Talks Social Networking with Lloyd on the Set of Super](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_18.html#ch05-11)
+    1. [Jon Reiss on the New Crew Position of “PMD”](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_18.html#ch05-12)
+1. [Chapter 6: Film Festival Survival Guide, Part 6A, Section B17](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_0.html)
+    1. [Film Festivals!](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_0.html#ch06-1)
+    1. [Festival Breakdown, Which Is Exactly What I Experience Every Year in Cannes](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_0.html#ch06-2)
+    1. [Entry Fees](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_0.html#ch06-3)
+    1. [Tromadance](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_0.html#ch06-4)
+    1. [Friends Festivals with Benefits (Like Hand Jobs Distribution)](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_0.html#ch06-5)
+    1. [Oren Peli’s Paranormal Experiences in Film Distribution](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_0.html#ch06-6)
+    1. [Buddy, Cannes You Spare a Dime?](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_0.html#ch06-7)
+    1. [Why Whores Loves Cannes](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_0.html#ch06-8)
+    1. [TromaDance](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_0.html#ch06-9)
+    1. [Balancing Passion and Reality in the Economics of Film Distribution, or Selling Your Own Damn Video Game](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_0.html#ch06-10)
+1. [Chapter 7: A Short Chapter about Short Films (and Short People)](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_19.html)
+    1. [A Short Summary of Short Films](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_19.html#ch07-1)
+    1. [The Battle for the Mind of North America Will Be Fought in the Video Arena: Lloyd’s Interview with David Cronenberg in the Autograph Line at Rue Morgue’s Festival of Fear](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_19.html#ch07-2)
+    1. [Distribute Your Own Damn Incest](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_19.html#ch07-3)
+    1. [Distributing Your Own Damn Documentary](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_19.html#ch07-4)
+1. [Chapter 8: Mo’ Distribution, Mo’ Problems](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_20.html)
+    1. [Major Dysentery, and Other Problems That Come with Major Studio Distribution](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_20.html#ch08-1)
+    1. [The Benefits](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_20.html#ch08-2)
+    1. [Rule 1 of Dealing with Major Studios](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_20.html#ch08-3)
+    1. [Rule 2 of Dealing with Major Studios](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_20.html#ch08-4)
+    1. [Things That Can Happen](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_20.html#ch08-5)
+    1. [Circumcision, and Why It Changed My Worldview](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_20.html#ch08-6)
+    1. [50 Ways to Dump Your Movie](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_20.html#ch08-7)
+    1. [The Art of Ordering an Iced Tea](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_20.html#ch08-8)
+    1. [Selling Twilight, and Insights into International Distribution: An Interview with Brad Kembel](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_20.html#ch08-9)
+    1. [My Own Damn Testimonial](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_20.html#ch08-10)
+    1. [Adam Green on Coffee, Donuts, and the Pitfalls of Major Distribution](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_20.html#ch08-11)
+    1. [Lloyd’s Public Relations Humiliation and My Happiness](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_20.html#ch08-12)
+1. [Chapter 9: Foreign Agents, and Other Things up My Ass](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_21.html)
+    1. [Foreign Aid (Like When You Bomb a Country and Then Send in Band-Aids and Neosporin)](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_21.html#ch09-1)
+    1. [What Is IFTA?](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_21.html#ch09-2)
+    1. [How to Work the AFM](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_21.html#ch09-3)
+    1. [International Persons of Mystery](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_21.html#ch09-4)
+    1. [To Dub or Not to Dub](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_21.html#ch09-5)
+    1. [Dubbing: Don’t Shit a Bric!](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_21.html#ch09-6)
+    1. [Lloyd Kaufman: Expendable](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_21.html#ch09-7)
+    1. [Prestige Worldwide](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_21.html#ch09-8)
+1. [Epilogue](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_22.html)
+1. [Appendix A: Lloyd’s Best-of the-Best Guide to Film Festivals](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_23.html)
+1. [Appendix B: Special (Non) Pullout Section of Five Decades of Troma Poster Art (in Glorious Black and White Because My Publisher Says Color Is Too Expensive for a Book That Is Only Going to Sell Four C](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_24.html)
+1. [Appendix C: A Short Guide to Publicity and Sales at Conventions](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_25.html)
+1. [Appendix D: Troma President Calls for the Survival of Net Neutrality at a Press Conference in the Troma Building, New York City](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_26.html)
+1. [Index](https://ebookreading.net/view/book/Sell+Your+Own+Damn+Movie%21-EB9780240815206_27.html)

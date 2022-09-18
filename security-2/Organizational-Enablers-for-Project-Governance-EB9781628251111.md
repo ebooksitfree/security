@@ -1,0 +1,87 @@
+![Cover image for Organizational Enablers for Project Governance](https://imgdetail.ebookreading.net/cover/cover/20200215/EB9781628251111.jpg)
+
+[Organizational Enablers for Project Governance](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_1.html "Organizational Enablers for Project Governance")
+====================================================================================================================
+
+Author : [Sofia Pemsel](https://ebookreading.net/search/author/Sofia+Pemsel),[ Jingting Shao](https://ebookreading.net/search/author/+Jingting+Shao),[ Ralf Muller](https://ebookreading.net/search/author/+Ralf+Muller)
+
+Release Date : 2016/02/01
+
+ISBN : 9781628251111
+
+Topic : [Security](https://ebookreading.net/search/category/security)
+
+Book Description
+-----------------
+
+ While corporate culture plays a significant role in the success of any corporation, governance and &#8220;governmentality&#8221; not only determine how business should be conducted, but also define the policies and procedures organizations follow to achieve business functions and goals. In their book, Organizational Enablers for Project Governance, Ralf M&#252;ller, Jingting Shao, and Sofia Pemsel examine the interaction of governance and governmentality in various types of companies and demonstrate how these factors drive business success and influence project work, efficiency, and profitability.        Show and hide more                
+Table of Contents
+-----------------
+
+1. [Cover Page](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_1.html)
+1. [Title Page](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_2.html)
+1. [Copyright Page](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_3.html)
+1. [Table of Contents](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_4.html)
+1. [List of Tables](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_5.html)
+1. [List of Figures](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_6.html)
+1. [Executive Summary](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_7.html)
+1. [Introduction](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_8.html)
+    1. [Study Background](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_8.html#ch1_sub1)
+    1. [Research Questions](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_8.html#ch1_sub2)
+    1. [Scope and Objectives of the Study](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_8.html#ch1_sub3)
+    1. [Institutional Theory](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_8.html#ch1_sub4)
+    1. [The Management Process](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_8.html#ch1_sub5)
+    1. [Milestones and Deliverables](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_8.html#ch1_sub6)
+1. [Theoretical Perspective and Literature Review](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_9.html)
+    1. [Institutional Theory](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_9.html#ch2_sub1)
+    1. [Governance](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_9.html#ch2_sub2)
+    1. [Governance in the Realm of Projects](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_9.html#ch2_sub3)
+    1. [Governmentality](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_9.html#ch2_sub4)
+    1. [Organizational Enablers](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_9.html#ch2_sub5)
+    1. [Projectification](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_9.html#ch2_sub6)
+1. [Research Design and Methodology](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_10.html)
+    1. [Research Design](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_10.html#ch3_sub1)
+    1. [Study 1 Methodology: Systematic Literature Review](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_10.html#ch3_sub2)
+    1. [Study 2 Methodology: Qualitative Cross-Sectional Study](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_10.html#ch3_sub3)
+    1. [Study 3 Methodology: The Quantitative Study](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_10.html#ch3_sub4)
+    1. [Study 4 Methodology: The Longitudinal Study](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_10.html#ch3_sub5)
+1. [Case Companies and Narratives](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_11.html)
+    1. [Company A: Small, Sweden](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_11.html#ch4_sub1)
+    1. [Company B: Medium, Sweden](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_11.html#ch4_sub2)
+    1. [Company C: Large, Sweden](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_11.html#ch4_sub3)
+    1. [Company D: Small, China](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_11.html#ch4_sub4)
+    1. [Company E: Medium, China](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_11.html#ch4_sub5)
+    1. [Company F: Large, China](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_11.html#ch4_sub6)
+1. [Conceptual and Qualitative Studies: Analysis and Results](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_12.html)
+    1. [Results from Study 1: Systematic Literature Review](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_12.html#ch5_sub1)
+    1. [Results from Study 2: The Qualitative Study](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_12.html#ch5_sub2)
+    1. [Results from Study 4: The Longitudinal Study](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_12.html#ch5_sub3)
+1. [Quantitative Study: Analysis and Results](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_13.html)
+    1. [Part 1: Analyses at the Level of Project Governance, Governance of Projects, and Governmentality](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_13.html#ch6_sub1)
+    1. [Part 2: Mediation Analyses](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_13.html#ch6_sub2)
+    1. [The Relationship between Organizational Enablers and Success](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_13.html#ch6_sub3)
+1. [Discussion](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_14.html)
+    1. [Organizational Enablers](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_14.html#ch7_sub1)
+    1. [Contextual Influences](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_14.html#ch7_sub2)
+    1. [An Institutional Theory Perspective](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_14.html#ch7_sub3)
+    1. [Organizational Enablers: An Institutional Reflection](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_14.html#ch7_sub4)
+1. [Conclusions](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_15.html)
+    1. [Research Question 1—Governance Practices](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_15.html#ch8_sub1)
+    1. [Research Question 2—Organizational Enablers](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_15.html#ch8_sub2)
+    1. [Research Question 3—Evolution of Governance and Governmentality](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_15.html#ch8_sub3)
+1. [Appendix](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_16.html)
+    1. [Appendix A1: Case Study Protocol](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_16.html#app1)
+    1. [Appendix A2: Enablers for Project Governance](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_17.html)
+    1. [Appendix A3: Interview Questions—Study 4](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_18.html)
+    1. [Appendix A4: Summary of Governance in the Small Swedish Company](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_19.html)
+    1. [Appendix A5: Summary of Governance in the Medium-Sized Swedish Company](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_20.html)
+    1. [Appendix A6: Summary of Governance in the Large Swedish Company](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_21.html)
+    1. [Appendix A7: Summary of Governance in the Small Chinese Company](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_22.html)
+    1. [Appendix A8: Summary of Governance in the Medium-Sized Chinese Company](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_23.html)
+    1. [Appendix A9: Summary of Governance in the Large Chinese Company](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_24.html)
+    1. [Appendix A10: Commonalities and Differences among the Case Companies](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_25.html)
+    1. [Appendix A11: Descriptive Statistics](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_26.html)
+    1. [Appendix A12: Demographic Differences](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_27.html)
+    1. [Appendix A13: Differences by Governance and Corporate Success](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_28.html)
+    1. [Appendix A14: Governance Profiles by Success Type](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_29.html)
+1. [References](https://ebookreading.net/view/book/Organizational+Enablers+for+Project+Governance-EB9781628251111_30.html)

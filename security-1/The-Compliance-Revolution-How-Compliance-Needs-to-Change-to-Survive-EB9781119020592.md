@@ -1,0 +1,147 @@
+![Cover image for The Compliance Revolution: How Compliance Needs to Change to Survive](https://imgdetail.ebookreading.net/cover/cover/security/EB9781119020592.jpg)
+
+[The Compliance Revolution: How Compliance Needs to Change to Survive](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_1.html "The Compliance Revolution: How Compliance Needs to Change to Survive")
+====================================================================================================================
+
+Author : [David Jackman](https://ebookreading.net/search/author/David+Jackman)
+
+Release Date : 2015/08/01
+
+ISBN : 9781119020592
+
+Topic : [Security](https://ebookreading.net/search/category/security)
+
+Book Description
+-----------------
+
+ The Compliance Revolution—Practical, Powerful Changes for Strategic Organizational Value
+Compliance is absolutely critical in creating a robust and resilient organization, one which is trusted by clients and contributes to market stability. Firms must approach compliance differently in order to meet these standards. Written for compliance staff, regulatory organizations, and senior management, The Compliance Revolution explains how key changes in compliance affect underlying principles, practices, roles, expectations and values. This valuable resource for global practitioners assists in navigating compliance requirements and implementing solid protection for a sound organization.
+Author David Jackman presents a coherent model for understanding and applying key developments in regulation and compliance. While the model is based on financial services, it can be applied to any sector and industry. It identifies five critical compliance components: Start-up, crises, expansion, sustainability, and outcomes-led focus.
+You will also discover:
+Why compliance is worth spending money on
+What your firm could and should be doing differently
+The importance of ethics in compliance and regulatory challenges
+How to create a pro-compliance culture
+Ten principles of good governance and why good governance matters
+How to employ judgment-based compliance
+The features and benefits of corporate maturity
+The Compliance Revolution is a crucial asset for all those with stakes in compliance—board members, compliance managers, and employees. David Jackman outlines key compliance challenges and reveals the practical tools and techniques required for successful practice. The insight, examples, and strategies in this comprehensive guidebook will help you and your organization achieve increasingly efficient, substantially more effective compliance procedures and practices.
+        Show and hide more                
+Table of Contents
+-----------------
+
+1. [Title Page](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_4.html#titlepage)
+1. [Copyright](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_5.html#f1)
+1. [Dedication](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_6.html#f2)
+1. [Preface](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_7.html#f3)
+1. [Acknowledgments](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_8.html#f4)
+1. [About the Author](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_9.html#f5)
+1. [Part One: Theory](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_10.html#p1)
+    1. [Chapter 1: New Compliance](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_11.html#c1)
+        1. [The Challenge](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_11.html#c01_level1_1)
+        1. [Turning Point](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_11.html#c01_level1_2)
+        1. [Traditional Compliance](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_11.html#c01_level1_3)
+        1. [New Compliance](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_11.html#c01_level1_4)
+        1. [Shared Journey](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_11.html#c01_level1_5)
+    1. [Chapter 2: General Model of Regulatory and Compliance Development](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_12.html#c2)
+        1. [Introduction to Development Models](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_12.html#c02_level1_1)
+        1. [General Model of Regulatory and Compliance Development](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_12.html#c02_level1_2)
+        1. [International Comparisons](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_12.html#c02_level1_3)
+        1. [Example of the UK](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_12.html#c02_level1_4)
+        1. [Using Regulatory Toolkits](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_12.html#c02_level1_5)
+        1. [Conclusion](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_12.html#c02_level1_6)
+        1. [Endnote](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_12.html#c02_level1_7)
+    1. [Chapter 3: Is Compliance Worth the Money?](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_13.html#c3)
+        1. [An Unfortunate Unconformity](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_13.html#c03_level1_1)
+        1. [The 2008 Global Financial Crisis](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_13.html#c03_level1_2)
+        1. [Legacy of Failure](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_13.html#c03_level1_3)
+        1. [Post-2008](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_13.html#c03_level1_4)
+        1. [Increasing Compliance Spend](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_13.html#c03_level1_5)
+        1. [A Line in the Sand](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_13.html#c03_level1_6)
+        1. [Future Challenges](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_13.html#c03_level1_7)
+        1. [Conclusion](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_13.html#c03_level1_8)
+        1. [Endnotes](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_13.html#c03_level1_9)
+1. [Part Two: Practice](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_14.html#p2)
+    1. [Chapter 4: Ethics](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_15.html#c4)
+        1. [Definitions](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_15.html#c04_level1_1)
+        1. [Ethics in Regulation and Compliance](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_15.html#c04_level1_2)
+        1. [An Ethical Framework for Financial Services](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_15.html#c04_level1_3)
+        1. [Ethics in Business](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_15.html#c04_level1_4)
+        1. [How Should a Compliance Practitioner Approach Ethics?](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_15.html#c04_level1_5)
+        1. [Ethics at Work versus Ethics at Home](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_15.html#c04_level1_6)
+        1. [Steps Towards Developing Ethics](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_15.html#c04_level1_7)
+        1. [Main Tools for Identifying and Applying Corporate Ethics](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_15.html#c04_level1_8)
+        1. [Three Critical Steps in Establishing Ethics](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_15.html#c04_level1_9)
+        1. [Ethics in Regulation](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_15.html#c04_level1_10)
+        1. [Principles and Ethics](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_15.html#c04_level1_11)
+        1. [Advantages and Disadvantages of Principles](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_15.html#c04_level1_12)
+        1. [Principles-Based Regulation](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_15.html#c04_level1_13)
+        1. [Conclusion](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_15.html#c04_level1_14)
+        1. [Endnotes](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_15.html#c04_level1_15)
+    1. [Chapter 5: Culture](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_16.html#c5)
+        1. [Pro-Compliance Culture](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_16.html#c05_level1_1)
+        1. [What Is Culture?](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_16.html#c05_level1_2)
+        1. [What Is a Values-Led Mind-Set?](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_16.html#c05_level1_3)
+        1. [Changing and Embedding Culture](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_16.html#c05_level1_4)
+        1. [How to Change Culture](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_16.html#c05_level1_5)
+        1. [Creating Crucibles in Regulation—Examples](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_16.html#c05_level1_6)
+        1. [Regulatory Methodologies](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_16.html#c05_level1_7)
+        1. [UK Indicators](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_16.html#c05_level1_8)
+        1. [Fair Dealing in Singapore](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_16.html#c05_level1_9)
+        1. [Measuring Culture](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_16.html#c05_level1_10)
+        1. [Conclusion](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_16.html#c05_level1_11)
+        1. [Endnotes](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_16.html#c05_level1_12)
+    1. [Chapter 6: Good Governance](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_17.html#c6)
+        1. [Why Does Governance Matter?](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_17.html#c06_level1_1)
+        1. [What Is Corporate Governance?](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_17.html#c06_level1_2)
+        1. [A Model of Good Governance](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_17.html#c06_level1_3)
+        1. [Ten Principles of Good Governance](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_17.html#c06_level1_4)
+        1. [Conclusion](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_17.html#c06_level1_5)
+        1. [Review: The State of Corporate Governance](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_17.html#c06_level1_6)
+        1. [Endnotes](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_17.html#c06_level1_7)
+    1. [Chapter 7: Outcomes](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_18.html#c7)
+        1. [Why Is This Step Up So Significant?](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_18.html#c07_level1_1)
+        1. [What Is Outcome?](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_18.html#c07_level1_2)
+        1. [Why Is Outcome So Important?](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_18.html#c07_level1_3)
+        1. [Development Matrix](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_18.html#c07_level1_4)
+        1. [Outcomes in Singapore Regulation](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_18.html#c07_level1_5)
+        1. [Outcomes and Enforcement](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_18.html#c07_level1_6)
+        1. [Conclusion](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_18.html#c07_level1_7)
+        1. [Endnotes](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_18.html#c07_level1_8)
+1. [Part Three: Purpose](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_19.html#p3)
+    1. [Chapter 8: Community](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_20.html#c8)
+        1. [Importance of Community](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_20.html#c08_level1_1)
+        1. [Role of Companies](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_20.html#c08_level1_2)
+        1. [Social Usefulness of Banks](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_20.html#c08_level1_3)
+        1. [Role of Compliance](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_20.html#c08_level1_4)
+        1. [Definition of Community](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_20.html#c08_level1_5)
+        1. [Community Principles](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_20.html#c08_level1_6)
+        1. [Sustainable Communities Principles—What Do They Mean?](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_20.html#c08_level1_7)
+        1. [Development Matrix](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_20.html#c08_level1_8)
+        1. [Corporate Social Responsibility](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_20.html#c08_level1_9)
+        1. [New Reporting Standards](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_20.html#c08_level1_10)
+        1. [Behavioural Economics](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_20.html#c08_level1_11)
+        1. [Vulnerable Consumers](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_20.html#c08_level1_12)
+        1. [Conclusion](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_20.html#c08_level1_13)
+        1. [Endnotes](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_20.html#c08_level1_14)
+    1. [Chapter 9: Corporate Faith](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_21.html#c9)
+        1. [What Is Corporate Faith?](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_21.html#c09_level1_1)
+        1. [Managing Corporate Faith](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_21.html#c09_level1_2)
+        1. [The Value of Corporate Faith](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_21.html#c09_level1_3)
+        1. [Dimensions of Corporate Faith](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_21.html#c09_level1_4)
+        1. [How Faith Develops](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_21.html#c09_level1_5)
+        1. [Corporate Faith into Practice](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_21.html#c09_level1_6)
+        1. [Professionalism](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_21.html#c09_level1_7)
+        1. [Judgment-Based Compliance](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_21.html#c09_level1_8)
+        1. [Conclusion](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_21.html#c09_level1_9)
+    1. [Chapter 10: Corporate Maturity](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_22.html#c10)
+        1. [What Is Maturity?](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_22.html#c010_level1_1)
+        1. [Maturity and a Direction of Travel](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_22.html#c010_level1_2)
+        1. [Unconditionality](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_22.html#c010_level1_3)
+        1. [The Underlying Process](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_22.html#c010_level1_4)
+        1. [Corporate Maturity Framework](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_22.html#c010_level1_5)
+        1. [Cavitation](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_22.html#c010_level1_6)
+        1. [Connecting the Five Stages of Development with the Five Levels of Maturity](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_22.html#c010_level1_7)
+        1. [Conclusion](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_22.html#c010_level1_8)
+    1. [Index](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_23.html)
+1. [End User License Agreement](https://ebookreading.net/view/book/The+Compliance+Revolution%3A+How+Compliance+Needs+to+Change+to+Survive-EB9781119020592_24.html)

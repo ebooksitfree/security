@@ -1,0 +1,177 @@
+![Cover image for CompTIA Security+ Study Guide: SY0-401, 6th Edition](https://imgdetail.ebookreading.net/cover/cover/security/EB9781118875070.jpg)
+
+[CompTIA Security+ Study Guide: SY0-401, 6th Edition](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_1.html "CompTIA Security+ Study Guide: SY0-401, 6th Edition")
+====================================================================================================================
+
+Author : [Chuck Easttom](https://ebookreading.net/search/author/Chuck+Easttom),[ Emmett Dulaney](https://ebookreading.net/search/author/+Emmett+Dulaney)
+
+Release Date : 2014/05/01
+
+ISBN : 9781118875070
+
+Topic : [Security](https://ebookreading.net/search/category/security)
+
+Book Description
+-----------------
+
+Join over 250,000 IT professionals who've earned Security+ certification
+If you're an IT professional hoping to progress in your career, then you know that the CompTIA Security+ exam is one of the most valuable certifications available. Since its introduction in 2002, over a quarter million professionals have achieved Security+ certification, itself a springboard to prestigious certifications like the CASP, CISSP, and CISA. The CompTIA Security+ Study Guide: SY0-401 covers 100% of the Security+ exam objectives, with clear and concise information on crucial security topics.
+You'll find everything you need to prepare for the 2014 version of the Security+ certification exam, including insight from industry experts on a wide range of IT security topics. Readers also get access to a robust set of learning tools, featuring electronic flashcards, assessment tests, robust practice test environment, with hundreds of practice questions, and electronic flashcards.
+CompTIA authorized and endorsed
+Includes updates covering the latest changes to the exam, including better preparation for real-world applications
+Covers key topics like network security, compliance and operational security, threats and vulnerabilities, access control and identity management, and cryptography
+Employs practical examples and insights to provide real-world context from two leading certification experts
+Provides the necessary tools to take that first important step toward advanced security certs like CASP, CISSP, and CISA, in addition to satisfying the DoD's 8570 directive
+If you're serious about jump-starting your security career, you need the kind of thorough preparation included in the CompTIA Security+ Study Guide: SY0-401.
+              Join over 250,000 IT professionals who've earned Security+ certification
+If you're an IT professional hoping to progress in your career, then you know that the CompTIA Security+ exam is one of the most valuable certifications available. Since its introduction in 2002, over a quarter million professionals have achieved Security+ certification, itself a springboard to prestigious certifications like the CASP, CISSP, and CISA. The CompTIA Security+ Study Guide: SY0-401 covers 100% of the Security+ exam objectives, with clear and concise information on crucial security topics.
+You'll find everything you need to prepare for the 2014 version of the Security+ certification exam, including insight from industry experts on a wide range of IT security topics. Readers also get access to a robust set of learning tools, featuring electronic flashcards, assessment tests, robust practice test environment, with hundreds of practice questions, and electronic flashcards.
+CompTIA authorized and endorsed
+Includes updates covering the latest changes to the exam, including better preparation for real-world applications
+Covers key topics like network security, compliance and operational security, threats and vulnerabilities, access control and identity management, and cryptography
+Employs practical examples and insights to provide real-world context from two leading certification experts
+Provides the necessary tools to take that first important step toward advanced security certs like CASP, CISSP, and CISA, in addition to satisfying the DoD's 8570 directive
+If you're serious about jump-starting your security career, you need the kind of thorough preparation included in the CompTIA Security+ Study Guide: SY0-401.
+              
+Table of Contents
+-----------------
+
+1. [Cover Page](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_1.html)
+1. [Title Page](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_2.html)
+1. [Copyright](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_3.html)
+1. [Front Matter](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_4.html)
+1. [Dedication](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_5.html)
+1. [About the Authors](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_6.html#about)
+1. [Acknowledgments](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_7.html)
+1. [Contents at a Glance](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_8.html#contents)
+1. [Contents](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_9.html)
+1. [Table of Exercises](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_10.html#table)
+1. [Foreword](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_11.html)
+1. [Introduction](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_12.html#intro)
+    1. [Exam SY0-401 Exam Objectives](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_12.html#intro-sec010)
+    1. [Assessment Test](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_12.html#intro-sec012)
+    1. [Answers to Assessment Test](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_12.html#intro-sec013)
+1. [Chapter 1: Measuring and Weighing Risk](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_13.html#ch01)
+    1. [Risk Assessment](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_13.html#ch001-sec001)
+    1. [Developing Policies, Standards, and Guidelines](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_13.html#ch001-sec009)
+    1. [Summary](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_13.html#ch001-sec034)
+    1. [Exam Essentials](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_13.html#ch001-sec035)
+    1. [Review Questions](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_13.html#ch001-sec036)
+1. [Chapter 2: Monitoring and Diagnosing Networks](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_14.html#ch02)
+    1. [Monitoring Networks](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_14.html#ch002-sec001)
+    1. [Understanding Hardening](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_14.html#ch002-sec004)
+    1. [Securing the Network](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_14.html#ch002-sec011)
+    1. [Security Posture](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_14.html#ch002-sec012)
+    1. [Reporting Security Issues](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_14.html#ch002-sec016)
+    1. [Differentiating between Detection Controls and Prevention Controls](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_14.html#ch002-sec020)
+    1. [Summary](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_14.html#ch002-sec021)
+    1. [Exam Essentials](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_14.html#ch002-sec022)
+    1. [Review Questions](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_14.html#ch002-sec023)
+1. [Chapter 3: Understanding Devices and Infrastructure](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_15.html#ch03)
+    1. [Mastering TCP/IP](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_15.html#ch003-sec001)
+    1. [Designing a Secure Network](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_15.html#ch003-sec015)
+    1. [Understanding the Various Network Infrastructure Devices](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_15.html#ch003-sec023)
+    1. [Summary](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_15.html#ch003-sec050)
+    1. [Exam Essentials](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_15.html#ch003-sec051)
+    1. [Review Questions](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_15.html#ch003-sec052)
+1. [Chapter 4: Access Control, Authentication, and Authorization](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_16.html#ch04)
+    1. [Understanding Access Control Basics](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_16.html#ch004-sec001)
+    1. [Understanding Remote Access Connectivity](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_16.html#ch004-sec021)
+    1. [Understanding Authentication Services](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_16.html#ch004-sec028)
+    1. [Understanding Access Control](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_16.html#ch004-sec032)
+    1. [Implementing Access Controlling Best Practices](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_16.html#ch004-sec037)
+    1. [Summary](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_16.html#ch004-sec055)
+    1. [Exam Essentials](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_16.html#ch004-sec056)
+    1. [Review Questions](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_16.html#ch004-sec057)
+1. [Chapter 5: Protecting Wireless Networks](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_18.html#ch05)
+    1. [Working with Wireless Systems](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_18.html#ch005-sec001)
+    1. [Understanding Wireless Devices](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_18.html#ch005-sec008)
+    1. [Wireless Vulnerabilities to Know](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_18.html#ch005-sec018)
+    1. [Summary](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_18.html#ch005-sec020)
+    1. [Exam Essentials](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_18.html#ch005-sec021)
+    1. [Review Questions](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_18.html#ch005-sec022)
+1. [Chatper 6: Securing the Cloud](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_19.html#ch06)
+    1. [Working with Cloud Computing](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_19.html#ch006-sec001)
+    1. [Working with Virtualization](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_19.html#ch006-sec009)
+    1. [Security and the Cloud](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_19.html#ch006-sec015)
+    1. [Summary](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_19.html#ch006-sec017)
+    1. [Exam Essentials](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_19.html#ch006-sec018)
+    1. [Review Questions](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_19.html#ch006-sec019)
+1. [Chapter 7: Host, Data, and Application Security](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_20.html#ch07)
+    1. [Application Hardening](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_20.html#ch007-sec002)
+    1. [Application Configuration Baselining](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_20.html#ch007-sec011)
+    1. [Host Security](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_20.html#ch007-sec014)
+    1. [Host Software Baselining](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_20.html#ch007-sec018)
+    1. [Hardening Web Servers](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_20.html#ch007-sec019)
+    1. [Protecting Data Through Fault Tolerance](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_20.html#ch007-sec024)
+    1. [Application Security](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_20.html#ch007-sec028)
+    1. [Best Practices for Security](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_20.html#ch007-sec029)
+    1. [Summary](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_20.html#ch007-sec032)
+    1. [Exam Essentials](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_20.html#ch007-sec033)
+    1. [Review Questions](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_20.html#ch007-sec034)
+1. [Chapter 8: Cryptography](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_0.html#ch08)
+    1. [An Overview of Cryptography](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_0.html#ch008-sec002)
+    1. [Modern Cryptography](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_0.html#ch008-sec010)
+    1. [What Cryptography Should You Use?](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_0.html#ch008-sec014)
+    1. [Understanding Quantum Cryptography](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_0.html#ch008-sec018)
+    1. [Using Cryptographic Systems](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_0.html#ch008-sec021)
+    1. [Understanding Cryptography Standards and Protocols](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_0.html#ch008-sec028)
+    1. [Using Public-Key Infrastructure](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_0.html#ch008-sec054)
+    1. [Summary](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_0.html#ch008-sec069)
+    1. [Exam Essentials](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_0.html#ch008-sec070)
+    1. [Review Questions](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_0.html#ch008-sec071)
+1. [Chapter 9: Malware, Vulnerabilities, and Threats](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_21.html#ch09)
+    1. [Understanding Malware](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_21.html#ch009-sec001)
+    1. [Surviving Viruses](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_21.html#ch009-sec002)
+    1. [Understanding Various Types of Attacks](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_21.html#ch009-sec008)
+    1. [Identifying Types of Application Attacks](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_21.html#ch009-sec024)
+    1. [Tools for Finding Threats](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_21.html#ch009-sec039)
+    1. [Summary](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_21.html#ch009-sec053)
+    1. [Exam Essentials](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_21.html#ch009-sec054)
+    1. [Review Questions](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_21.html#ch009-sec055)
+1. [Chapter 10: Social Engineering and Other Foes](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_22.html#ch10)
+    1. [Understanding Social Engineering](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_22.html#ch010-sec001)
+    1. [Understanding Physical Security](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_22.html#ch010-sec006)
+    1. [Environmental Controls](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_22.html#ch010-sec021)
+    1. [Control Types](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_22.html#ch010-sec030)
+    1. [Data Policies](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_22.html#ch010-sec032)
+    1. [Summary](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_22.html#ch010-sec039)
+    1. [Exam Essentials](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_22.html#ch010-sec040)
+    1. [Review Questions](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_22.html#ch010-sec041)
+1. [Chatper 11: Security Administration](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_23.html#ch11)
+    1. [Third-Party Integration](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_23.html#ch011-sec001)
+    1. [Understanding Security Awareness and Training](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_23.html#ch011-sec004)
+    1. [Classifying Information](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_23.html#ch011-sec009)
+    1. [Information Access Controls](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_23.html#ch011-sec016)
+    1. [Complying with Privacy and Security Regulations](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_23.html#ch011-sec018)
+    1. [Mobile Devices](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_23.html#ch011-sec028)
+    1. [Alternative Methods to Mitigate Security Risks](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_23.html#ch011-sec030)
+    1. [Summary](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_23.html#ch011-sec031)
+    1. [Exam Essentials](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_23.html#ch011-sec032)
+    1. [Review Questions](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_23.html#ch011-sec033)
+1. [Chapter 12: Disaster Recovery and Incident Response](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_24.html#ch12)
+    1. [Issues Associated with Business Continuity](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_24.html#ch012-sec001)
+    1. [Reinforcing Vendor Support](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_24.html#ch012-sec020)
+    1. [Penetration Testing](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_24.html#ch012-sec023)
+    1. [Summary](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_24.html#ch012-sec027)
+    1. [Exam Essentials](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_24.html#ch012-sec028)
+    1. [Review Questions](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_24.html#ch012-sec029)
+1. [Appendix A: Answers to Review Questions](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_25.html#appa)
+    1. [Chapter 1 : Measuring and Weighing Risk](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_25.html#appa-sec001)
+    1. [Chapter 2 : Monitoring and Diagnosing Networks](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_25.html#appa-sec002)
+    1. [Chapter 3 : Understanding Devices and Infrastructure](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_25.html#appa-sec003)
+    1. [Chapter 4 : Access Control, Authentication, and Authorization](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_25.html#appa-sec004)
+    1. [Chapter 5 : Protecting Wireless Networks](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_25.html#appa-sec005)
+    1. [Chapter 6 : Securing the Cloud](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_25.html#appa-sec006)
+    1. [Chapter 7 : Host, Data, and Application Security](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_25.html#appa-sec007)
+    1. [Chapter 8 : Cryptography](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_25.html#appa-sec008)
+    1. [Chapter 9 : Malware, Vulnerabilities, and Threats](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_25.html#appa-sec009)
+    1. [Chapter 10 : Social Engineering and Other Foes](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_25.html#appa-sec010)
+    1. [Chapter 11 : Security Administration](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_25.html#appa-sec011)
+    1. [Chapter 12 : Disaster Recovery and Incident Response](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_25.html#appa-sec012)
+1. [Appendix B: About the Additional Study Tools](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_26.html#appb)
+    1. [Additional Study Tools](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_26.html#appb-sec001)
+    1. [System Requirements](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_26.html#appb-sec006)
+    1. [Using the Study Tools](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_26.html#appb-sec007)
+    1. [Troubleshooting](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_26.html#appb-sec008)
+1. [Index](https://ebookreading.net/view/book/CompTIA+Security%2B+Study+Guide%3A+SY0-401%2C+6th+Edition-EB9781118875070_27.html#index)
